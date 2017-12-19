@@ -9,7 +9,7 @@ title = "Life @ Madhusthali"
 +++
 ### CULTURE
 
-<img class="" alt="" src="/images/lifeatmadhusthali1.jpg" />
+![](/images/prayer.jpg)
 
 Madhusthali makes sure that the students get enriched with Indian culture. For this we have weekly hobby classes. These classes are specially allotted for the students, are crafted in a manner that the students get informed about Indian as well as western forms of art and culture. From painting to literature to cultural values, students are taught everything from India as well as the world over. This helps them to increase their knowledge about the world and the country they live in. A cultural event is also held once in every month. Students showcase their talent during this event. At the end of the term, Madhusthali organizes a cultural evening where the parents are also invited to witness the talent of their children.
 
