@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Madhusthali Vidyapeeth</title>
+    <link>http://139.59.37.116/madhusthali/events/</link>
+    <description>Recent content in Events on Madhusthali Vidyapeeth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2017 08:43:51 +0530</lastBuildDate>
+    
+	<atom:link href="http://139.59.37.116/madhusthali/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Event</title>
+      <link>http://139.59.37.116/madhusthali/events/test-event/</link>
+      <pubDate>Sat, 16 Dec 2017 08:43:51 +0530</pubDate>
+      
+      <guid>http://139.59.37.116/madhusthali/events/test-event/</guid>
+      <description>Aliquet porttitor lacus, luctus accumsan tortor posuere ac ut consequat semper viverra nam libero justo? Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur a erat nam at lectus urna duis convallis convallis tellus, id interdum velit laoreet. Blandit cursus risus, at ultrices? Ac odio tempor orci dapibus ultrices in iaculis nunc sed augue lacus, viverra vitae congue eu, consequat ac felis donec?</description>
+    </item>
+    
+    <item>
+      <title>Founders Day</title>
+      <link>http://139.59.37.116/madhusthali/events/founders-day/</link>
+      <pubDate>Fri, 15 Dec 2017 19:21:36 +0530</pubDate>
+      
+      <guid>http://139.59.37.116/madhusthali/events/founders-day/</guid>
+      <description>Amet cursus sit amet, dictum sit amet justo donec enim diam, vulputate ut pharetra sit amet, aliquam id diam maecenas.
+Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur! Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et.</description>
+    </item>
+    
+  </channel>
+</rss>

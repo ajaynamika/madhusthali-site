@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Madhusthali Vidyapeeth</title>
+    <link>http://139.59.37.116/madhusthali/gallery/</link>
+    <description>Recent content in Galleries on Madhusthali Vidyapeeth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 07:13:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://139.59.37.116/madhusthali/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Gallery with Forestry</title>
+      <link>http://139.59.37.116/madhusthali/gallery/test-gallary-with-forestry/</link>
+      <pubDate>Sun, 10 Dec 2017 07:13:17 +0000</pubDate>
+      
+      <guid>http://139.59.37.116/madhusthali/gallery/test-gallary-with-forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screenshots</title>
+      <link>http://139.59.37.116/madhusthali/gallery/screenshots/</link>
+      <pubDate>Fri, 08 Dec 2017 12:43:29 +0530</pubDate>
+      
+      <guid>http://139.59.37.116/madhusthali/gallery/screenshots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
