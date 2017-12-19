@@ -3,7 +3,7 @@ title: School Uniform
 date: 2017-12-04 16:06:42 +0530
 keywords: ''
 description: ''
-banner: "/images/school.jpg"
+banner: "/uploads/2017/12/19/IMG_2817.jpg"
 
 ---
 ### SCHOOL UNIFORM FOR BOYS (IN SUMMER):
