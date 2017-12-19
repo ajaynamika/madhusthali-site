@@ -23,8 +23,6 @@ an participate in extra curricular activities with the four Houses as basic unit
 
 ### SECONDARY CURRICULUM
 
-<img class="box-image" alt="" src="/images/curriculum2.jpg" />
-
 Indian Certificate of Secondary Education<br>
 The school follows the ICSE curriculum. Apart from strengthening a students’ education base the syllabi hones
 the students’ capacity to reason, judge, evaluate and decide. There are well equipped labs, computer rooms &
