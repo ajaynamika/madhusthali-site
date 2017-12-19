@@ -6,6 +6,5 @@ images = ["/uploads/2017/12/19/IMG_2871.jpg", "/uploads/2017/12/19/IMG_2912.jpg"
 keywords = ""
 tags = []
 title = "Image Gallery"
-type = ""
 
 +++
