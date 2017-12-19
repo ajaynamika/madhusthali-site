@@ -1,0 +1,109 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<div class="flex items-start items-stretch flex-wrap px2 md-px4 pt4">
+  <article class="col-12 md-col-12 pl0 mb4">
+    <div class="bg-white rounded">
+      <header class=" mb2 px2 md-px4 pb2 pt3">
+        <h1 class="mt0 navy border-left border-red pl2" style="border-width:5px;">
+          {{ .Title }}
+        </h1>
+      </header>
+      {{ $banner := .Param "banner" }}
+      {{ if $banner }}
+      {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+      {{ $banner := (trim $banner "/") | absURL }}
+      <div class="twentyone-nine"><div class="content" style="background-image: url({{$banner}})"></div></div>
+      {{ end }}
+      <div class="flex items-center items-stretch">
+        <div class="col-12 md-col-6 py2 px2 md-px4 bg-yellow black">
+          <h3 class="black">{{.Params.name}}</h3>
+          <div class="flex items-start mb1">
+            <i class="material-icons mr1 olive">place</i>
+            <address style="font-style:normal">{{.Params.address | markdownify}}</address>
+          </div>
+          <div class="flex items-start mb1">
+            <i class="material-icons mr1 olive">phone</i>
+            <address style="font-style:normal">{{.Params.phone_no}}</address>
+          </div>
+          <div class="flex items-start mb1">
+            <i class="material-icons mr1 olive">mail</i>
+            <address style="font-style:normal"><a href="mailto:{{.Params.email}}" class="blue text-decoration-none">{{.Params.email}}</a></address>
+          </div>
+        </div>
+        <div class="col-12 md-col-6 bg-green py2 px2 md-px4">
+          <form action="">
+            <h3 class="black">Enquiry Form</h3>
+            <div class="bg-navy mb2" style="height:5px;"></div>
+            <div class="flex items-start mxn1 flex-wrap">
+              <div class="px1 col-12">
+                <input name="name" type="text" placeholder="Name" class="input"/>
+              </div>
+              <div class="px1 col-12 sm-col-6">
+                <input name="name" type="text" placeholder="Mobile" class="input"/>
+              </div>
+              <div class="px1 col-12 sm-col-6">
+                <input name="name" type="text" placeholder="Email" class="input"/>
+              </div>
+              <div class="px1 col-12">
+                <textarea name="name" rows="2" placeholder="Message" class="textarea"></textarea>
+              </div>
+              <div class="px1 col-12 right-align">
+                <button type="submit" class="border-none bg-yellow navy p1 rounded h4 caps bold">Submit</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="px2 md-px4 pb4 pt2 h4">
+        {{ .Content }}
+      </div>
+      <div class="px2 md-px4 rounded bg-white" id="map-canvas" style="height:300px"></div>
+    </div>
+  </article>
+</div>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOp_b26dWumYiB9Pc3EwrC-FEPP2CkgGk"></script>
+<script>
+ function initialize() {
+   var gmc = {{.Params.google_map_coordinates}}
+   var myLatlng = new google.maps.LatLng(gmc.split(",")[0], gmc.split(",")[1]);
+   var mapOptions = {
+     center: myLatlng,
+     zoom: 14,
+     scrollwheel: false,
+     styles: [{
+       featureType: 'all',
+       stylers: [{
+         hue: '#3d9970'
+       },
+                 {
+                   saturation: 70
+                 }
+       ]
+     }, {
+       featureType: 'road.arterial',
+       elementType: 'geometry',
+       stylers: [{
+         hue: '#0d2d62'
+       },
+                 {
+                   saturation: 90
+                 }
+       ]
+     }, {
+       featureType: 'poi.business',
+       elementType: 'labels',
+       stylers: [{
+         visibility: 'off'
+       }]
+     }]
+   };
+   var map = new google.maps.Map(document.getElementById('map-canvas'),
+                                 mapOptions);
+   var marker = new google.maps.Marker({
+     position: myLatlng,
+     map: map
+   });
+ }
+ google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+{{ end }}

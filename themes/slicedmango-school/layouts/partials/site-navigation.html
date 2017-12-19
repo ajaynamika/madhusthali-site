@@ -1,0 +1,39 @@
+<nav class="flex items-center px2 md-px4" role="navigation">
+  <div class="mr1">
+    <a href="{{ .Site.BaseURL }}" class="">
+      <img alt="" src="{{(trim .Site.Params.logo "/") | absURL }}" style="height:50px;"/>
+    </a>
+  </div>
+  <div class="flex-auto">
+    <a href="{{ .Site.BaseURL }}" class="h3 text-decoration-none bold caps navy xs-hide" style="letter-spacing:2px;">
+      {{ .Site.Title }}
+      <div class="h6 olive caps" style="letter-spacing:1px; margin-top:-.25em;">A co-ed residential school, affiliated to the  CISCE for the ICSE and ISC examinations.</div>
+    </a>
+  </div>
+  <div class="border border-navy p1 flex items-center h6 bold caps rounded navy menu-button" onclick="toggle_main_menu()">
+    <div class="mr1">
+      Menu
+    </div>
+    <i class="material-icons">menu</i>
+  </div>
+  <div class="menu-overlay flex flex-column justify-center hidden" onclick="toggle_main_menu()">
+    <div class="center white">
+      <i class="material-icons" style="font-size:2rem;">clear</i>
+    </div>
+    <div class="col-10 sm-col-7 md-col-3 mx-auto bg-white rounded px2 pt2 pb3 center">
+      <a href="{{ .Site.BaseURL }}" class="">
+        <img alt="" src="{{(trim .Site.Params.logo "/") | absURL }}" style="height:100px;"/>
+      </a>
+      <div>
+        <a href="{{.Site.BaseURL}}" class="border-bottom block h4 caps bold red text-decoration-none py1" style="border-color: rgba(255, 2, 2, 0.3)">Home</a>
+      </div>
+      {{ if .Site.Menus.main }}
+      {{ range .Site.Menus.main.ByWeight }}
+      <div>
+        <a href="{{.URL}}" class="border-bottom block h4 caps bold red text-decoration-none py1" style="border-color: rgba(255, 2, 2, 0.3)">{{.Name}}</a>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</nav>

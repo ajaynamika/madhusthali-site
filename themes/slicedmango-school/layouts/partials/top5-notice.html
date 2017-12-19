@@ -1,0 +1,12 @@
+<div class="pr0 md-pl3 mb3">
+  <div class="h3 mt0 mb2 border-bottom border-red pb1 caps bold navy" style="border-width:3px;">Notice</div>
+{{ $section := (where .Site.RegularPages "Section" "notice") }}
+{{ range first 5 $section }}
+<div>
+  <a href="{{.URL}}" class="sidelink">{{.Title}}</a>
+</div>
+{{end}}
+<div class= "mt2">
+  <a href="{{ with .Site.GetPage "section" "notice" }}{{ .URL}}{{ end }}" class="bg-olive p1 h6 rounded bold caps white h5 text-decoration-none">All Notices</a>
+</div>
+</div>

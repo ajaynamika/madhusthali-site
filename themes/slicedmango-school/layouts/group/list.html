@@ -1,0 +1,59 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<div class="flex items-start items-stretch flex-wrap px2 md-px4 pt4">
+  <article class="col-12 md-col-9 pl0 md-pr3 mb4">
+    <div class="bg-white rounded">
+      <header class=" mb2 px2 md-px4 pb2 pt3">
+        <h1 class="mt0 navy border-left border-red pl2" style="border-width:5px;">
+          {{ .Title }}
+        </h1>
+      </header>
+      {{ $banner := .Param "banner" }}
+      {{ if $banner }}
+      {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+      {{ $banner := (trim $banner "/") | absURL }}
+      <div class="twentyone-nine"><div class="content" style="background-image: url({{$banner}})"></div></div>
+      {{ end }}
+      <div class="px2 md-px4 pb4 pt2">
+        {{ .Content }}
+      </div>
+      <div class="px2 md-px4">
+        <div class="flex items-top justify-center mxn2 flex-wrap py3">
+          {{range $index, $element := .Params.relatedSchool}}
+          {{ if eq $index 0 }}
+          <div class="col-12 px2 center py2">
+            <div>
+              <a href="{{.link}}" target="_blank" class="mb1 text-decoration-none">
+                <img alt="" src="{{(trim $element.logo "/") | absURL }}" style="height:128px" />
+              </a>
+            </div>
+            <div>
+              <a href="{{$element.link}}" target="_blank" class="black h4 caps bold olive text-decoration-none" style="letter-spacing:0;">{{$element.name}}</a>
+            </div>
+          </div>
+          {{ else }}
+          <div class="col-6 md-col-4 px2 center py2">
+            <div>
+              <a href="{{.link}}" target="_blank" class="center mb1 text-decoration-none">
+                <img alt="" src="{{(trim $element.logo "/") | absURL }}" style="height:72px" />
+              </a>
+            </div>
+            <div>
+              <a href="{{$element.link}}" target="_blank" class="black h6 caps bold text-decoration-none" style="letter-spacing:0;">{{$element.name}}</a>
+            </div>
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </article>
+  <aside class="col-12 md-col-3">
+    {{ partial "menu-contextual.html" . }}
+    {{ partial "top5-news.html" . }}
+    {{ partial "top5-notice.html" . }}
+    {{ partial "top5-events.html" . }}
+  </aside>
+</div>
+{{ end }}
+

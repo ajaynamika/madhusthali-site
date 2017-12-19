@@ -1,0 +1,34 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<div class="flex items-start items-stretch flex-wrap px2 md-px4 pt4">
+  <article class="col-12 md-col-9 pl0 md-pr3 mb4">
+    <div class="bg-white rounded">
+      <header class=" mb2 px2 md-px4 py2">
+        <p class="h6 bold caps mb1">
+          <a href="{{ .Parent.URL }}" class="gray text-decoration-none">{{ humanize .Section | upper  }}</a>
+        </p>
+        <h1 class="mt0 navy border-left border-red pl2" style="border-width:5px;">
+          {{ .Title }}
+        </h1>
+      </header>
+      {{ $banner := .Param "banner" }}
+      {{ if $banner }}
+      {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+      {{ $banner := (trim $banner "/") | absURL }}
+      <div class="twentyone-nine"><div class="content" style="background-image: url({{$banner}})"></div></div>
+      {{ else }}
+      <div class="twentyone-nine"><div class="content" style="background-image: url({{(trim .Site.Params.banner "/") | absURL}})"></div></div>
+      {{ end }}
+      <div class="px2 md-px4 pb4 pt2 justify">
+        {{ .Content }}
+      </div>
+    </div>
+  </article>
+  <aside class="col-12 md-col-3 mb3">
+    {{ partial "menu-contextual.html" . }}
+    {{ partial "top5-news.html" . }}
+    {{ partial "top5-notice.html" . }}
+    {{ partial "top5-events.html" . }}
+  </aside>
+</div>
+{{ end }}

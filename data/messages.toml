@@ -1,0 +1,22 @@
+[[message]]
+        image = "/images/chairman.jpg"
+        name= "Chairman's Message"
+        text = """
+        Blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur a erat nam at lectus urna duis convallis convallis tellus, id? Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor.
+        """
+        link = "/about/chairmans-message"
+[[message]]
+        image = "/images/chairman.jpg"
+        name= "Managing Trustee's Message"
+        text = """
+        Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et? Laoreet sit amet cursus sit amet, dictum!
+        """
+        link = ""
+[[message]]
+        image = "/images/principal.png"
+        name= "Principal's Message"
+        text ="""
+        Et netus et malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi leo urna, molestie at elementum eu, facilisis sed odio morbi quis commodo. Massa, eget egestas purus viverra?
+        """
+        link = "/about/principals-message/"
+

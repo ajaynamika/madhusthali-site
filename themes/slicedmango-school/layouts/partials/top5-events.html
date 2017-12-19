@@ -1,0 +1,16 @@
+<div class="pr0 md-pl3 mb3">
+  <div class="h3 mt0 mb2 border-bottom border-red pb1 caps bold navy" style="border-width:3px;">Events</div>
+  {{ $section := (where .Site.RegularPages "Section" "events") }}
+  {{ range first 5 ($section.ByParam "start_date").Reverse }}
+  <div class="flex items-center py2 border-bottom border-silver">
+    <div class="mr1 bg-green rounded white px1 center">
+      <div class="h4 bold" style="padding:0.15em 0 0 0;">{{dateFormat "2" .Params.start_date }}</div>
+      <div class="h6 bold" style="padding:0 0 0.15em 0;">{{dateFormat "Jan" .Params.start_date }}</div>
+    </div>
+    <a href="{{.URL}}" class="block text-decoration-none black">{{.Title}}</a>
+  </div>
+  {{end}}
+  <div class= "mt2">
+    <a href="{{ with .Site.GetPage "section" "events" }}{{ .URL}}{{ end }}" class="bg-olive p1 h6 rounded bold caps white h5 text-decoration-none">All Events</a>
+  </div>
+</div>

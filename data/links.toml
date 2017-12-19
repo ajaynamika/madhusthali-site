@@ -1,0 +1,27 @@
+[[links]]
+        link = "/about/"
+        name = "About"
+        description = "Find out more about the shcool, our vision and our mission."
+        background = "red"
+        color = "white"
+
+[[links]]
+        link = "/academics/"
+        name = "Academics"
+        description = "Know more about the curriculum and beyond."
+        background = "orange"
+        color = "white"
+
+[[links]]
+        link = "/lifestyle/"
+        name = "Lifestyle"
+        description = "Get a glimpse of life at Madhusthali"
+        background = "maroon"
+        color = "white"
+
+[[links]]
+        link = "/gallery/"
+        name = "Gallery"
+        description = "Check out the pictures of the beautiful moments at Madhusthali"
+        background = "blue"
+        color = "white"
