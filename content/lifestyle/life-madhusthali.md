@@ -15,7 +15,7 @@ Madhusthali makes sure that the students get enriched with Indian culture. For t
 
 ### SPORTS
 
-<img class="" alt="" src="/images/lifeatmadhusthali2.jpg" />
+<img class="" alt="" src="/uploads/IMG_2830.jpg" />
 
 Students are always encouraged to take parts in sports activities. Madhusthali campus has a specially made sports area which has a basketball court, volleyball court, a swimming pool and a gym. Also the ground holds many sports activities such as football and cricket matches, horse riding, martial art, karate, etc. The ground is also used for sports competition. They get to learn the strategies of playing a game and also how to win it. This teaches them how to work in a team. The students thus become aware of their physical as well as mental fitness and also learn co-operation and team building. The Inter-House Annual sports and Athletic Meet and the ASISC Zonal Athletic Meet are held each year. These competitions help the children to get a feel of conventional competition thus encouraging them to push their way forward to face the demanding competition which lies ahead in life.
 
