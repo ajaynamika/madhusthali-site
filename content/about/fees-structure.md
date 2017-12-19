@@ -131,5 +131,3 @@ description: ''
 <td>Rs. 3225.00</td>
 </tr>
 </table>
-
-### **REGISTRATION FORM**
