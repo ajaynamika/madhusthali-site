@@ -1,0 +1,57 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: banner
+  label: Banner
+  type: file
+  hidden: false
+  default: "/images/default_banner.jpg"
+- name: relatedSchool
+  label: Relatedschool
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: logo
+    label: Logo
+    type: file
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default:
+  - name: School Name
+    logo: "/images/group.jpg"
+    link: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
