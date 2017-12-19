@@ -21,19 +21,13 @@ Students are always encouraged to take parts in sports activities. Madhusthali c
 
 ### ART
 
-<img class="" alt="" src="/images/lifeatmadhusthali3.jpg" />
-
 The Madhusthali campus by itself is a theatre to stimulate the student's imagination and sensitivity and tap their power of observation. Students are encouraged to express and communicate a range of ideas and feelings through the element of design using their artistic skills. <br>
 This enables them to realize the importance of expression and enrich their own individual experiences through this colourful medium.
 
 ### MUSIC
 
-<img class="" alt="" src="/images/lifeatmadhusthali4.jpg" />
-
 Madhusthali Vidyapeeth has specialist music teachers. All classes receive music learning sessions on a weekly basis. It also comes equipped with ever-growing number of musical instruments. The children enjoy music classes where their individual talents are nurtured and supported.
 
 ### SPIRITUALITY AND MORALITY
-
-<img class="" alt="" src="/images/lifeatmadhusthali5.jpg" />
 
 Regular yoga and meditation sessions are held at Madhusthali to make the students mentally & physically strong.
