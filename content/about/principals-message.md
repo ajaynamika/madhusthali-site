@@ -2,7 +2,6 @@
 banner = "/images/principal.png"
 date = "2017-12-04T15:37:10+05:30"
 description = ""
-draft = true
 keywords = ""
 layout = "message"
 tags = []
