@@ -1,12 +1,12 @@
 +++
-title =  "Life @ Madhusthali"
-date = 2017-12-06T13:38:51+05:30
-tags = []
-keywords = ""
-description = ""
 banner = ""
-+++
+date = "2017-12-06T13:38:51+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Life @ Madhusthali"
 
++++
 ### CULTURE
 
 <img class="" alt="" src="/images/lifeatmadhusthali1.jpg" />

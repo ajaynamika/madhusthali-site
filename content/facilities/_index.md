@@ -4,6 +4,8 @@ date = "2017-12-19T07:56:07+05:30"
 description = ""
 keywords = ""
 title = "Facilities"
+[menu.main]
+weight = 7
 
 +++
 ### School Infrastructure

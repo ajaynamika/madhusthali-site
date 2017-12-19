@@ -1,12 +1,12 @@
 +++
-title =  "Curriculum"
-date = 2017-12-05T17:33:32+05:30
-tags = []
-keywords = ""
-description = ""
 banner = "/images/curriculum.jpg"
-+++
+date = "2017-12-05T17:33:32+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Curriculum"
 
++++
 ### SCHOOL CURRICULUM
 
 <img class="box-image" alt="" src="/images/curriculum2.jpg" />

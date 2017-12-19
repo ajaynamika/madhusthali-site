@@ -1,12 +1,12 @@
 +++
-title =  "Daily Life"
-date = 2017-12-06T13:49:37+05:30
-tags = []
-keywords = ""
-description = ""
 banner = ""
-+++
+date = "2017-12-06T13:49:37+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Daily Life"
 
++++
 # BOARDING HOUSE SCHEDULE
 
 ### **SUMMER** (MONDAY TO FRIDAY)

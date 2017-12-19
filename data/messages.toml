@@ -1,22 +1,15 @@
 [[message]]
-        image = "/images/chairman.jpg"
-        name= "Chairman's Message"
-        text = """
-        Blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur a erat nam at lectus urna duis convallis convallis tellus, id? Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor.
-        """
-        link = "/about/chairmans-message"
+image = "/images/chairman.jpg"
+link = "/about/chairmans-message"
+name = "Chairman's Message"
+text = "        Blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur a erat nam at lectus urna duis convallis convallis tellus, id? Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor.\n        "
 [[message]]
-        image = "/images/chairman.jpg"
-        name= "Managing Trustee's Message"
-        text = """
-        Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et? Laoreet sit amet cursus sit amet, dictum!
-        """
-        link = ""
+image = "/images/chairman.jpg"
+link = ""
+name = "Managing Trustee's Message"
+text = "        Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et? Laoreet sit amet cursus sit amet, dictum!\n        "
 [[message]]
-        image = "/images/principal.png"
-        name= "Principal's Message"
-        text ="""
-        Et netus et malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi leo urna, molestie at elementum eu, facilisis sed odio morbi quis commodo. Massa, eget egestas purus viverra?
-        """
-        link = "/about/principals-message/"
-
+image = "/images/principal.png"
+link = "/about/principals-message/"
+name = "Principal's Message"
+text = "        Et netus et malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi leo urna, molestie at elementum eu, facilisis sed odio morbi quis commodo. Massa, eget egestas purus viverra?\n        "

@@ -1,12 +1,13 @@
 +++
-title = "Chairman's Message"
-date = 2017-12-04T15:37:10+05:30
-draft =  true
-tags = []
-keywords = ""
-description = ""
 banner = "/images/chairman.jpg"
+date = "2017-12-04T15:37:10+05:30"
+description = ""
+draft = true
+keywords = ""
 layout = "message"
+tags = []
+title = "Chairman's Message"
+
 +++
 Starting the struggle of life at a very early stage, I have traversed
 the tough road to success through myriad experiences and

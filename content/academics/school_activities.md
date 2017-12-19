@@ -1,12 +1,12 @@
 +++
-title =  "School Activities"
-date = 2017-12-05T18:57:18+05:30
-tags = []
-keywords = ""
-description = ""
 banner = "/images/activities.jpg"
-+++
+date = "2017-12-05T18:57:18+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "School Activities"
 
++++
 In keeping with the theory of Multiple Intelligence, every child has some latent talent of which she/he should be made aware. At Madhusthali students are encouraged to express their joy in living through their talents and interests. Art & craft, Music and Sports routine is compulsory. For Activity Classes, the students choose from a host of activities like Music (Western and Indian), art, crafts, debates, quizzes, dramatics, elocution, creative writing, community service, web designing, gardening, tree planting and Marshal art etc. The school organizes study tours. Different kinds of tours to places of historical, cultural and religious importance are organized. The excursions are thoroughly planned and supervised.
 All the activities focus on one's abilities to produce creative ideas that work! Numerous skills that cannot be taught in regular classes are dispersed through those activities. Since Madhusthali Vidyapeeth aims for an all round development of the child so its emphasis on Co-curricular activities is also immense. The Co-curricular activities carried on in the school as per calendar can be classified under the following four heads. 
 Activities incorporated to bring physical; motor; creative; spiritual, moral, ethical and patriotic development as elaborated below :-

@@ -1,12 +1,12 @@
 +++
-title =  "Special Occasion"
-date = 2017-12-06T11:14:26+05:30
-tags = []
-keywords = ""
-description = ""
 banner = "/images/foundation.jpg"
-+++
+date = "2017-12-06T11:14:26+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Special Occasion"
 
++++
 The school will gives special importance to the celebration of the important days and annual days, to inculcate the feeling of nationalism, love for Alma Mater and gratitude to parents among the students. 
 Special guidelines are set in advance and preparations start under the guidance of the teachers to celebrate these special days and rejuvenate the spirit and mind so that our culture is preserved and the students ensure the continuance of the cultural heritage of India.
 

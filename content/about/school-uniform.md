@@ -4,6 +4,7 @@ date: 2017-12-04 16:06:42 +0530
 keywords: ''
 description: ''
 banner: "/images/school.jpg"
+
 ---
 ### SCHOOL UNIFORM FOR BOYS (IN SUMMER):
 __NURSERY TO II__ : White on blue line Shirt, Blue Half Pant, School tie, school belt, black shoes & white socks.<br>

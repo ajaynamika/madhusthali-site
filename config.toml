@@ -1,94 +1,84 @@
 baseURL = "http://139.59.37.116/madhusthali/"
 languageCode = "en-us"
-title = "Madhusthali Vidyapeeth"
 theme = "slicedmango-school"
+title = "Madhusthali Vidyapeeth"
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 7
+[[menu.footer]]
+name = "Gallery"
+url = "/gallery/"
+weight = 6
+[[menu.footer]]
+name = "Lifestyle"
+url = "/about/"
+weight = 5
+[[menu.footer]]
+name = "Academics"
+url = "/academics/"
+weight = 4
+[[menu.footer]]
+name = "The Group"
+url = "/group/"
+weight = 3
+[[menu.footer]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 7
+[[menu.main]]
+name = "Gallery"
+url = "/gallery/"
+weight = 6
+[[menu.main]]
+name = "Lifestyle"
+url = "/lifestyle/"
+weight = 5
+[[menu.main]]
+name = "Academics"
+url = "/academics/"
+weight = 3
+[[menu.main]]
+name = "The Group"
+url = "/group/"
+weight = 2
 [params]
-        logo = "/images/logo.png"
-        testp = "Another Testing"
-        banner = "/images/default_banner.jpg"
-        [[params.relatedSchool]]
-                name = "MCKV Group of Institutions"
-                logo = "/images/group.jpg"
-                link = "http://mckvgroup.org"
-        [[params.relatedSchool]]
-                name = "MC Kejriwal Vidyapeeth"
-                logo = "/images/school.jpg"
-                link = "http://mckv.edu.in"
-        [[params.relatedSchool]]
-                name = "MCKV Institute of Engineering"
-                logo = "/images/college.jpg"
-                link = "http://mckvie.edu.in"
-        [[params.relatedSchool]]
-                name = "Madhusthali Institute of Teachers Training"
-                logo = "/images/mitt.jpg"
-                link = "http://mitt.in"
-        [[params.relatedSchool]]
-                name = "Madhusthali Institute of Paramedical Sciences"
-                logo = "/images/mips_main.png"
-                link = "http://mips-india.in"
-        [[params.relatedSchool]]
-                name = "MCKV Health & Medicare"
-                logo = "/images/mckvhealth.png"
-                link = "http://mckvhealth.com"
-[[menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 1
-
-[[menu.main]]
-        name = "The Group"
-        url = "/group/"
-        weight = 2
-
-[[menu.main]]
-        name = "Academics"
-        url = "/academics/"
-        weight = 3
-
-[[menu.main]]
-        name = "Lifestyle"
-        url = "/lifestyle/"
-        weight = 4
-
-[[menu.main]]
-        name = "Gallery"
-        url = "/gallery/"
-        weight = 5
-[[menu.main]]
-        name = "Contact"
-        url = "/contact/"
-        weight = 6
-
-[[menu.footer]]
-        name = "Home"
-        url = "/"
-        weight = 1
-        
-[[menu.footer]]
-        name = "About"
-        url = "/about/"
-        weight = 2
-
-[[menu.footer]]
-        name = "The Group"
-        url = "/group/"
-        weight = 3
-
-[[menu.footer]]
-        name = "Academics"
-        url = "/academics/"
-        weight = 4
-
-[[menu.footer]]
-        name = "Lifestyle"
-        url = "/about/"
-        weight = 5
-
-[[menu.footer]]
-        name = "Gallery"
-        url = "/gallery/"
-        weight = 6
-[[menu.footer]]
-        name = "Contact"
-        url = "/contact/"
-        weight = 7
+banner = "/images/default_banner.jpg"
+logo = "/images/logo.png"
+testp = "Another Testing"
+[[params.relatedschool]]
+link = "http://mckvgroup.org"
+logo = "/images/group.jpg"
+name = "MCKV Group of Institutions"
+[[params.relatedschool]]
+link = "http://mckv.edu.in"
+logo = "/images/school.jpg"
+name = "MC Kejriwal Vidyapeeth"
+[[params.relatedschool]]
+link = "http://mckvie.edu.in"
+logo = "/images/college.jpg"
+name = "MCKV Institute of Engineering"
+[[params.relatedschool]]
+link = "http://mitt.in"
+logo = "/images/mitt.jpg"
+name = "Madhusthali Institute of Teachers Training"
+[[params.relatedschool]]
+link = "http://mips-india.in"
+logo = "/images/mips_main.png"
+name = "Madhusthali Institute of Paramedical Sciences"
+[[params.relatedschool]]
+link = "http://mckvhealth.com"
+logo = "/images/mckvhealth.png"
+name = "MCKV Health & Medicare"

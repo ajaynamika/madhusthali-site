@@ -1,12 +1,12 @@
 +++
-title =  "Our Vision"
-date = 2017-12-05T16:44:11+05:30
-tags = []
-keywords = ""
-description = ""
 banner = ""
-+++
+date = "2017-12-05T16:44:11+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Our Vision"
 
++++
 Our vision encompasses the achievement of an all-round development of the child into a young man or woman possessing an optimum of those values which will make him or her a better human being and a constructive citizen of the country, keeping in view the following objectives :
 
 + To prepare the students to live their lives fully and successfully by imparting them the vision of life

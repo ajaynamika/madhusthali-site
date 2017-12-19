@@ -1,37 +1,38 @@
 +++
-title =  "The Group"
-date = 2017-12-17T07:02:17+05:30
-keywords = ""
-description = ""
 banner = "/images/campus.jpg"
+date = "2017-12-17T07:02:17+05:30"
+description = ""
+keywords = ""
+title = "The Group"
 [[relatedSchool]]
-    name = "MCKV Group of Institutions"
-    logo = "/images/group.jpg"
-    link = "http://mckvgroup.org"
+link = "http://mckvgroup.org"
+logo = "/images/group.jpg"
+name = "MCKV Group of Institutions"
 [[relatedSchool]]
-    name = "MC Kejriwal Vidyapeeth"
-    logo = "/images/school.jpg"
-    link = "http://mckv.edu.in"
+link = "http://mckv.edu.in"
+logo = "/images/school.jpg"
+name = "MC Kejriwal Vidyapeeth"
 [[relatedSchool]]
-    name = "MCKV Institute of Engineering"
-    logo = "/images/college.jpg"
-    link = "http://mckvie.edu.in"
+link = "http://mckvie.edu.in"
+logo = "/images/college.jpg"
+name = "MCKV Institute of Engineering"
 [[relatedSchool]]
-    name = "Madhusthali Vidyapeeth"
-    logo = "/images/logo.png"
-    link = "http://madhusthali.edu.in"
+link = "http://madhusthali.edu.in"
+logo = "/images/logo.png"
+name = "Madhusthali Vidyapeeth"
 [[relatedSchool]]
-    name = "Madhusthali Institute of Teachers Training"
-    logo = "/images/mitt.jpg"
-    link = "http://mitt.in"
+link = "http://mitt.in"
+logo = "/images/mitt.jpg"
+name = "Madhusthali Institute of Teachers Training"
 [[relatedSchool]]
-    name = "Madhusthali Institute of Paramedical Sciences"
-    logo = "/images/mips_main.png"
-    link = "http://mips-india.in"
+link = "http://mips-india.in"
+logo = "/images/mips_main.png"
+name = "Madhusthali Institute of Paramedical Sciences"
 [[relatedSchool]]
-    name = "MCKV Health & Medicare"
-    logo = "/images/mckvhealth.png"
-    link = "http://mckvhealth.com"
+link = "http://mckvhealth.com"
+logo = "/images/mckvhealth.png"
+name = "MCKV Health & Medicare"
+
 +++
 MCKV Group of Institutions has expanded its branches in the fields of education, technology and innovation and kept its roots implanted in the principal values of trust and dedication. The journey began in 1997, when Shri S. S. Kejriwal, a humanitarion with a visionary approach to life and humanity, took the initiative to establish MCKV Vidyapeeth in Liluah, Howrah. 
 

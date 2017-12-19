@@ -1,12 +1,13 @@
 +++
-title = "Message from the Principal"
-date = 2017-12-04T15:37:10+05:30
-draft =  true
-tags = []
-keywords = ""
-description = ""
 banner = "/images/principal.png"
+date = "2017-12-04T15:37:10+05:30"
+description = ""
+draft = true
+keywords = ""
 layout = "message"
+tags = []
+title = "Message from the Principal"
+
 +++
 Starting the struggle of life at a very early stage, I have traversed
 the tough road to success through myriad experiences and

@@ -1,10 +1,11 @@
 +++
-title =  "Timing and Visiting Hours"
-date = 2017-12-04T17:04:08+05:30
-tags = []
-keywords = ""
-description = ""
 banner = "/images/gate.jpg"
+date = "2017-12-04T17:04:08+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "Timing and Visiting Hours"
+
 +++
 #####  PLEASE NOTE THE TIME AND DAY FOR MAKING CALL TO YOUR WARD
 

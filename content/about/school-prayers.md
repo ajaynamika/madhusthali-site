@@ -1,12 +1,12 @@
 +++
-title =  "School Prayers"
-date = 2017-12-04T17:04:08+05:30
-tags = []
-keywords = ""
-description = ""
 banner = "/images/slide5.jpg"
-+++
+date = "2017-12-04T17:04:08+05:30"
+description = ""
+keywords = ""
+tags = []
+title = "School Prayers"
 
++++
 ### Daily Morning Prayer
 
 O, Father give me prosperity, health and wisdom, without measure, not from
