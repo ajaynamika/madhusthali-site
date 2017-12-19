@@ -7,7 +7,7 @@ tags = []
 title = "Life @ Madhusthali"
 
 +++
-### CULTURE
+### CULTURES
 
 ![](/images/prayer.jpg)
 
