@@ -3,7 +3,6 @@ title: Fees Structure
 date: 2017-12-04 16:06:42 +0530
 keywords: ''
 description: ''
-draft: true
 
 ---
 ### FEES-STRUCTURE : 2017-18
