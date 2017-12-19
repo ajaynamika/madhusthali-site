@@ -13,15 +13,15 @@ weight = 8
 [[menu.footer]]
 name = "Lifestyle"
 url = "/about/"
-weight = 7
+weight = 6
 [[menu.footer]]
 name = "Academics"
 url = "/academics/"
-weight = 4
+weight = 3
 [[menu.footer]]
 name = "The Group"
 url = "/group/"
-weight = 3
+weight = 5
 [[menu.footer]]
 name = "About"
 url = "/about/"
@@ -30,6 +30,26 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Facilities"
+url = "/facilities/"
+weight = 6
+[[menu.main]]
+name = "Admission"
+url = "/group/"
+weight = 5
+[[menu.main]]
+name = "The Group"
+url = "/group/"
+weight = 3
+[[menu.main]]
+name = "Academics"
+url = "/academics/"
+weight = 2
+[[menu.main]]
+name = "Lifestyle"
+url = "/lifestyle/"
+weight = 4
 [[menu.main]]
 name = "About"
 url = "/about/"
@@ -42,26 +62,6 @@ weight = 8
 name = "Gallery"
 url = "/gallery/"
 weight = 7
-[[menu.main]]
-name = "Lifestyle"
-url = "/lifestyle/"
-weight = 4
-[[menu.main]]
-name = "Academics"
-url = "/academics/"
-weight = 2
-[[menu.main]]
-name = "The Group"
-url = "/group/"
-weight = 3
-[[menu.main]]
-name = "Facilities"
-url = "/facilities/"
-weight = 6
-[[menu.main]]
-name = "Admission"
-url = "/group/"
-weight = 5
 [params]
 banner = "/images/default_banner.jpg"
 logo = "/images/logo.png"

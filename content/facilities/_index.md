@@ -5,9 +5,7 @@ description = ""
 keywords = ""
 title = "Facilities"
 [menu.footer]
-weight = 2
-[menu.main]
-weight = 9
+weight = 7
 
 +++
 ### School Infrastructure

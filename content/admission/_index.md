@@ -5,9 +5,7 @@ description = ""
 keywords = ""
 title = "Admission"
 [menu.footer]
-weight = 1
-[menu.main]
-weight = 8
+weight = 4
 
 +++
 ### Admission Policy
