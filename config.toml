@@ -35,10 +35,6 @@ name = "Facilities"
 url = "/facilities/"
 weight = 6
 [[menu.main]]
-name = "Admission"
-url = "/group/"
-weight = 5
-[[menu.main]]
 name = "The Group"
 url = "/group/"
 weight = 3
