@@ -45,40 +45,23 @@ weight = 7
 [[menu.main]]
 name = "Lifestyle"
 url = "/lifestyle/"
-weight = 6
+weight = 4
 [[menu.main]]
 name = "Academics"
 url = "/academics/"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "The Group"
 url = "/group/"
-weight = 2
+weight = 3
+[[menu.main]]
+name = "Facilities"
+url = "/facilities/"
+weight = 6
+[[menu.main]]
+name = "Admission"
+url = "/group/"
+weight = 5
 [params]
 banner = "/images/default_banner.jpg"
 logo = "/images/logo.png"
-testp = "Another Testing"
-[[params.relatedschool]]
-link = "http://mckvgroup.org"
-logo = "/images/group.jpg"
-name = "MCKV Group of Institutions"
-[[params.relatedschool]]
-link = "http://mckv.edu.in"
-logo = "/images/school.jpg"
-name = "MC Kejriwal Vidyapeeth"
-[[params.relatedschool]]
-link = "http://mckvie.edu.in"
-logo = "/images/college.jpg"
-name = "MCKV Institute of Engineering"
-[[params.relatedschool]]
-link = "http://mitt.in"
-logo = "/images/mitt.jpg"
-name = "Madhusthali Institute of Teachers Training"
-[[params.relatedschool]]
-link = "http://mips-india.in"
-logo = "/images/mips_main.png"
-name = "Madhusthali Institute of Paramedical Sciences"
-[[params.relatedschool]]
-link = "http://mckvhealth.com"
-logo = "/images/mckvhealth.png"
-name = "MCKV Health & Medicare"
