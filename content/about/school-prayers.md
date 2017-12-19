@@ -20,7 +20,7 @@ Fill this school with Your ocean of love and surround our teachers and all
 others with Your radiant light. Guide my actions so that I may not
 cause any harm to others.
 Shower your blessings on all those benevolent souls, who left no stones
-unturned to make this school what it is. 
+unturned to make this school what it is.
 
 ### Daily Evening Prayer
 
@@ -49,3 +49,7 @@ In this vast and not stormy world.
 When the morning breaks, wake us all up
 Sans fatigue and with renewed strengh
 And keep us protected, the whole day through.
+
+![](/madhusthali/uploads/2017/12/19/prayer2.png)
+
+![](/madhusthali/uploads/2017/12/19/prayer.png)
