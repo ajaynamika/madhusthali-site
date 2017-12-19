@@ -4,6 +4,10 @@ date = "2017-12-19T07:55:15+05:30"
 description = ""
 keywords = ""
 title = "Admission"
+[menu.footer]
+weight = 1
+[menu.main]
+weight = 8
 
 +++
 ### Admission Policy
