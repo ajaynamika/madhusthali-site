@@ -26,8 +26,12 @@ This enables them to realize the importance of expression and enrich their own i
 
 ### MUSIC
 
+![](/uploads/2017/12/19/IMG_3306.jpg)
+
 Madhusthali Vidyapeeth has specialist music teachers. All classes receive music learning sessions on a weekly basis. It also comes equipped with ever-growing number of musical instruments. The children enjoy music classes where their individual talents are nurtured and supported.
 
 ### SPIRITUALITY AND MORALITY
+
+![](/uploads/2017/12/19/IMG_3182.jpg)
 
 Regular yoga and meditation sessions are held at Madhusthali to make the students mentally & physically strong.
