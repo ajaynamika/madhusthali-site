@@ -9,7 +9,7 @@ title = "Curriculum"
 +++
 ### SCHOOL CURRICULUM
 
-![](/madhusthali/uploads/2017/12/19/IMG_3006.jpg)
+![](/madhusthali/uploads/2017/12/20/IMG_3006.jpg)
 
 Madhusthali Vidyapeeth follows the ICSE Curriculum which was earlier popularly called The Cambridge Board Exam. The Council for the Indian School Certificate Examinations administers the Indian Certificate of Secondary Education Examination (ICSE). The University of Cambridge Local Examinations Syndicate established the Council in 1958. The ICSE Examination has been designed to provide a course of general education in accordance with the recommendations of the New Education Policy 1986. Students who follow it take certain compulsory subjects and also select subjects of interest to them from a range of choices. Socially Useful and Productive Work and Community Service play an important part in the programme. Classes X students take the ICSE Examinations in March - April. The School assesses the Socially Useful and Productive Work and Community Service and the result will count towards the award of the Certificate.
 
