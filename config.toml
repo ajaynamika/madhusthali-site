@@ -32,8 +32,8 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Login"
-url = "http://www.mckvie.org/mv/studentlogin/#/home"
-weight = 3
+url = "/http://www.mckvie.org/mv/studentlogin/#/home"
+weight = 4
 [[menu.main]]
 name = "Facilities"
 url = "/facilities/"
