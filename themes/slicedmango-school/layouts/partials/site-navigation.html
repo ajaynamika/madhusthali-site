@@ -28,7 +28,7 @@
         <a href="{{.Site.BaseURL}}" class="border-bottom block h4 caps bold red text-decoration-none py1" style="border-color: rgba(255, 2, 2, 0.3)">Home</a>
       </div>
       {{ if .Site.Menus.main }}
-      {{ range .Site.Menus.main.ByWeight }}
+      {{ range .Site.Menus.main }}
       <div>
         <a href="{{.URL}}" class="border-bottom block h4 caps bold red text-decoration-none py1" style="border-color: rgba(255, 2, 2, 0.3)">{{.Name}}</a>
       </div>
