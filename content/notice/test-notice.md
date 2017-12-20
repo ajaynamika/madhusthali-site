@@ -4,5 +4,7 @@ description = ""
 draft = true
 keywords = ""
 title = "Test Notice"
+type = ""
 
 +++
+This is a simple test notice.
