@@ -1,4 +1,6 @@
 ---
+pages:
+- news_ticker/_index.md
 hide_body: false
 fields:
 - name: title
