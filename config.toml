@@ -31,6 +31,10 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Login"
+url = "/"
+weight = 1
+[[menu.main]]
 name = "Facilities"
 url = "/facilities/"
 weight = 6
