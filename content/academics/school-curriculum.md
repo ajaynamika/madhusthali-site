@@ -37,7 +37,7 @@ excel.
 
 Compulsory Subjects for all streams: English
 
-<table class="fees-table">
+<table class="table">
 <tr>
 <th>Science</th>
 <th>Commerce</th>
