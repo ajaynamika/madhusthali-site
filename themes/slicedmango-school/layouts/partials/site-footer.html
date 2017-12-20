@@ -1,9 +1,9 @@
 <footer role="contentinfo">
   <div class="px2 md-px4 bg-aqua py2">
     <div class="flex item-start mxn2 flex-wrap pt1 justify-center">
-      {{ range .Site.Menus.footer.ByWeight }}
+      {{ range .Site.Menus.footer }}
       <div class="px2">
-        <a class="block text-decoration-none navy bold caps h6 pb1" href="{{.URL}}">{{.Name}}</a>
+        <a class="block text-decoration-none navy bold caps h6 pb1" href="{{.URL}}" style="letter-spacing:0;">{{.Name}}</a>
       </div>
       {{end}}
     </div>
