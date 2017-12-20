@@ -42,15 +42,15 @@
     {{ end }}
   </div>
 </div>
-<div class="px2 md-px4 py4 bg-gray">
+<div class="px2 md-px4 py4 bg-olive">
   <div class="flex items-start items-stretch flex-wrap justify-center mxn2">
     {{range .Site.Data.messages.message}}
     <div class="col-12 sm-col-6 md-col-3 mb2 px2 center">
       <div class="rounded bg-white flex flex-column overflow-hidden" style="height: 100%;">
         <a href="{{(trim .link "/") | absURL }}" class=" block sixteen-nine"><div class="content" style="background-image: url('{{(trim .image "/") | absURL }}')"></div></a>
-        <div class="h3 olive pt2 px2 bold">{{.name}}</div>
-        <div class="bg-red col-2 mx-auto my2" style="height:5px;"></div>
-        <div class="px2 pb3 h5 black flex-auto">{{.text}}</div>
+        <div class="h4 olive pt2 px2 bold">{{.name}}</div>
+        <div class="bg-red col-2 mx-auto mb2 mt1" style="height:5px;"></div>
+        <div class="px2 pb2 h5 black flex-auto">{{.text}}</div>
         <div class="mb3">
           <a class="message-link" href="{{(trim .link "/") | absURL }}">Read More</a>
         </div>

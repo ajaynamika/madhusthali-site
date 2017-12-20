@@ -1,8 +1,8 @@
 <footer role="contentinfo">
   <div class="px2 md-px4 bg-aqua py2">
-    <div class="flex item-start mxn2 flex-wrap pt1">
+    <div class="flex item-start mxn2 flex-wrap pt1 justify-center">
       {{ range .Site.Menus.footer.ByWeight }}
-      <div class="px2 col-12 sm-col-6 md-col-3">
+      <div class="px2">
         <a class="block text-decoration-none navy bold caps h6 pb1" href="{{.URL}}">{{.Name}}</a>
       </div>
       {{end}}
