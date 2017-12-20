@@ -16,7 +16,7 @@ Annual Felicitation Day is one of the prominent events which the school organize
 
 ### SPORTS DAY
 
-![](/madhusthali/uploads/2017/12/19/IMG_3038.jpg)
+![](/madhusthali/uploads/2017/12/20/IMG_3038.jpg)
 
 Beside Academic Curriculum we also encourage young minds to take part in various sports activities through Physical Education classes and other means of activities pertaining to sports. The students get ample opportunities to exercise their sporting skills from Zonal to National Level under various exciting events. The schools recognizes that the provision of high quality sport and PE has significant positive impacts on young people’s lives including improving physical and mental health outcomes, enhancing academic achievement and building key personal and social skills. It also manages highly skilled sports coordinators to boost and coach the young minds to achieve great heights in the field of sports. The credentials of the Madhusthalians speak of the achievements made so far in this line.
 
