@@ -3,6 +3,13 @@ title: Fees Structure
 date: 2017-12-04 16:06:42 +0530
 keywords: ''
 description: ''
+menu:
+  footer:
+    name: Fee Structure
+    weight: 10
+  main:
+    name: Fee Structure
+    weight: 9
 
 ---
 ### FEES-STRUCTURE : 2017-18

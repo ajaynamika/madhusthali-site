@@ -5,11 +5,11 @@ title = "Madhusthali Vidyapeeth"
 [[menu.footer]]
 name = "Contact"
 url = "/contact/"
-weight = 9
+weight = 10
 [[menu.footer]]
 name = "Gallery"
 url = "/gallery/"
-weight = 8
+weight = 9
 [[menu.footer]]
 name = "Lifestyle"
 url = "/about/"
@@ -53,11 +53,11 @@ weight = 1
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
-weight = 8
+weight = 9
 [[menu.main]]
 name = "Gallery"
 url = "/gallery/"
-weight = 7
+weight = 8
 [params]
 banner = "/images/default_banner.jpg"
 logo = "/images/logo.png"
