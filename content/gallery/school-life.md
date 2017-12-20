@@ -6,6 +6,5 @@ images = ["/uploads/2017/12/19/IMG_3134.jpg", "/uploads/2017/12/19/IMG_3306.jpg"
 keywords = ""
 tags = []
 title = "School Life"
-type = ""
 
 +++

@@ -57,7 +57,7 @@ weight = 9
 [[menu.main]]
 name = "Gallery"
 url = "/gallery/"
-weight = 8
+weight = 7
 [params]
 banner = "/images/default_banner.jpg"
 logo = "/images/logo.png"
