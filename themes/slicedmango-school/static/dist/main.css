@@ -241,6 +241,13 @@ video {
     width: 100% !important;
     height: auto !important;
 }
+.login-button {
+    padding: 1em;
+}
+.login-button:hover {
+    background-color: #3d9970;
+    color: #fff;
+}
 @media screen and (max-width:767px) {
     body {
         font-size: 1rem;

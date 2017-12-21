@@ -59,5 +59,9 @@ name = "Gallery"
 url = "/gallery/"
 weight = 7
 [params]
+favicon = "images/favicon.png"
 banner = "/images/default_banner.jpg"
 logo = "/images/logo.png"
+facebook = "https://www.facebook.com/madhusthalividyapeethofficial/"
+twitter = ""
+youtube = ""
