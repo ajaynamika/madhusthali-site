@@ -1,8 +1,12 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-    <article class="center cf pv5 measure-wide-l">
-      <h1>
-        This is not the page you were looking for
+    <article class="center pt4">
+      <h1 style="font-size:6rem;" class="red mb2">
+        404
       </h1>
+      <h3 class="mt0 mb4">
+        Oops, this is not the page you were looking for
+      </h3>
+      <div class="pb4">You can go <a class="blue bold" href="{{ .Site.BaseURL }}">home</a> or use the menu to navigate the site.</div>
     </article>
 {{ end }}
