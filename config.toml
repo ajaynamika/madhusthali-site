@@ -3,6 +3,18 @@ languageCode = "en-us"
 theme = "slicedmango-school"
 title = "Madhusthali Vidyapeeth"
 [[menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.footer]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.footer]]
+name = "The Group"
+url = "/group/"
+weight = 5
+[[menu.footer]]
 name = "Contact"
 url = "/contact/"
 weight = 10
@@ -18,17 +30,17 @@ weight = 6
 name = "Academics"
 url = "/academics/"
 weight = 3
-[[menu.footer]]
-name = "The Group"
-url = "/group/"
-weight = 5
-[[menu.footer]]
+[[menu.main]]
+name = "Gallery"
+url = "/gallery/"
+weight = 7
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 9
+[[menu.main]]
 name = "About"
 url = "/about/"
-weight = 2
-[[menu.footer]]
-name = "Home"
-url = "/"
 weight = 1
 [[menu.main]]
 name = "Facilities"
@@ -46,22 +58,10 @@ weight = 2
 name = "Lifestyle"
 url = "/lifestyle/"
 weight = 4
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 9
-[[menu.main]]
-name = "Gallery"
-url = "/gallery/"
-weight = 7
 [params]
-favicon = "images/favicon.png"
 banner = "/images/default_banner.jpg"
-logo = "/images/logo.png"
 facebook = "https://www.facebook.com/madhusthalividyapeethofficial/"
+favicon = "images/favicon.png"
+logo = "/images/logo.png"
 twitter = ""
 youtube = ""
