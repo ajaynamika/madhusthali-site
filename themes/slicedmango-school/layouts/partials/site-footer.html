@@ -7,19 +7,19 @@
       </div>
       {{end}}
     </div>
-  {{ partial "social-follow.html" . }}
   </div>
   <div class="flex items-start bg-navy px2 md-px4 py3 flex-wrap">
     <div class="flex-auto">
       <a class="text-decoration-none white" href="{{ .Site.BaseURL }}" >
         &copy; {{ now.Format "2006" }} {{ .Site.Title }}
       </a>
+      <div class="silver h6">
+        Powered by <a class="text-decoration-none orange h6" target="_blank" href="http://slicedmango.com" >
+        Sliced Mango
+        </a>
+      </div>
     </div>
-    <div class="silver h6">
-      Powered by <a class="text-decoration-none orange h6" target="_blank" href="http://slicedmango.com" >
-      Sliced Mango
-      </a>
-    </div>
+    {{ partial "social-follow.html" . }}
   </div>
 </footer>
 <script>
