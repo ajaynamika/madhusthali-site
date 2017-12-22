@@ -1,1 +1,1 @@
-slides = ["images/slide1.jpg", "images/slide2.jpg", "images/slide3.jpg", "images/slide4.jpg", "images/slide5.jpg"]
+slides = ["/uploads/2017/12/22/slide5.jpg", "images/slide1.jpg", "images/slide2.jpg", "images/slide3.jpg", "images/slide4.jpg", "images/slide5.jpg"]
