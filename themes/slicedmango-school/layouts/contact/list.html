@@ -14,7 +14,7 @@
       {{ $banner := (trim $banner "/") | absURL }}
       <div class="twentyone-nine"><div class="content" style="background-image: url({{$banner}})"></div></div>
       {{ end }}
-      <div class="flex items-center items-stretch">
+      <div class="flex items-center items-stretch flex-wrap">
         <div class="col-12 md-col-6 py2 px2 md-px4 bg-yellow black">
           <h3 class="black">{{.Params.name}}</h3>
           <div class="flex items-start mb1">
