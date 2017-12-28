@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/2017/12/28/kksir.JPG"
 date = "2017-12-25T14:06:17+05:30"
 description = ""
 draft = true
