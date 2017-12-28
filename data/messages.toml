@@ -5,7 +5,7 @@ name = "Chairman's Message"
 text = "        Starting the struggle of life at a very early stage, I have traversed the tough road to success through myriad experiences and experiments."
 [[message]]
 image = "/uploads/2017/12/19/IMG_5882-1.JPG"
-link = "http://139.59.37.116/madhusthali/about/managing-trustee-message/"
+link = "/about/managing-trustee-message/"
 name = "Managing Trustee's Message"
 text = "Starting the struggle of life at a very early stage, I have traversed the tough road to success through myriad experiences and experiments."
 [[message]]
