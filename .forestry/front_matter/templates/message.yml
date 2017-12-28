@@ -1,4 +1,6 @@
 ---
+pages:
+- about/managing-trustee-message.md
 hide_body: false
 fields:
 - name: banner
