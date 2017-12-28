@@ -1,5 +1,5 @@
 +++
-banner = "/madhusthali/uploads/2017/12/28/IMG_5882-1.JPG"
+banner = ""
 date = "2017-12-25T14:06:17+05:30"
 description = ""
 draft = true
