@@ -1,16 +1,16 @@
 [[event]]
-start_date = "2017-04-14"
+holiday = true
 name = "Good Friday"
-holiday = true
+start_date = "2017-04-14T00:00:00+00:00"
 [[event]]
-start_date = "2017-05-01"
+holiday = true
 name = "Labor Day"
-holiday = true
+start_date = "2017-05-01T00:00:00+00:00"
 [[event]]
-start_date = "2018-01-01"
+holiday = true
 name = "New Year"
-holiday = true
+start_date = "2018-01-01T00:00:00+00:00"
 [[event]]
-start_date = "2018-01-23"
-name = "Netaji Birthday"
 holiday = true
+name = "Netaji Birthday"
+start_date = "2018-01-23T00:00:00+00:00"

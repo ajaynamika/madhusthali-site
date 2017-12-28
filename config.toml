@@ -3,18 +3,6 @@ languageCode = "en-us"
 theme = "slicedmango-school"
 title = "Madhusthali Vidyapeeth"
 [[menu.footer]]
-name = "Home"
-url = "/"
-weight = 1
-[[menu.footer]]
-name = "About"
-url = "/about/"
-weight = 2
-[[menu.footer]]
-name = "The Group"
-url = "/group/"
-weight = 5
-[[menu.footer]]
 name = "Contact"
 url = "/contact/"
 weight = 10
@@ -22,6 +10,18 @@ weight = 10
 name = "Gallery"
 url = "/gallery/"
 weight = 9
+[[menu.footer]]
+name = "The Group"
+url = "/group/"
+weight = 5
+[[menu.footer]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
 [[menu.footer]]
 name = "Lifestyle"
 url = "/about/"
@@ -31,13 +31,21 @@ name = "Academics"
 url = "/academics/"
 weight = 3
 [[menu.main]]
-name = "Gallery"
-url = "/gallery/"
-weight = 7
-[[menu.main]]
 name = "Contact"
 url = "/contact/"
 weight = 9
+[[menu.main]]
+name = "Gallery"
+url = "/gallery/"
+weight = 8
+[[menu.main]]
+name = "Lifestyle"
+url = "/lifestyle/"
+weight = 4
+[[menu.main]]
+name = "The Group"
+url = "/group/"
+weight = 3
 [[menu.main]]
 name = "About"
 url = "/about/"
@@ -47,17 +55,9 @@ name = "Facilities"
 url = "/facilities/"
 weight = 6
 [[menu.main]]
-name = "The Group"
-url = "/group/"
-weight = 3
-[[menu.main]]
 name = "Academics"
 url = "/academics/"
 weight = 2
-[[menu.main]]
-name = "Lifestyle"
-url = "/lifestyle/"
-weight = 4
 [params]
 banner = "/images/default_banner.jpg"
 facebook = "https://www.facebook.com/madhusthalividyapeethofficial/"
