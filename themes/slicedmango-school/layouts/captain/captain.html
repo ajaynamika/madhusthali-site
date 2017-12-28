@@ -19,12 +19,12 @@
       {{ else }}
       <div class="twentyone-nine"><div class="content" style="background-image: url({{(trim .Site.Params.banner "/") | absURL}})"></div></div>
       {{ end }}
-      <div class="px2 md-px4 pb3 pt2 justify">
+      <div class="px2 md-px4 pb3 pt2 justify overflow-scroll">
         {{ .Content }}
       </div>
       <div class="flex items-start items-stretch flex-wrap mxn1 px2 md-px4 pb4">
         {{range .Params.captain}}
-        <div class="col-12 sm-col-2 md-col-4 px1 mb2">
+        <div class="col-12 sm-col-3 md-col-4 px1 mb2">
           <img alt="{{.name}}" src="{{(trim .picture "/") | absURL }}" class="fit p1 border border-silver"/>
           <div class = "navy h4 bold">{{.name}}</div>
           <div class = "red h5 bold">{{.designation}}</div>

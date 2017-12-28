@@ -1,0 +1,16 @@
+[[event]]
+start_date = "2017-04-14"
+name = "Good Friday"
+holiday = true
+[[event]]
+start_date = "2017-05-01"
+name = "Labor Day"
+holiday = true
+[[event]]
+start_date = "2018-01-01"
+name = "New Year"
+holiday = true
+[[event]]
+start_date = "2018-01-23"
+name = "Netaji Birthday"
+holiday = true

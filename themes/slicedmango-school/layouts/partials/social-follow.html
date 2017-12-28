@@ -1,12 +1,14 @@
 <!-- TODO: Add follow intents where available TODO: Revisit color and hover color -->
-<div class="h6 white mr1 pt1">Follow us on </div>  
-{{ $icon_size := "32px" }}
-{{ with .Site.Params.facebook }}
+<div class="col-12 sm-col-4 flex items-center">
+  <div class="flex-auto xs-hide"></div>
+  <div class="h6 white mr1 pt1 mb2">Follow us on </div>
+  {{ $icon_size := "32px" }}
+  {{ with .Site.Params.facebook }}
   <a href="{{ . }}" class="mr1 " title="Facebook link">
     <img src="{{ "images/facebook.png" | absURL }}"/>
   </a>
-{{ end }}
-{{ with .Site.Params.twitter }}
+  {{ end }}
+  {{ with .Site.Params.twitter }}
   <a href="{{ . }}" class="mr1 " title="Twitter link">
     <img src="{{ "images/twitter.png" | absURL }}"/>
   </a>
@@ -15,4 +17,5 @@
   <a href="{{ . }}" class="mr1 " title="Youtube link">
     <img src="{{ "images/youtube.png" | absURL }}"/>
   </a>
-{{ end }}
+  {{ end }}
+</div>

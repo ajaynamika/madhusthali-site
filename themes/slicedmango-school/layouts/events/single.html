@@ -22,19 +22,8 @@
       {{ $banner := (trim $banner "/") | absURL }}
       <div class="twentyone-nine"><div class="content" style="background-image: url({{$banner}})"></div></div>
       {{end}}
-      <div class="px2 md-px4 pb4 pt2 justify">
+      <div class="px2 md-px4 pb4 pt2 justify overflow-scroll">
         {{ .Content }}
-      </div>
-      <div class="px2 md-px4 pb3">
-        <div class="flex items-center mxn2 gallery">
-          {{range .Params.images}}
-          <div class="col-12 sm-col-6 md-col-4 px2 mb2">
-            <a href="{{ (trim . "/") | absURL }}" class="block mb2 border border-silver p1">
-              <div class="square"><div class="content" style="background-image: url({{(trim . "/") | absURL }})"></div></div>
-            </a>
-          </div>
-          {{end}}
-        </div>
       </div>
     </div>
   </article>

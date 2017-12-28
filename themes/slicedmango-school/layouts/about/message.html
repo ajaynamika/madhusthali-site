@@ -16,7 +16,7 @@
       {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
       {{ $banner := (trim $banner "/") | absURL }}
       {{ end }}
-      <div class="px2 md-px4 pb4 pt2 justify">
+      <div class="px2 md-px4 pb4 pt2 justify overflow-scroll">
         <img class="message-image" src="{{(trim .Params.banner "/") | absURL }}">
         <div>{{.Content}}</div>
       </div>

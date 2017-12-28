@@ -7,5 +7,4 @@ venue = "Madhusthali Vidyapeeth"
 keywords = ""
 description = ""
 banner = "images/default_banner.jpg"
-images = ["images/default_banner.jpg"]
 +++
