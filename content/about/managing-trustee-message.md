@@ -10,7 +10,7 @@ title = "Managing Trustee's Message"
 +++
 The right institution is what takes you to the path of success. Success is often a subjective term that leads the way to a life that we often dream of.
 
-Glorified by the tag of the most prestigious institution, we are now actually on the way to provide and prove far more than what we achieved. After having successfully launched and worked with the most prestigious institutions of West Bengal,   MCKV and MCKVIE.
+Glorified by the tag of the most prestigious institution, we are now actually on the way to provide and prove far more than what we achieved. After having successfully launched and worked with the most prestigious institutions of West Bengal, MCKV and MCKVIE.
 
 Equipped with all the facilities desirable, the institute is an endeavor in the process of the fulfilment of the philosophy of service to society and its upliftment that the Board has been following since the inception. 
 
