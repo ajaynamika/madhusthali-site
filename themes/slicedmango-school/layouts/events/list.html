@@ -9,18 +9,7 @@
         </h1>
       </header>
       <div class="px2 md-px4 pb4 pt2">
-        {{ range sort .Site.Data.events.event "start_date" }}
-        <div class="flex items-center py2 border-bottom border-silver">
-          <div class="mr1 bg-green rounded white px1 center flex items-center">
-            <div class="h6 bold" style="padding:0.15em;">{{dateFormat "2" .start_date }}</div>
-            <div class="h6 bold" style="padding:0.15em;">{{dateFormat "Jan" .start_date }}</div>
-          </div>
-          <div class="block text-decoration-none black flex-auto">{{.name}}</div>
-          {{ if .holiday }}
-          <div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">Holiday</div>
-          {{end}}
-        </div>
-        {{ end }}
+        
       </div>
     </div>
   </article>
