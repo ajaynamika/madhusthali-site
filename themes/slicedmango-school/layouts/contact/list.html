@@ -61,8 +61,8 @@
     </div>
   </article>
 </div>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOp_b26dWumYiB9Pc3EwrC-FEPP2CkgGk"></script>
-<script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOp_b26dWumYiB9Pc3EwrC-FEPP2CkgGk" data-turbolinks-eval="true"></script>
+<script data-turbolinks-eval="true">
  function initialize() {
    var gmc = {{.Params.google_map_coordinates}}
    var myLatlng = new google.maps.LatLng(gmc.split(",")[0], gmc.split(",")[1]);
