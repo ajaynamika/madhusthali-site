@@ -7,6 +7,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+  notice:
+    default_front_matter_template: notice
+  news:
+    default_front_matter_template: news
   group:
     default_front_matter_template: group
   gallery:
