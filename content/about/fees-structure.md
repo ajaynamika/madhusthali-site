@@ -49,15 +49,14 @@ menu:
 <td>Rs. 1,38,000.00</td>
 <td>Rs. 1,50,000.00</td>
 <td>Rs. 1,62,000.00</td>
-</tr>
-<tr>
-<td>Total Charges for the First Year</td>
-<td>Rs.1,56,000.00</td>
-<td>Rs. 1,68,000.00</td>
-<td>Rs. 1,80,000.00</td>
-<td>Rs. 1,92,000.00</td>
-</tr>
-</table>
+
+<td>Rs. 1,74,000.00</td 
+
+</tr> 
+
+<tr> 
+
+<td>Total Charges for the First Year</td> <td>Rs.1,56,000.00</td> <td>Rs. 1,68,000.00</td> <td>Rs. 1,80,000.00</td> <td>Rs. 1,92,000.00</td> </tr> </table>
 
 ### CONCESSIONS
 
