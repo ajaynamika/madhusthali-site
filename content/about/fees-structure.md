@@ -12,7 +12,7 @@ menu:
     weight: 7
 
 ---
-### FEES-STRUCTURE : 2017-18
+### FEES-STRUCTURE : 2018-19
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging\*</td>
 
@@ -59,63 +59,62 @@ menu:
 * If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
-### FEES-STRUCTURE FOR DAY SCHOLARS: 2017-18
+### FEES-STRUCTURE FOR DAY SCHOLARS: 2018-19
 
-<table class="fees-table">
-<tr>
-<th>SL.</th>
-<th>HEADS</th>
-<th>Nur. to II</th>
-<th>Class III to VII</th>
-<th>Class VIII to X</th>
-<th>Class XI to XII</th>
-</tr>
-<tr>
-<td>1.</td>
-<td>Prospectus & Registration (Once at the time of admission)</td>
-<td>Rs. 500.00</td>
-<td>Rs. 500.00</td>
-<td>Rs. 500.00</td>
-<td>Rs. 500.00</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Admission Fees (Once at the time of admission)</td>
-<td>Rs. 4000.00</td>
-<td>Rs. 4000.00</td>
-<td>Rs. 4000.00</td>
-<td>Rs. 4000.00</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Security Deposit(refundable) (Once at the time of admission)</td>
-<td>Rs. 3000.00</td>
-<td>Rs. 3000.00</td>
-<td>Rs. 3000.00</td>
-<td>Rs. 3000.00</td>
+<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 5000.00</td> 
+
+<td>Rs. 5000.00</td> 
+
+<td>Rs. 5000.00</td> 
+
+<td>Rs. 5000.00</td> </tr> 
+
+<tr> 
+
+<td>3.</td> <td>Security Deposit(refundable) (Once at the time of admission)</td> 
+
+<td>Rs. 5000.00</td> 
+
+<td>Rs. 5000.00</td> 
+
+<td>Rs. 5000.00</td>
+
+ <td>Rs. 5000.00</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Monthly Tution fees (every month)</td>
-<td>Rs. 1200.00</td>
-<td>Rs. 1700.00</td>
-<td>Rs. 2100.00</td>
-<td>Rs. 2600.00</td>
+
+ <td>Rs. 1350.00</td>
+
+ <td>Rs. 1900.00</td>
+
+ <td>Rs. 2300.00</td>
+
+ <td>Rs. 2850.00</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Transportation (every month)</td>
-<td>Rs. 625.00</td>
-<td>Rs. 625.00</td>
-<td>Rs. 625.00</td>
-<td>Rs. 625.00</td>
+
+ <td>Rs. 675.00</td>
+
+ <td>Rs. 675.00</td>
+
+ <td>Rs. 675.00</td>
+
+ <td>Rs. 675.00</td>
 </tr>
 <tr>
 <td></td>
 <td>Total Monthly Fee+ bus Fee</td>
-<td>Rs. 1825.00</td>
-<td>Rs. 2325.00</td>
-<td>Rs. 2725.00</td>
-<td>Rs. 3225.00</td>
+
+ <td>Rs. 2025.00</td>
+
+ <td>Rs. 2575.00</td>
+
+ <td>Rs. 2975.00</td>
+
+ <td>Rs. 3525.00</td>
 </tr>
 </table>
