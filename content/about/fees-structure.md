@@ -14,40 +14,12 @@ menu:
 ---
 ### FEES-STRUCTURE : 2017-18
 
-<table class="fees-table">
-<tr>
-<th>Particulars</th>
-<th>Class I to II</th>
-<th>Class III to VII</th>
-<th>Class VIII to X</th>
-<th>Class XI & XII</th>
-</tr>
-<tr>
-<td>Cost of Prospectus & Registration Form</td>
-<td>Rs. 750.00</td>
-<td>Rs. 750.00</td>
-<td>Rs. 750.00</td>
-<td>Rs. 750.00</td>
-</tr>
-<tr>
-<td>Admission Fee (paid at the time of admission only.</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-</tr>
-<tr>
-<td>Security Deposit (Refundable) Paid at the time of Admission</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-<td>Rs. 15,000.00</td>
-</tr>
-<tr>
-<td>Tution fee, boarding & lodging\*</td>
-<td>Rs.1,26,000.00</td>
-<td>Rs. 1,38,000.00</td>
-<td>Rs. 1,50,000.00</td>
+<table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging\*</td>
+
+ <td>Rs. 1,38,000.00</td> 
+
+<td>Rs. 1,50,000.00</td> 
+
 <td>Rs. 1,62,000.00</td>
 
 <td>Rs. 1,74,000.00</td 
