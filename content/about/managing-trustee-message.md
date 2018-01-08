@@ -30,6 +30,6 @@ In conclusion let me quote **Sri Aurobindo**:
 
 > It is by a constant inner growth that one can find a constant newness and unfailing interest in life. There is no other satisfying way.
 
-#### K K Kejriwal
+#### K.K. Kejriwal
 
 ##### Vice Chairman
