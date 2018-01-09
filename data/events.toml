@@ -1,7 +1,11 @@
 [[event]]
 holiday = false
+name = "Holi"
+start_date = "2018-03-01T00:00:00+05:30"
+[[event]]
+holiday = false
 name = "Good Friday"
-start_date = "2018-01-30T00:00:00+05:30"
+start_date = "2018-03-30T00:00:00+05:30"
 [[event]]
 holiday = true
 name = "Republic Day Celebration"
