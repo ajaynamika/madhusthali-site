@@ -1,7 +1,7 @@
 ---
 title: School Uniform
 date: 2017-12-04 16:06:42 +0530
-keywords: ''
+keywords: Madhusthali Vidyapeeth school uniform
 description: ''
 banner: "/uploads/2017/12/19/IMG_2817.jpg"
 
