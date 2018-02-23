@@ -7,7 +7,7 @@ email = "madhusthali@gmail.com"
 google_map_coordinates = "24.2984308,86.6179996"
 keywords = ""
 name = "Madhusthali Vidyapeeth"
-phone_no = "9572224404, 9304845748"
+phone_no = "8084272772, 9931565416"
 title = "Contact"
 
 +++
