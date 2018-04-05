@@ -1,5 +1,5 @@
 +++
-banner = "/images/principal.png"
+banner = ""
 date = "2017-12-04T15:37:10+05:30"
 description = ""
 keywords = ""
@@ -29,5 +29,6 @@ empowers our students to become winners from the very outset. My aim
 is to provide an ambience to students that foster leadership and
 accountability.
 
-#### Poonam Mishra
+#### 
+
 ##### Principal
