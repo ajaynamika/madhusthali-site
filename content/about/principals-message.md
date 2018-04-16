@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/2018/04/16/48826751-33b1-4e98-a689-a8ba3afbde33.jpg"
+banner = "/uploads/2018/04/16/f210ca06-25f6-4c4e-917b-04f2dcc768eb.jpg"
 date = "2017-12-04T15:37:10+05:30"
 description = ""
 keywords = ""
