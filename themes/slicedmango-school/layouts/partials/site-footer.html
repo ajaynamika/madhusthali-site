@@ -57,7 +57,7 @@ var list ='<div class="flex items-center py2 border-bottom border-silver">' +
         }
 
       $("#event").append(list);
-      if(i<=4){
+      if(i<=10){
         var sorting_list = '<div class="flex items-center py2 border-bottom border-silver">' +
           '<div class="mr1 bg-green rounded white px1 center flex items-center">' +
             '<div class="h6 bold" style="padding:0.15em;"> '+val.s_date+'</div>' +
@@ -65,10 +65,10 @@ var list ='<div class="flex items-center py2 border-bottom border-silver">' +
           '<div class="block text-decoration-none black flex-auto">'+val.event_name+'</div>';
           ;  
         if(val.holiday == "Y"){
-          list = list + '<div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">Holiday</div>'+
+          sorting_list = sorting_list + '<div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">H</div>'+
         '</div>';
         }else{
-          list = list + '<div class="h6  white rounded bold" style="padding:0.15em 0.5em;"></div>'+
+          sorting_list = sorting_list + '<div class="h6  white rounded bold" style="padding:0.15em 0.5em;"></div>'+
         '</div>';
         }
       $("#sorting_event").append(sorting_list);
