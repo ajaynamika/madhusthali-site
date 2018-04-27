@@ -108,12 +108,19 @@
   </div>
 </div>
 <script type="text/javascript" src='{{ "js/siema.min.js" | absURL}}' data-turbolinks-eval="true"></script>
-<script data-trubolinks-eval="true">
+<!-- <script data-trubolinks-eval="true">
  var mySiema = new Siema({
    duration: 250,
    loop: true,
  });
  listen for keydown event
  setInterval(() => mySiema.next(), 4000)
+</script> -->
+<script>
+  if(siema_interval){
+    clearInterval(siema_interval)
+  }
+  var mySiema=new Siema({duration:250,loop:true,});
+  var siema_interval = setInterval(()=>mySiema.next(),5000)
 </script>
 {{ end }}
