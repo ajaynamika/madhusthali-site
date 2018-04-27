@@ -27,3 +27,57 @@
    document.getElementsByClassName("menu-overlay")[0].classList.toggle("hidden")
  }
 </script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+  
+ $.ajax({
+  type: "POST",
+  url:'http://www.mckvie.org/mv/readWebEvent.php',
+  dataType: 'json',
+  success: function(data)
+  {
+    console.log(data.length);
+    var i=0;
+    $.each(data, function(key, val) {
+    i++;      
+var list ='<div class="flex items-center py2 border-bottom border-silver">' +
+          '<div class="mr1 bg-green rounded white px1 center flex items-center">' +
+            '<div class="h6 bold" style="padding:0.15em;"> '+val.s_date+'</div>' + ' <span class="mr1 ml1">to</span> ' +
+            '<div class="h6 bold" style="padding:0.15em;">'+val.e_date+'</div>'+
+          '</div>'+
+          '<div class="block text-decoration-none black flex-auto">'+val.event_name+'</div>';
+          ;  
+        if(val.holiday == "Y"){
+          list = list + '<div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">Holiday</div>'+
+        '</div>';
+        }else{
+          list = list + '<div class="h6  white rounded bold" style="padding:0.15em 0.5em;"></div>'+
+        '</div>';
+        }
+
+      $("#event").append(list);
+      if(i<=4){
+        var sorting_list = '<div class="flex items-center py2 border-bottom border-silver">' +
+          '<div class="mr1 bg-green rounded white px1 center flex items-center">' +
+            '<div class="h6 bold" style="padding:0.15em;"> '+val.s_date+'</div>' +
+          '</div>'+
+          '<div class="block text-decoration-none black flex-auto">'+val.event_name+'</div>';
+          ;  
+        if(val.holiday == "Y"){
+          list = list + '<div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">Holiday</div>'+
+        '</div>';
+        }else{
+          list = list + '<div class="h6  white rounded bold" style="padding:0.15em 0.5em;"></div>'+
+        '</div>';
+        }
+      $("#sorting_event").append(sorting_list);
+      }
+
+    });
+  }
+});
+
+  
+  
+</script>

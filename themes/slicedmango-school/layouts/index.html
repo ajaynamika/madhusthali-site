@@ -97,21 +97,8 @@
       <div class="flex flex-column bg-white rounded p2" style="height:100%">
         <h3 class="p1 red border-bottom border-navy bold caps mt0" style="border-width:5px;">Events</h3>
         <div class="flex-auto mb3">
-          {{ $section := (where .Site.Data.events.event "start_date" "ge" (.Date.Format "2006-01-02")) }}
-          {{ range first 5 (sort $section "start_date") }}
-          <div class="flex items-center border-bottom border-silver py2">
-            <div class="mr1 bg-green rounded white px1 center flex items-center">
-              <div class="h6 bold" style="padding:0.15em;">{{dateFormat "2" .start_date }}</div>
-              <div class="h6 bold" style="padding:0.15em;">{{dateFormat "Jan" .start_date }}</div>
-            </div>
-            <div class="flex-auto">
-              <div class="text-decoration-none block black h4">{{.name}}</div>
-            </div>
-            {{ if .holiday }}
-            <div class="h6 bg-orange white rounded bold" style="padding:0.15em 0.5em;">H</div>
-            {{end}}
-          </div>
-          {{ end }}
+          <p id="sorting_event"></p>
+          
         </div>
         <div class="right-align mb1">
           <a href="{{ with .Site.GetPage "section" "events" }}{{ .URL}}{{ end }}" class="bg-red p1 h6 rounded bold caps white h5 text-decoration-none">All Events</a>
@@ -126,7 +113,7 @@
    duration: 250,
    loop: true,
  });
- // listen for keydown event
+ listen for keydown event
  setInterval(() => mySiema.next(), 4000)
 </script>
 {{ end }}
