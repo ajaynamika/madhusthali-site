@@ -5,9 +5,9 @@ date = "2017-12-17T10:47:26+05:30"
 description = ""
 email = "madhusthali@gmail.com"
 google_map_coordinates = "24.2984308,86.6179996"
-keywords = ""
+keywords = "Madhusthali Vidyapeeth, best school in jharkhand"
 name = "Madhusthali Vidyapeeth"
-phone_no = "9572224404, 9304845748"
+phone_no = "8084272772, 9931565416"
 title = "Contact"
 
 +++
