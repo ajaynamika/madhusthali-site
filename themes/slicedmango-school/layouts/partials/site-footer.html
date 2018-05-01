@@ -40,7 +40,7 @@
     console.log(data.length);
     var i=0;
     $.each(data, function(key, val) {
-    i++;      
+  
 var list ='<div class="flex items-center py2 border-bottom border-silver">' +
           '<div class="mr1 bg-green rounded white px1 center flex items-center">' +
             '<div class="h6 bold" style="padding:0.15em;"> '+val.s_date+'</div>' + ' <span class="mr1 ml1">to</span> ' +
@@ -57,7 +57,25 @@ var list ='<div class="flex items-center py2 border-bottom border-silver">' +
         }
 
       $("#event").append(list);
-      if(i<=4){
+      var today = new Date();
+      var dd = today.getDate();
+      var mm = today.getMonth()+1; //January is 0!
+      var yyyy = today.getFullYear();
+
+      
+
+      today = dd + '/' + mm + '/' + yyyy;
+
+      var a = val.s_date.split("/")
+      var newDate = a[2] + "-" + a[1] + "-" + a[0]
+      
+      var x = new Date(newDate);
+      var y = new Date();
+      console.log(x);
+      console.log(y);
+      
+      if( x >= y && i<=4){
+          i++;
         var sorting_list = '<div class="flex items-center py2 border-bottom border-silver">' +
           '<div class="mr1 bg-green rounded white px1 center flex items-center">' +
             '<div class="h6 bold" style="padding:0.15em;"> '+val.s_date+'</div>' +
@@ -73,7 +91,7 @@ var list ='<div class="flex items-center py2 border-bottom border-silver">' +
         }
       $("#sorting_event").append(sorting_list);
       }
-
+      
     });
   }
 });
