@@ -12,7 +12,7 @@ weight = 5
 +++
 ### Admission Policy
 
-Madhusthali Vidyapeeth is a fully co-ed residential school  and is affiliated to Council for Indian School of Certificate  Examinations, New Delhi and follows ICSE & ISC Syllabus. The medium  of instruction is English. Students are admitted to standard KG to IX  and XI. Hindi/Sanskrit/Bengali are offered as second & third  language to students of classes V - VIII and second language to students  of IX & X. Students are also considered for admission to X &  XII standard, subject to fulfillment of conditions laid down by the  Council.
+Madhusthali Vidyapeeth is a fully co-ed residential school  and is affiliated to Council for Indian School of Certificate  Examinations, New Delhi and follows ICSE & ISC Syllabus. The medium  of instruction is English. Students are admitted to standard KG to IX  and XI. Hindi/Sanskrit/Bengali are offered as second & third  language to students of classes V - VIII and second language to students  of IX & X. Students are also considered for admission to X &  XII standard, subject to fulfillment of conditions laid down by the  Council. **_Applications are also invited for admission as per RTE guidelines._**
 
 ### Admission Criteria
 
