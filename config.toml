@@ -3,25 +3,25 @@ languageCode = "en-us"
 theme = "slicedmango-school"
 title = "Madhusthali Vidyapeeth"
 [[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 10
-[[menu.footer]]
-name = "Gallery"
-url = "/gallery/"
-weight = 9
-[[menu.footer]]
-name = "The Group"
-url = "/group/"
-weight = 5
+name = "Home"
+url = "/"
+weight = 1
 [[menu.footer]]
 name = "About"
 url = "/about/"
 weight = 2
 [[menu.footer]]
-name = "Home"
-url = "/"
-weight = 1
+name = "The Group"
+url = "/group/"
+weight = 5
+[[menu.footer]]
+name = "Gallery"
+url = "/gallery/"
+weight = 9
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 10
 [[menu.footer]]
 name = "Lifestyle"
 url = "/about/"
@@ -31,25 +31,25 @@ name = "Academics"
 url = "/academics/"
 weight = 3
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 9
-[[menu.main]]
-name = "Gallery"
-url = "/gallery/"
-weight = 8
-[[menu.main]]
-name = "Lifestyle"
-url = "/lifestyle/"
-weight = 4
+name = "About"
+url = "/about/"
+weight = 1
 [[menu.main]]
 name = "The Group"
 url = "/group/"
 weight = 3
 [[menu.main]]
-name = "About"
-url = "/about/"
-weight = 1
+name = "Lifestyle"
+url = "/lifestyle/"
+weight = 4
+[[menu.main]]
+name = "Gallery"
+url = "/gallery/"
+weight = 8
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 9
 [[menu.main]]
 name = "Facilities"
 url = "/facilities/"
