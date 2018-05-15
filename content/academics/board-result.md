@@ -7,9 +7,9 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "96%"
-name = "PRASHANT SINHA"
-picture = "images/student1.jpg"
+marks = "96.2%"
+name = "SHAHROZE SHAHAB"
+picture = ""
 [[topper]]
 marks = "93%"
 name = "SHASHI SHEKHAR SINGH"
@@ -44,4 +44,4 @@ name = "SADHVI KUMARI"
 picture = "images/student10.jpg"
 
 +++
-## ICSE 2017 School Toppers
+## ICSE 2018 School Toppers
