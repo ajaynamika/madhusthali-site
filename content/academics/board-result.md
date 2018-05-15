@@ -9,39 +9,39 @@ type = "toppers"
 [[topper]]
 marks = "96.2%"
 name = "SHAHROZE SHAHAB"
-picture = ""
+picture = "/uploads/2018/05/15/sharoz.jpg"
 [[topper]]
 marks = "91.6%"
 name = "HARSH RAJ SINGH"
-picture = ""
+picture = "/uploads/2018/05/15/93.jpg"
 [[topper]]
 marks = "91%"
 name = "ISHU KUMAR"
-picture = ""
+picture = "/uploads/2018/05/15/90.jpg"
 [[topper]]
 marks = "88%"
 name = "ROUSHAN KUMAR"
-picture = ""
+picture = "/uploads/2018/05/15/80.jpg"
 [[topper]]
 marks = "86.6%"
 name = "AYAN ALI"
-picture = ""
+picture = "/uploads/2018/05/15/131.jpg"
 [[topper]]
 marks = "86%"
 name = "ABHISHEK ROY"
-picture = ""
+picture = "/uploads/2018/05/15/126.jpg"
 [[topper]]
 marks = "90%"
 name = "ROHIT GUTGUTIA"
-picture = ""
+picture = "/uploads/2018/05/15/21.jpg"
 [[topper]]
 marks = "70%"
 name = "HARENDRA TUDU"
-picture = ""
+picture = "/uploads/2018/05/15/26.jpg"
 [[topper]]
 marks = "83.6%"
 name = "KRITI KHERIA"
-picture = ""
+picture = "/uploads/2018/05/15/8.jpg"
 
 +++
 ## ICSE & ISC 2018 School Toppers
