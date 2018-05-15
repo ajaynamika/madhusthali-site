@@ -44,4 +44,4 @@ name = "KRITI KHERIA"
 picture = ""
 
 +++
-## ICSE 2018 School Toppers
+## ICSE & ISC 2018 School Toppers
