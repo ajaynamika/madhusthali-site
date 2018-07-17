@@ -1,6 +1,5 @@
 ---
-pages:
-- news_ticker/_index.md
+label: news_ticker
 hide_body: false
 is_partial: false
 fields:
@@ -39,3 +38,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/news_ticker/_index.md

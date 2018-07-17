@@ -1,6 +1,5 @@
 ---
-pages:
-- about/managing-trustee-message.md
+label: message
 hide_body: false
 is_partial: false
 fields:
@@ -44,3 +43,5 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+pages:
+- content/about/managing-trustee-message.md

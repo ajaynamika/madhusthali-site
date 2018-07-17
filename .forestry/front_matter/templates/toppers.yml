@@ -1,6 +1,5 @@
 ---
-pages:
-- academics/board-result.md
+label: toppers
 hide_body: false
 is_partial: false
 fields:
@@ -63,3 +62,5 @@ fields:
   - picture: images/person.jpg
     name: ''
     marks: ''
+pages:
+- content/academics/board-result.md

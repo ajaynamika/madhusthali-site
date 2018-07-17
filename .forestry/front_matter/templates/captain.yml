@@ -1,6 +1,5 @@
 ---
-pages:
-- about/school-captain.md
+label: captain
 hide_body: false
 is_partial: false
 fields:
@@ -75,3 +74,5 @@ fields:
     designation: ''
     class: ''
     stream: ''
+pages:
+- content/about/school-captain.md
