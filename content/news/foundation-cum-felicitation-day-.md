@@ -1,7 +1,6 @@
 +++
 date = "2018-07-17T03:53:58+00:00"
 description = ""
-draft = true
 keywords = ""
 title = "FOUNDATION CUM FELICITATION DAY "
 type = ""
