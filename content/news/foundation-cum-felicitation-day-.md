@@ -2,7 +2,7 @@
 date = "2018-07-17T03:53:58+00:00"
 description = ""
 keywords = ""
-title = "FOUNDATION CUM FELICITATION DAY "
+title = "Foundation Cum Felicitation Day"
 type = ""
 
 +++
