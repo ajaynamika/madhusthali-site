@@ -19,3 +19,7 @@ The program saw one more scintillating colorful dance display by the middle sect
 The Chief Guest Prof. Braja Nath Kundu was superlative in his appreciation of the students, teachers and management for an organized program. He stated that he felt highly honored and elated to have visited Madhusthali Vidyapeeth. He lauded the vision and the relentless efforts of the management as he went on to appreciate the hard work done by students and their mentors for presenting such a message oriented program.
 
 The vote of thanks was proposed by Md. Jawed Equabal (Senior Coordinator). VIII. The program was culminated with the National Anthem.
+
+![](/uploads/2018/07/18/mv.jpg)
+
+![](/uploads/2018/07/18/mv1.jpg)
