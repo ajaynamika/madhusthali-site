@@ -1,7 +1,7 @@
 +++
 banner = "/images/campus.jpg"
 date = "2017-12-17T07:02:17+05:30"
-description = ""
+description = "MCKV Group"
 keywords = ""
 title = "The Group"
 [[relatedSchool]]
