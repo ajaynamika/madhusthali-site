@@ -2,7 +2,6 @@
 banner = ""
 date = "2018-10-29T07:35:21+00:00"
 description = ""
-draft = true
 keywords = ""
 title = "Terms & Conditions for fees"
 
