@@ -1,7 +1,7 @@
 +++
 banner = ""
 date = "2017-12-05T16:47:23+05:30"
-description = ""
+description = "Mission of the school"
 keywords = ""
 tags = []
 title = "Our Mission"
