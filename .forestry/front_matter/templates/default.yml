@@ -28,3 +28,5 @@ fields:
   type: file
   hidden: false
   default: "/images/default_banner.jpg"
+pages:
+- content/tnc.md
