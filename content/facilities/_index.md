@@ -12,7 +12,7 @@ weight = 7
 
 ![](/uploads/2017/12/19/IMG_3162.jpg)
 
-The school is an aesthetically structure designed by well- known  architect late Mr. Nariman Gandhi. The living and working spaces are  structured to inspire harmony. We have spared no pains to make the  surroundings fresh and green. Only in such a beautiful atmosphere can  there be germination of productive thoughts and ideas. Well- equipped  science laboratories and computer laboratories along with well stocked  library and modern classrooms are an integral part of our  infrastructure.
+The school is an aesthetically structure designed by well- known  architect late Mr. Nariman Gandhi. The living and working spaces are  structured to inspire harmony. We have spared no pains to make the  surroundings fresh and green. Only in such a beautiful atmosphere can  there be germination of productive thoughts and ideas. Well- equipped  science laboratories and computer laboratories along with well stocked  library and modern classrooms are an integral part of our infrastructure.
 
 ### Science Laboratory
 
@@ -38,7 +38,7 @@ Our school library includes an extensive range of resources  including fiction a
 
 ![](/uploads/2017/12/19/IMG_3267.jpg)
 
-The hostel rooms have an ambience for students to make them  feel like home, that ensures proper growth of the mind. The rooms are  spacious and well-furnished having all the basic amenities. Boys and  girls have separate dormitory units with 24hrs security. Uninterrupted  water supply 24\*7 is ensured by the hostel authorities. Hostel  in-charges are always available to look after the needs and comfort of  the students.
+The hostel rooms have an ambience for students to make them  feel like home, that ensures proper growth of the mind. The rooms are  spacious and well-furnished having all the basic amenities. Boys and  girls have separate dormitory units with 24hrs security. Uninterrupted  water supply 24*7 is ensured by the hostel authorities. Hostel  in-charges are always available to look after the needs and comfort of  the students.
 
 ### Health & Medical Care
 
