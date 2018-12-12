@@ -32,7 +32,7 @@ Smart Classes provides tools and content for interactive  self-paced learning by
 
 ![](/uploads/2017/12/19/IMG_2967.jpg)
 
-Our school library includes an extensive range of resources  including fiction and non-fiction books, maps, journals, periodicals,  newspapers and videos that support a variety of subjects for study and  reference. All students have regular access to the library, encouraging  the use of the facilities in order to instill the love of reading from  an early age. The school librarians are available to assist students in  how to best access the library resources and develop their research  skills. The library is indeed one of the most loved spaces by the  students of Madhusthali.
+Our school library includes an extensive range of resources  including fiction and non-fiction books, maps, journals, periodicals,  newspapers and videos that support a variety of subjects for study and  reference. All students have regular access to the library, encouraging  the use of the facilities in order to instill the love of reading from  an early age. The school librarians are available to assist students in  how to best access the library resources and develop their research  skills. The library is indeed one of the most loved spaces by the  students of Madhusthali. 
 
 ### Hostel Life
 
