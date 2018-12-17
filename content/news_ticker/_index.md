@@ -7,4 +7,4 @@ item = "Admissions Open For Academic Session 2019 - 2020 for Nursery to 12th sta
 link = ""
 
 +++
-Admissions Open For Academic Session 2019 - 2020 for Nursery to 12th standard.
+Admissions Open For Academic Session 2019 - 2020 for Nursery to Nine and Eleven standard.
