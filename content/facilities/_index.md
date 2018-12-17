@@ -32,13 +32,13 @@ Smart Classes provides tools and content for interactive  self-paced learning by
 
 ![](/uploads/2017/12/19/IMG_2967.jpg)
 
-Our school library includes an extensive range of resources  including fiction and non-fiction books, maps, journals, periodicals,  newspapers and videos that support a variety of subjects for study and  reference. All students have regular access to the library, encouraging  the use of the facilities in order to instill the love of reading from  an early age. The school librarians are available to assist students in  how to best access the library resources and develop their research  skills. The library is indeed one of the most loved spaces by the  students of Madhusthali. 
+Our school library includes an extensive range of resources  including fiction and non-fiction books, maps, journals, periodicals,  newspapers and videos that support a variety of subjects for study and  reference. All students have regular access to the library, encouraging  the use of the facilities in order to instill the love of reading from  an early age. The school librarians are available to assist students in  how to best access the library resources and develop their research  skills. The library is indeed one of the most loved spaces by the  students of Madhusthali.
 
 ### Hostel Life
 
 ![](/uploads/2017/12/19/IMG_3267.jpg)
 
-The hostel rooms have an ambience for students to make them  feel like home, that ensures proper growth of the mind. The rooms are  spacious and well-furnished having all the basic amenities. Boys and  girls have separate dormitory units with 24hrs security. Uninterrupted  water supply 24*7 is ensured by the hostel authorities. Hostel  in-charges are always available to look after the needs and comfort of  the students.
+The hostel rooms have an ambience for students to make them  feel like home, that ensures proper growth of the mind. The rooms are  spacious and well-furnished having all the basic amenities. Boys and  girls have separate dormitory units with 24hrs security. Uninterrupted  water supply 24*7 is ensured by the hostel authorities. Hostel  in-charges are always available to look after the needs and comfort of the students.
 
 ### Health & Medical Care
 
