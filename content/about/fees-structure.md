@@ -12,7 +12,7 @@ menu:
     weight: 8
 
 ---
-### FEES-STRUCTURE : 2018-19
+### FEES-STRUCTURE : 2019-20
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging*</td>
 
@@ -53,7 +53,7 @@ menu:
 * Classes VIII to X =(4400+9700)*12 = Rs. 1,69,200.00
 * Classes XI to XII =(4800+10000)*12 = Rs. 1,77,600.00
 
-### REGISTRATION FORM
+### MODE OF PAYMENTS
 
 * Parents are requested to pay the school fees by cash, at par cheque or crossed demand draft drawn on any bank in favour of "Madhusthali Vidyapeeth" payable at Kolkata on or before the last date. (Cheque and money order are not accepted)
 * If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
@@ -118,11 +118,3 @@ menu:
 <td>Rs. 3525.00</td>
 </tr>
 </table>
-
-### MODE OF PAYMENTS
-
-Parents are requested to pay the school fee by cash, at par cheque or crossed demand draft drawn on any bank in favour of "Madhusthali Vidyapeeth" payable at Kolkata/Madhupur on or before the last date.
-
-If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
-
-All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
