@@ -27,7 +27,7 @@ Age of the student- (For K. G, 4 years plus as on 1st April of the year of admis
 
 Prospectus and Registration form can be downloaded from the  School website, www.madhusthali.edu.in and send the form dully filled  and signed along with the registration charges of Rs. 500/- to the trust  office or can be obtained on request by post or in person by paying Rs.  500/- in cash or DD (in the name of Madhusthali Vidyapeeth payable at  Madhupur/Kolkata) from the School office or from Nodal office at C/o M. C. Kejriwal Vidyapeeth, 243, G.T. Road, (North) Liluah, Howrah – 711204.  Between 9.00 AM to 2.00 PM on working days except holidays.
 
-[Download registration Form](admission_form.pdf)
+[Download registration Form](static/uploads/admission_form.pdf)
 
 ### Registration
 
