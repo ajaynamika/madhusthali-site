@@ -1,7 +1,6 @@
 ---
 label: news
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -29,5 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/news/foundation-cum-felicitation-day-.md
 - content/news/international-school-award-2018-21.md
+- content/news/foundation-cum-felicitation-day-.md

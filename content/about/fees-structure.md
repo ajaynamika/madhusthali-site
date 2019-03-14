@@ -59,15 +59,15 @@ menu:
 * If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
-### FEES-STRUCTURE FOR DAY SCHOLARS: 2018-19
+### FEES-STRUCTURE FOR DAY SCHOLARS: 2019-20
 
-<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 5000.00</td>
+<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 6000.00</td>
 
-<td>Rs. 5000.00</td>
+<td>Rs. 6000.00</td>
 
-<td>Rs. 5000.00</td>
+<td>Rs. 6000.00</td>
 
-<td>Rs. 5000.00</td> </tr>
+<td>Rs. 6000.00</td> </tr>
 
 <tr>
 
@@ -85,36 +85,26 @@ menu:
 <td>4.</td>
 <td>Monthly Tution fees (every month)</td>
 
-<td>Rs. 1350.00</td>
+<td>Rs. 1550.00</td>
 
-<td>Rs. 1900.00</td>
+<td>Rs. 2150.00</td>
 
-<td>Rs. 2300.00</td>
+<td>Rs. 2550.00</td>
+
+<td>Rs. 3050.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
+
+<td>Rs. 700.00</td>
+
+<td>Rs. 700.00</td>
+
+<td>Rs. 700.00</td>
+
+<td>Rs. 700.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
+
+<td>Rs. 2250.00</td>
 
 <td>Rs. 2850.00</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Transportation (every month)</td>
 
-<td>Rs. 675.00</td>
+<td>Rs. 3250.00</td>
 
-<td>Rs. 675.00</td>
-
-<td>Rs. 675.00</td>
-
-<td>Rs. 675.00</td>
-</tr>
-<tr>
-<td></td>
-<td>Total Monthly Fee+ bus Fee</td>
-
-<td>Rs. 2025.00</td>
-
-<td>Rs. 2575.00</td>
-
-<td>Rs. 2975.00</td>
-
-<td>Rs. 3525.00</td>
-</tr>
-</table>
+<td>Rs. 3750.00</td> </tr> </table>

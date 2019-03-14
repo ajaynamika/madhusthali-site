@@ -1,7 +1,6 @@
 ---
 label: message
 hide_body: false
-is_partial: false
 fields:
 - name: banner
   label: Banner
