@@ -19,16 +19,16 @@ marks = "92.4%"
 name = "DIVYAM TEJASWI"
 picture = "/uploads/2019/05/10/3.jpg"
 [[topper]]
-marks = "88%"
-name = "ROUSHAN KUMAR"
-picture = "/uploads/2018/05/15/80.jpg"
-[[topper]]
-marks = "86.6%"
-name = "AYAN ALI"
-picture = "/uploads/2018/05/15/131.jpg"
+marks = "87.8%"
+name = "SURAJ DALMIA"
+picture = "/uploads/2019/05/10/4.jpg"
 [[topper]]
 marks = "86%"
-name = "ABHISHEK ROY"
+name = "ANANDRAJ HEMBROM"
+picture = "/uploads/2019/05/10/5.jpg"
+[[topper]]
+marks = "85.4%"
+name = "SAURABH KEDIA"
 picture = "/uploads/2018/05/15/126.jpg"
 [[topper]]
 marks = "90%"
