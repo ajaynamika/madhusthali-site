@@ -7,9 +7,9 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "96.2%"
-name = "SHAHROZE SHAHAB"
-picture = "/uploads/2018/05/15/sharoz.jpg"
+marks = "94.2%"
+name = "SIDHESWARI GOYAL "
+picture = "/uploads/2019/05/10/Untitled-1.jpg"
 [[topper]]
 marks = "91.6%"
 name = "HARSH RAJ SINGH"
@@ -44,4 +44,4 @@ name = "KRITI KHERIA"
 picture = "/uploads/2018/05/15/8.jpg"
 
 +++
-## ICSE & ISC 2018 School Toppers
+## ICSE & ISC 2019 School Toppers
