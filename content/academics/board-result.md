@@ -29,7 +29,7 @@ picture = "/uploads/2019/05/10/5.jpg"
 [[topper]]
 marks = "85.4%"
 name = "SAURABH KEDIA"
-picture = "/uploads/2018/05/15/126.jpg"
+picture = "/uploads/2019/05/10/6.jpg"
 [[topper]]
 marks = "95%"
 name = "ANUKRIT BATHWAL"
