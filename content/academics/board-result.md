@@ -39,9 +39,9 @@ marks = "94%"
 name = "RAHUL KUMAR"
 picture = "/uploads/2019/05/10/8.jpg"
 [[topper]]
-marks = "83.6%"
-name = "KRITI KHERIA"
-picture = "/uploads/2018/05/15/8.jpg"
+marks = "93%"
+name = "SAKSHI MODI"
+picture = "/uploads/2019/05/10/9.jpg"
 
 +++
 ## ICSE & ISC 2019 School Toppers
