@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/notice/registration-admission-open-for-class-xi-session-2019-20.md
 - content/news/registration-admission-open-for-class-xi-session-2019-20.md
 - content/news/foundation-cum-felicitation-day-.md
 - content/news/international-school-award-2018-21.md
