@@ -1,8 +1,7 @@
 +++
 date = ""
 description = ""
-draft = true
-keywords = ""
+keywords = "Notice"
 title = "Registration & Admission Open For Class XI Session 2019 - 20."
 type = ""
 
