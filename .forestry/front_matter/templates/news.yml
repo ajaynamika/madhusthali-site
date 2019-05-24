@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/horse-riding.md
 - content/news/leo-club-investiture-ceremony.md
 - content/news/scouts-guides-training-session-investiture-ceremony.md
 - content/notice/registration-admission-open-for-class-xi-session-2019-20.md
