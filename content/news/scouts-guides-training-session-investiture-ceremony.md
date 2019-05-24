@@ -10,7 +10,7 @@ type = ""
 
 **Scouts & Guides Training Session & Investiture Ceremony**
 
-Three days Scouts & Guides training session and Investiture Ceremony for the new aspirants started today from 9:30 am- 2:00 pm which was led by Mr.Dinesh Kumar Prasad- District Organizing Commissioner-Jamtara.
+Three days Scouts & Guides training session and Investiture Ceremony for the new aspirants started today from 9:30 am- 2:00 pm which was led by Mr.Dinesh Kumar Prasad- District Organizing Commissioner-Jamtara. 
 
 It was attended by all the new aspirants who had showed up in their complete uniform which was indeed a remarkable sight. Mr. Nilesh Kumar and Mr. Prasun Bagchi had initiated accordingly with the following session.
 
