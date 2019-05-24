@@ -1,7 +1,6 @@
 +++
 date = "2018-12-17T03:30:00+00:00"
 description = ""
-draft = true
 keywords = "Scouts and Guides Training Session"
 title = "Scouts & Guides Training Session & Investiture Ceremony "
 type = ""
