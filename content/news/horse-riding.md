@@ -10,8 +10,10 @@ type = ""
 
 **Horse Riding**
 
-Madhusthali Vidyapeeth has been consistent in meeting the commitments of the students as for the first time in Deoghar Zone we have introduced horse riding facilities to our Madhusthalians. For this, we have started giving horse riding lessons to our students. Our main aim behind this Endeavour is to uplift the status of this sport up to the next level. We have best horse riding coach with us to train our students in a professional way. 
+Madhusthali Vidyapeeth has been consistent in keeping up to our commitments and being the only school in Deoghar Zone, we have introduced horse riding facilities for our students. Our main aim behind this endeavour is to uplift the status of this sport, up to the next level. We have the best horse riding coaches who train our students.
 
-Horse riding isn’t only a sport, although, it’s a great form of exercise that also help students to build a loyal relationship and a sense of trust with their horse. It’s also considered as the noble initiative taken by the school to let students learn care for an animal. 
+This horse riding experience is simply a few minute’s ride around the paddock, lead by our coaches. Nonetheless, it is always a pleasure to see the joy on each little face as the children experience the ride.
 
-We are proud to say that we are working successfully in the directions of achieving our goals.
+As a child progresses in their horse riding skills, they develop self-confidence and self-assurance. Horse riding offers a great workout for both the mind and body, physically boosting the cardiovascular system and easing stress in the mind. Today, where children are exposed to so much external stimuli, they need healthy, and relaxing down time. As a child progresses in their horse riding skills, they develop self-confidence and self-assurance.
+
+Horse riding isn’t only a sport, also help students to build a loyal relationship and a sense of trust with their horse. The students also learn to care for animals.
