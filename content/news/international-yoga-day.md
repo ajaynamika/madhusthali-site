@@ -1,7 +1,6 @@
 +++
 date = "2019-06-21T02:30:00+00:00"
 description = "INTERNATIONAL YOGA DAY"
-draft = true
 keywords = "INTERNATIONAL YOGA DAY"
 title = "INTERNATIONAL YOGA DAY"
 type = ""
