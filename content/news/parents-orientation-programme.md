@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 keywords = "PARENTS ORIENTATION PROGRAMME"
 title = "PARENTS ORIENTATION PROGRAMME"
 type = ""
@@ -24,3 +23,5 @@ Thereon the orientation was enlightened by the presence of respected Mr. Amitabh
 The orientation program ended with a vote of thanks by Mrs. Shabnam Parween -Junior Coordinator. The Orientation proved to be a sincere effort made by the school in educating the parents to look after and guide their children in a proper manner. It is a firm belief that it will help in evolving a common teaching strategy and also help the parents in identifying suitable follow up methods to reinforce the learning process of their children.
 
 ![](/uploads/2019/07/02/IMG-20190625-WA0039.jpg)
+
+![](/uploads/2019/07/02/IMG-20190625-WA0058.jpg)
