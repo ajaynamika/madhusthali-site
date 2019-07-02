@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/parents-orientation-programme.md
 - content/news/international-yoga-day-1.md
 - content/news/international-yoga-day.md
 - content/news/horse-riding.md
