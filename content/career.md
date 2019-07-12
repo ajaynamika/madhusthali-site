@@ -4,6 +4,8 @@ date = ""
 description = ""
 keywords = ""
 title = "Career"
+[menu.footer]
+weight = 11
 [menu.main]
 weight = 10
 
