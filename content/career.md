@@ -4,6 +4,8 @@ date = ""
 description = ""
 keywords = ""
 title = "Career"
+[menu.main]
+weight = 10
 
 +++
 ### Information for Aspiring Teachers
