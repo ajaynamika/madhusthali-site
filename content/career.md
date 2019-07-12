@@ -2,7 +2,6 @@
 banner = "/images/default_banner.jpg"
 date = ""
 description = ""
-draft = true
 keywords = ""
 title = "Career"
 
