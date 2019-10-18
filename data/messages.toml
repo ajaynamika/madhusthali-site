@@ -1,4 +1,9 @@
 [[message]]
+image = ""
+link = "/about/principal-message"
+name = "Principal Message"
+text = "aa"
+[[message]]
 image = "/images/chairman.jpg"
 link = "/about/chairmans-message"
 name = "Chairman's Message"
