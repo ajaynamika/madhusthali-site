@@ -1,9 +1,4 @@
 [[message]]
-image = ""
-link = "/about/principal-message"
-name = "Principal Message"
-text = "aa"
-[[message]]
 image = "/images/chairman.jpg"
 link = "/about/chairmans-message"
 name = "Chairman's Message"
@@ -13,3 +8,8 @@ image = "/uploads/2017/12/19/IMG_5882-1.JPG"
 link = "/about/managing-trustee-message/"
 name = "Vice Chairman Message"
 text = "The key focus areas continue to remain - creating opportunities, challenging minds, encouraging innovation and sustaining excitement."
+[[message]]
+image = ""
+link = "/about/principal-message"
+name = "Principal Message"
+text = "Education is the making of a man. It is an enlightenment which is the sign of a civilized society."
