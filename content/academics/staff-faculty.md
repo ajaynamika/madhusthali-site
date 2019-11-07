@@ -19,14 +19,7 @@ The school is also committed to staff development through a wide range of on-goi
 
 Residential and essential staff is accommodated on the campus in residential quarters. Besides, the hostel staff is accommodated in specially allocated semi-furnished quarters so that they are available whenever the children need them.
 
-<table class="fees-table">
-<tr><th></th><th>	Employee Name</th><th>Designation</th><th>Qualification</th></tr>
-<tr><td>1</td><td>Mr. Aubrey Thompson</td><td>Administrative Officer</td><td>B.A. (Eng Hons) TTC</td></tr>
-<tr><td>2</td><td>Ms. Padma Agarwal</td><td>Canteen-in-Charge</td><td>Intermediate</td></tr>
-<tr><td>3</td><td>Mr Anand Kumar Singh</td><td>Office Assistant</td><td>B.Com (Hons.)</td></tr>
-<tr><td>4</td><td>Mr. Swarup Ghorai</td><td>Account Assistant</td><td>B.Com</td></tr>
-<tr><td>5</td><td>Mrs. Archana Saha</td><td>Nurse</td><td>Matric & Nursing</td></tr>
-</table>
+<table class="fees-table"> <tr><th>S.No.</th><th>Name of Admin Staff</th><th>Designation</th><th>Academic Qualification</th><th>Professional Qualification</th></tr> <tr><td>1</td><td>Mr. Aubrey Thompson</td><td>Campus Administrator</td><td>B.A.</td><td>T.T.C.</td></tr><tr><td>2</td><td>Mr. Anand Kumar Singh</td><td>PA to Principal</td><td>B.Com (Act) Hons.</td><td>CIC, CBA</td></tr><tr><td>3</td><td>Mr. Swarup Ghorai</td><td>Account Assistant</td><td>B.Com.</td><td>No.</td></tr><tr><td>4</td><td>Ms. Padma Agarwal</td><td>Mess Supervisor</td><td>Intermediate</td><td>No.</td></tr><tr><td>5</td><td>Ms. Archana Saha</td><td>Infirmary Incharge</td><td>Matric</td><td>No.</td></tr><tr><td>6</td><td>Ms. Sarnali Roy</td><td>Office Assistant</td><td>BCA</td><td>Computer</td></tr><tr><td>7</td><td>Mr. Subrata Mazumder</td><td>Hoetel Warden</td><td>B.Com</td><td>DCA</td></tr><tr><td>8</td><td>Mr. Subrato Ghosh</td><td>Store incharge</td><td>M.Com</td><td>No.</td></tr><tr><td>9</td><td>Mr. Pintu Kumar Bose</td><td>Maintanence</td><td>Intermediate</td><td>No.</td></tr></table>
 
 ### PARTNERSHIP WITH PARENTS
 
