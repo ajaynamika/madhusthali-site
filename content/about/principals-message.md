@@ -32,4 +32,5 @@ Welcome Aboard..........
 
 #### Welcome to Madhusthali .... .
 
-##### Principal
+**Bitan Biswas**  
+Principal
