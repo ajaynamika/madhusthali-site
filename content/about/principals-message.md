@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/2019/11/07/principal.JPG"
+banner = "/uploads/2019/11/07/pp1.JPG"
 date = 2017-12-04T10:07:10Z
 description = ""
 keywords = ""
