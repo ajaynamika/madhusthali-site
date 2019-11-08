@@ -10,6 +10,8 @@ title = "Message from the Principal"
 +++
 Education is the making of a man. It is an enlightenment which is the sign of a civilized society. Culture comes from it and this grooms and shapes individuals and regulates their behaviour and attitude. The right attitude is needed to reach the right altitude of life.
 
+![](/uploads/2019/11/07/principal.JPG)
+
 We, at Madhusthali, endeavour to attain this. We pluck the children young and with our pupil centric atmosphere, we apply student friendly techniques. We work on their personality traits in a manner that helps inculcate in them the right attitude towards life, which includes their academic sphere and their personal life.
 
 What is the very purpose of school education? Is it limited to helping students achieve that very important number to get into University? If so, why is it that all the most meritorious students are not necessarily the most successful in life?
