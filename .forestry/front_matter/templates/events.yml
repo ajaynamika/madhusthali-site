@@ -54,6 +54,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/news/thumb-printing-activity.md
 - content/news/may-day-special-assembly.md
 - content/news/colouring-drawing-competition.md
+- content/news/thumb-printing-activity.md

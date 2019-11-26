@@ -1,9 +1,9 @@
 +++
-banner = "images/default_banner.jpg"
+banner = ""
 date = ""
 description = ""
 end_date = ""
-images = ["images/default_banner.jpg"]
+images = []
 keywords = ""
 start_date = ""
 title = "COLOURING & DRAWING COMPETITION "
