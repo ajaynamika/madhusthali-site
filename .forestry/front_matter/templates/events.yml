@@ -54,6 +54,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/inter-house-hindi-recitation-competition.md
 - content/news/self-introduction.md
 - content/news/children-s-day-celebration.md
 - content/news/may-day-special-assembly.md
