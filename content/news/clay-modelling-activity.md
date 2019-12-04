@@ -1,17 +1,12 @@
 +++
-banner = "/images/default_banner.jpg"
+banner = ""
+captain = []
 date = ""
 description = ""
 keywords = ""
 layout = "captain"
 title = "Clay Modelling Activity"
 type = "captain"
-[[captain]]
-class = ""
-designation = ""
-name = ""
-picture = "images/person.jpg"
-stream = ""
 
 +++
 Clay modelling is a great way to help children to develop imagination and spark creativity. Our school organized clay modelling activity for the class K.G. to II, Wherein the students participated enthusiastically. It enhanced their gross motor skills and creativity.

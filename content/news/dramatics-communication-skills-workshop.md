@@ -1,15 +1,12 @@
 +++
-banner = "/images/default_banner.jpg"
+banner = ""
 date = ""
 description = ""
 keywords = ""
 layout = "toppers"
 title = "Dramatics & Communication Skills Workshop"
+topper = []
 type = "toppers"
-[[topper]]
-marks = ""
-name = ""
-picture = "images/person.jpg"
 
 +++
 A wonderful session on Dramatics was conducted as the students were seen in the best of their spirits.
