@@ -3,10 +3,10 @@ banner = ""
 date = ""
 description = ""
 keywords = ""
-layout = "toppers"
+layout = ""
 title = "Dramatics & Communication Skills Workshop"
 topper = []
-type = "toppers"
+type = ""
 
 +++
 A wonderful session on Dramatics was conducted as the students were seen in the best of their spirits.

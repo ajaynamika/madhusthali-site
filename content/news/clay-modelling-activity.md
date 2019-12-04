@@ -4,9 +4,9 @@ captain = []
 date = ""
 description = ""
 keywords = ""
-layout = "captain"
+layout = ""
 title = "Clay Modelling Activity"
-type = "captain"
+type = ""
 
 +++
 Clay modelling is a great way to help children to develop imagination and spark creativity. Our school organized clay modelling activity for the class K.G. to II, Wherein the students participated enthusiastically. It enhanced their gross motor skills and creativity.

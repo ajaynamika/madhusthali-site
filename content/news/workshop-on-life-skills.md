@@ -3,10 +3,10 @@ banner = ""
 date = ""
 description = ""
 keywords = ""
-layout = "toppers"
+layout = ""
 title = "Workshop on Life Skills "
 topper = []
-type = "toppers"
+type = ""
 
 +++
 “In a constantly changing environment, having life skills is an essential part of being able to meet the challenges of everyday life.

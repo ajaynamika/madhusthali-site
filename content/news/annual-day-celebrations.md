@@ -3,10 +3,10 @@ banner = ""
 date = ""
 description = ""
 keywords = ""
-layout = "toppers"
+layout = ""
 title = "Annual Day Celebrations"
 topper = []
-type = "toppers"
+type = ""
 
 +++
 **Annual Day** forms an integral part of our school activities. It is an occasion of celebration, felicitation, feast and festivity when students present not only their wonderful performances but also receive honours for their achievements in the ICSE & ISC Examinations, Academic excellences and other special categories.
