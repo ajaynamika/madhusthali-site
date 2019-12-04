@@ -11,7 +11,7 @@ type = ""
 +++
 “In a constantly changing environment, having life skills is an essential part of being able to meet the challenges of everyday life.
 
-Life skills provide children with important tools for development, such as independent thinking, how to socialize and make new friends and how to take action in situations where their parents or teachers may not be around to help or intervene (eg. [dealing with a bully](https://www.learningliftoff.com/interview-with-rosalind-wiseman/) or personal insecurities and fears). Unlike motor skills and basic intelligence, executive functions and [decision-making skills are not innate but learned](https://www.livestrong.com/article/191710-importance-of-teaching-life-skills-to-children/).
+Life skills provide children with important tools for development, such as independent thinking, how to socialize and make new friends and how to take action in situations where their parents or teachers may not be around to help or intervene (eg. dealing with a bully or personal insecurities and fears). Unlike motor skills and basic intelligence, executive functions and decision-making skills are not innate but learned.
 
 Keeping in view of certain requisites to be inculcated right from the early stage, our school organized a workshop which was conducted by HLS (Human Learning System) team from Kolkata.
 
