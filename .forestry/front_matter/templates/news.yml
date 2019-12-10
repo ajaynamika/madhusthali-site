@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/inter-house-hindi-debate-competition-2019.md
 - content/news/inter-house-english-recitation-competition.md
 - content/news/international-yoga-day-1.md
 - content/news/horse-riding.md
