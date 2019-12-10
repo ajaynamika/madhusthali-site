@@ -19,5 +19,3 @@ Miss Aditi Rani of Class - IV from Nilgiri House and Miss Kavya Dalmia of Class 
 The vote of thanks was delivered by Aman Sagar Gupta of Class - V.
 
 The Competition concluded with an encouraging speech by our respected Principal who congratulated all the winners and participants and appreciated for the success of the programme.
-
-![](/uploads/2019/12/10/20190831_102323-1.jpg)
