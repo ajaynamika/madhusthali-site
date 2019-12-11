@@ -1,7 +1,6 @@
 +++
 date = 2019-12-10T18:30:00Z
 description = "Annual Sports Meet 2019"
-draft = true
 keywords = "Annual Sports Meet 2019,"
 title = "Annual Sports Meet 2019"
 type = ""
