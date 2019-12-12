@@ -6,7 +6,7 @@ title = "Annual Sports Meet 2019"
 type = ""
 
 +++
-MV/Acdm/19-20/0422 Date : 11/12/2019
+MV/Acdm/19-20/0422                                          Date : 11/12/2019
 
 Dear Parents,  
 Season's Greetings!  
@@ -21,3 +21,5 @@ Hence, we earnestly urge you to encourage and motivate your children for active 
 Regards,
 
 Principal
+
+***
