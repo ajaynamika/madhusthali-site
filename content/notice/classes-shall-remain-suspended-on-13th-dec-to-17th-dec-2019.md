@@ -6,7 +6,7 @@ title = "Classes shall remain suspended on 13th Dec to 17th Dec 2019"
 type = ""
 
 +++
-MV/Acdm/19-20/ 0423                                                      12/11/2019
+MV/Acdm/19-20/ 0423                                                      12/12/2019
 
 Dear Parents,
 
