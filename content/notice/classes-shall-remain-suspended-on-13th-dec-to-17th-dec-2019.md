@@ -2,7 +2,7 @@
 date = ""
 description = ""
 keywords = ""
-title = "classes shall remain suspended on 13th Dec to 17th Dec 2019"
+title = "Classes shall remain suspended on 13th Dec to 17th Dec 2019"
 type = ""
 
 +++
