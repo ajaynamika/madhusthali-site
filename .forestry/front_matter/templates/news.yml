@@ -29,9 +29,9 @@ fields:
   default: ''
 pages:
 - content/news/bank-visit.md
-- content/news/rath-yatra-special-assembly.md
 - content/news/teachers-day-celebration.md
 - content/news/janmasthami-celebration.md
+- content/news/rath-yatra-special-assembly.md
 - content/news/parents-orientation-programme.md
 - content/news/registration-admission-open-for-class-xi-session-2019-20.md
 - content/news/scouts-guides-training-session-investiture-ceremony.md

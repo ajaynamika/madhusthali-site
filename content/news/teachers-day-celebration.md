@@ -6,7 +6,7 @@ title = "Teachers Day Celebration"
 type = ""
 
 +++
-Students solemnly celebrated Teacher’s Day with great gusto and gaiety. The program was led with a prayer song by the school choir, followed by an innovative inauguration followed by lighting of the lamp in remembrance of Dr. Sarvepalli Radhakrishnan.
+Students solemnly celebrated Teacher’s Day with great gusto and gaiety. The program was led with a prayer song by the school choir, followed by an innovative inauguration followed by lighting of the lamp in remembrance of Dr. Sarvepalli Radhakrishnan. 
 
 The cultural program began with a Bharatnatyam dance performance by Miss Sreeja Sur of Std. XII. Students performed a scintillating display expressing their ardent love and recognition of the hard work put in by the teachers towards their development.
 
