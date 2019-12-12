@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/janmasthami-celebration.md
 - content/news/bank-visit.md
 - content/news/parents-orientation-programme.md
 - content/news/registration-admission-open-for-class-xi-session-2019-20.md
