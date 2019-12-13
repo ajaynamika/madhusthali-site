@@ -29,17 +29,17 @@ fields:
   default: ''
 pages:
 - content/news/bank-visit.md
-- content/news/teachers-day-celebration.md
-- content/news/janmasthami-celebration.md
-- content/news/rath-yatra-special-assembly.md
-- content/news/parents-orientation-programme.md
-- content/news/registration-admission-open-for-class-xi-session-2019-20.md
-- content/news/scouts-guides-training-session-investiture-ceremony.md
-- content/news/international-yoga-day-1.md
+- content/news/foundation-cum-felicitation-day-.md
+- content/news/horse-riding.md
 - content/news/inter-house-english-recitation-competition.md
 - content/news/inter-house-hindi-debate-competition-2019.md
-- content/news/rakhi-making-competition.md
 - content/news/international-school-award-2018-21.md
+- content/news/international-yoga-day-1.md
+- content/news/janmasthami-celebration.md
 - content/news/leo-club-investiture-ceremony.md
-- content/news/horse-riding.md
-- content/news/foundation-cum-felicitation-day-.md
+- content/news/parents-orientation-programme.md
+- content/news/rakhi-making-competition.md
+- content/news/rath-yatra-special-assembly.md
+- content/news/registration-admission-open-for-class-xi-session-2019-20.md
+- content/news/scouts-guides-training-session-investiture-ceremony.md
+- content/news/teachers-day-celebration.md
