@@ -8,8 +8,6 @@ tags = []
 title = "Our inspiration …forever"
 
 +++
-![](/uploads/2020/01/03/pp.jpg)
-
 **_Shri Shyam Sunder Kejriwal, a prominent entrepreneur and philanthropist, strongly felt that the development of India as a modern, progressive, prosperous, and self-reliant country depended entirely on the creation of a well-informed and educated citizenry. It was with this vision that he established M. C. Kejriwal Vidyapeeth on 15 June 1997, and created, with a missionary zeal, an institution that would, one day, under his Chairmanship, be ranked among the top ten boys’ schools in the Kolkata region (Education World Survey, 2019)._**
 
 **_With his commitment to the cause of education in the country unabated, Shri S. S. Kejriwal also established the MCKV Institute of Engineering in Howrah, Madhusthali Vidyapeeth (a co-educational residential school), Madhusthali Institute of Teacher Training, and Madhusthali Institute of Paramedical Sciences in Madhupur, Jharkhand._**
