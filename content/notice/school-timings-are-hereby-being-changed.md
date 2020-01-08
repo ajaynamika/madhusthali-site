@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-01-07T18:30:00Z
 description = ""
 keywords = ""
 title = "School timings are hereby being changed"
