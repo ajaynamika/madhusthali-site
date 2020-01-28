@@ -38,4 +38,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/71st-republic-day.md
 - content/news_ticker/_index.md
