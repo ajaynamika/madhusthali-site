@@ -1,7 +1,6 @@
 +++
 date = 2020-01-26T18:30:00Z
 description = ""
-draft = true
 keywords = ""
 title = "Extra coaching classes for the students of class-XI"
 type = ""
