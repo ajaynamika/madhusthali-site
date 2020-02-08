@@ -59,48 +59,48 @@ menu:
 * If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
-### FEES-STRUCTURE FOR DAY SCHOLARS:2019-20
+### FEES-STRUCTURE FOR DAY SCHOLARS:2020-2021
 
-<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500</td> <td>Rs. 500</td> <td>Rs. 500</td> <td>Rs. 500</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 6000</td>
+<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 8000.00</td>
 
-<td>Rs. 6000</td>
+<td>Rs. 8000.00</td>
 
-<td>Rs. 6000</td>
+<td>Rs. 8000.00</td>
 
-<td>Rs. 6000</td> </tr>
+<td>Rs. 8000.00</td> </tr>
 
 <tr>
 
 <td>3.</td> <td>Security Deposit(refundable) (Once at the time of admission)</td>
 
-<td>Rs. 5000</td>
+<td>Rs. 5000.00</td>
 
-<td>Rs. 5000</td>
+<td>Rs. 5000.00</td>
 
-<td>Rs. 5000</td>
+<td>Rs. 5000.00</td>
 
-<td>Rs. 5000</td> </tr> <tr> <td>4.</td> <td>Monthly Tution fees (every month)</td>
+<td>Rs. 5000.00</td> </tr> <tr> <td>4.</td> <td>Monthly Tution Fees (every month)</td>
 
-<td>Rs. 1550</td>
+<td>Rs. 1800.00</td>
 
-<td>Rs. 2150</td>
+<td>Rs. 2400.00</td>
 
-<td>Rs. 2550</td>
+<td>Rs. 2800.00</td>
 
-<td>Rs. 3050</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
+<td>Rs. 3300.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
 
-<td>Rs. 700</td>
+<td>Rs. 750.00</td>
 
-<td>Rs. 700</td>
+<td>Rs. 750.00</td>
 
-<td>Rs. 700</td>
+<td>Rs. 750.00</td>
 
-<td>Rs. 700</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
+<td>Rs. 750.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
 
-<td>Rs. 2250</td>
+<td>Rs. 2550.00</td>
 
-<td>Rs. 2850</td>
+<td>Rs. 3150.00</td>
 
-<td>Rs. 3250</td>
+<td>Rs. 3550.00</td>
 
-<td>Rs. 3750</td> </tr> </table>
+<td>Rs. 4050.00</td> </tr> </table>
