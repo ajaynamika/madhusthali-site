@@ -40,15 +40,15 @@ menu:
 
 </table>
 
-* Class I & II= (3900+9000) x12   = Rs.1,54,800.00
-* Classes III to VII = (4300+9500)x12  = Rs.1,65,600.00     	
-* Classes VIII to X = (4700+10000) x12  = Rs.1,76,400.00    
-* Classes XI to XII = (5100+10500) x12  = Rs.1,87,200.00
+* __*__Class I & II= (3900.00+9000.00) x12   = Rs.1,54,800.00
+* __*__Classes III to VII = (4300.00+9500.00)x12  = Rs.1,65,600.00
+* __*__Classes VIII to X = (4700.00+10000.00) x12  = Rs.1,76,400.00
+* __*__Classes XI to XII = (5100+10500.00) x12  = Rs.1,87,200.00
 
 ### Mode of Payments:-
 
 * Parents are requested to pay the school fee by cash, at par cheque orcrossed  demand draft drawn on  any bank  in  favour of "**Madhusthali Vidyapeeth**" payable at **Kolkata/Madhupur** on or before the last date.
-* If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished. 
+* If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
 ### Concessions :-
