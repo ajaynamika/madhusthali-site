@@ -1,9 +1,9 @@
 +++
 address = "Salaiya, Madhupur,\nDistrict - Deoghar, Jharkhand - 815353\n"
 banner = ""
-date = "2017-12-17T10:47:26+05:30"
+date = 2017-12-17T05:17:26Z
 description = ""
-email = "info@madhuthali.edu.in"
+email = "info@madhusthali.edu.in"
 google_map_coordinates = "24.2984308,86.6179996"
 keywords = "Madhusthali Vidyapeeth, best school in jharkhand"
 name = "Madhusthali Vidyapeeth"
