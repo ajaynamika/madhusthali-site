@@ -20,7 +20,7 @@ You are requested to collect the school diary, text books, exercise books, and o
 
 4th April 2020 – 09:00 am – 01:00 pm Class VI & VII
 
-5th April 2020 – 09:00 am – 01:00 pm Class VII, IX, X & XII
+5th April 2020 – 09:00 am – 01:00 pm Class VIII, IX, X & XII
 
 The Approximate cost of the Books and stationery for the session 2020-21 shall be sent to you by sms.
 
