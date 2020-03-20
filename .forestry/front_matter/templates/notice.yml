@@ -27,7 +27,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- content/notice/extra-coaching-classes-for-the-students-of-class-xi.md
-- content/notice/reverting-to-the-original-winter-timing-from-monday-03-feb-2020.md
-- content/notice/test.md
