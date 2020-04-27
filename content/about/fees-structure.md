@@ -16,34 +16,34 @@ menu:
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging*</td>
 
-<td>Rs. 1,54,800.00</td>
+<td>Rs. 1,45,200.00</td>
 
-<td>Rs. 1,65,600.00</td>
+<td>Rs. 1,57,200.00</td>
 
-<td>Rs. 1,76,400.00</td>
+<td>Rs. 1,69,200.00</td>
 
-<td>Rs. 1,87,200.00</td
+<td>Rs. 1,77,600.00</td
 
 </tr>
 
 <tr>
 
-<td>Total Charges for the First Year</td> <td>Rs. 1,85,550.00</td>
+<td>Total Charges for the First Year</td> <td>Rs. 1,75,200.00</td>
 
-<td>Rs. 1,96,350.00</td>
+<td>Rs. 1,87,200.00</td>
 
-<td>Rs. 2,07,150.00</td>
+<td>Rs. 1,99,200.00</td>
 
-<td>Rs. 2,17,950.00</td>
+<td>Rs. 2,07,600.00</td>
 
 </tr>
 
 </table>
 
-* __*__Class I & II= (3900.00+9000.00) x12   = Rs.1,54,800.00
-* __*__Classes III to VII = (4300.00+9500.00)x12  = Rs.1,65,600.00
-* __*__Classes VIII to X = (4700.00+10000.00) x12  = Rs.1,76,400.00
-* __*__Classes XI to XII = (5100+10500.00) x12  = Rs.1,87,200.00
+* __*__Class I & II= (3600.00+8500.00) x 12   = Rs.1,45,200.00
+* __*__Classes III to VII = (4000.00+9100.00) x 12  = Rs.1,57,200.00
+* __*__Classes VIII to X = (4400.00+9700.00) x 12  = Rs.1,69,200.00
+* __*__Classes XI to XII = (4800.00+10000.00) x 12  = Rs.1,77,600.00
 
 ### Mode of Payments:-
 
@@ -64,11 +64,11 @@ menu:
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 8000.00</td>
 
-<td>Rs. 8000.00</td>
+<td>Rs. 6000.00</td>
 
-<td>Rs. 8000.00</td>
+<td>Rs. 6000.00</td>
 
-<td>Rs. 8000.00</td> </tr>
+<td>Rs. 6000.00</td> </tr>
 
 <tr>
 
@@ -82,26 +82,26 @@ menu:
 
 <td>Rs. 5000.00</td> </tr> <tr> <td>4.</td> <td>Monthly Tution Fees (every month)</td>
 
-<td>Rs. 1800.00</td>
+<td>Rs. 1550.00</td>
 
-<td>Rs. 2400.00</td>
-
-<td>Rs. 2800.00</td>
-
-<td>Rs. 3300.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
-
-<td>Rs. 750.00</td>
-
-<td>Rs. 750.00</td>
-
-<td>Rs. 750.00</td>
-
-<td>Rs. 750.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
+<td>Rs. 2150.00</td>
 
 <td>Rs. 2550.00</td>
 
-<td>Rs. 3150.00</td>
+<td>Rs. 3050.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
 
-<td>Rs. 3550.00</td>
+<td>Rs. 700.00</td>
 
-<td>Rs. 4050.00</td> </tr> </table>
+<td>Rs. 700.00</td>
+
+<td>Rs. 700.00</td>
+
+<td>Rs. 700.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
+
+<td>Rs. 2250.00</td>
+
+<td>Rs. 2850.00</td>
+
+<td>Rs. 3250.00</td>
+
+<td>Rs. 3750.00</td> </tr> </table>
