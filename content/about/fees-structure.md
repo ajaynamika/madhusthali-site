@@ -10,7 +10,6 @@ menu:
   footer:
     name: Fee Structure
     weight: 8
-draft: true
 
 ---
 ### FEES-STRUCTURE : 2020-2021
@@ -65,11 +64,11 @@ draft: true
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 8000.00</td>
 
-<td>Rs. 6000.00</td>
+<td>Rs. 8000.00</td>
 
-<td>Rs. 6000.00</td>
+<td>Rs. 8000.00</td>
 
-<td>Rs. 6000.00</td> </tr>
+<td>Rs. 8000.00</td> </tr>
 
 <tr>
 
