@@ -10,6 +10,7 @@ menu:
   footer:
     name: Fee Structure
     weight: 8
+draft: true
 
 ---
 ### FEES-STRUCTURE : 2020-2021
