@@ -43,7 +43,7 @@ menu:
 * __*__Class I & II= (Rs.3600.00+Rs.8500.00) x 12  = Rs.1,45,200.00
 * __*__Classes III to VII = (Rs.4000.00+Rs.9100.00) x 12  = Rs.1,57,200.00
 * __*__Classes VIII to X = (Rs.4400.00+Rs.9700.00) x 12  = Rs.169,200.00
-* __*Classes XI to XII = (Rs.4800.00+Rs.10000.00) x 12  = Rs.1,77,600.00
+* __*__Classes XI to XII = (Rs.4800.00+Rs.10000.00) x 12  = Rs.1,77,600.00
 
 ### Mode of Payments:-
 
