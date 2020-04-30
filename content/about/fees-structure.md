@@ -16,38 +16,38 @@ menu:
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging*</td>
 
-<td>Rs. 1,54,800.00</td>
+<td>Rs. 1,45,200.00</td>
 
-<td>Rs. 1,65,600.00</td>
+<td>Rs. 1,57,200.00</td>
 
-<td>Rs. 1,76,400.00</td>
+<td>Rs. 1,69,200.00</td>
 
-<td>Rs. 1,87,200.00</td
+<td>Rs. 1,77,600.00</td
 
 </tr>
 
 <tr>
 
-<td>Total Charges for the First Year</td> <td>Rs. 1,85,550.00</td>
+<td>Total Charges for the First Year</td> <td>Rs. 1,75,200.00</td>
 
-<td>Rs. 1,96,350.00</td>
+<td>Rs. 1,87,200.00</td>
 
-<td>Rs. 2,07,150.00</td>
+<td>Rs. 1,99,200.00</td>
 
-<td>Rs. 2,17,950.00</td>
+<td>Rs. 2,07,600.00</td>
 
 </tr>
 
 </table>
 
-* __*__Class I & II= (3900.00+9000.00) x 12  = Rs.1,54,800.00
-* __*__Classes III to VII = (4300.00+9500.00) x 12  = Rs.1,65,600.00
-* __*__Classes VIII to X = (4700.00+10000.00) x 12  = Rs.1,76,400.00
-* __*__Classes XI to XII = (5100.00+10500.00) x 12  = Rs.1,87,200.00
+* __*__Class I & II= (Rs.3600.00+Rs.8500.00) x 12  = Rs.1,45,200.00
+* __*__Classes III to VII = (Rs.4000.00+Rs.9100.00) x 12  = Rs.1,57,200.00
+* __*__Classes VIII to X = (Rs.4400.00+Rs.9700.00) x 12  = Rs.169,200.00
+* __*Classes XI to XII = (Rs.4800.00+Rs.10000.00) x 12  = Rs.1,77,600.00
 
 ### Mode of Payments:-
 
-* Parents are requested to pay the school fee by cash, at par cheque orcrossed  demand draft drawn on  any bank  in  favour of "**Madhusthali Vidyapeeth**" payable at **Kolkata/Madhupur** on or before the last date.
+* Parents are requested to pay the school fee by cash, at par cheque or crossed  demand draft drawn on  any bank  in  favour of "**Madhusthali Vidyapeeth**" payable at **Kolkata/Madhupur** on or before the last date.
 * If paid by NEFT/ School’s Bank Account, it should immediately be intimated to the school office and proof of payment must be furnished.
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
