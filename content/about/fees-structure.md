@@ -80,8 +80,7 @@ FEES-STRUCTURE FOR DAY SCHOLARS: 2020-2021
 
 <td>3.</td> <td>Security Deposit(refundable) (Once at the time of admission)</td>
 
-<td>Rs. 5000.00</td>
-
+<td>Rs. 5000.00</td>  
 <td>Rs. 5000.00</td>
 
 <td>Rs. 5000.00</td>
