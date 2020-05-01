@@ -110,3 +110,5 @@ FEES-STRUCTURE FOR DAY SCHOLARS: 2020-2021
 <td>Rs. 3250.00</td>
 
 <td>Rs. 3750.00</td> </tr> </table>
+
+=================
