@@ -1,11 +1,12 @@
 +++
 banner = "/uploads/2017/12/28/kksir.JPG"
-date = "2017-12-25T14:06:17+05:30"
+date = 2017-12-25T08:36:17Z
 description = ""
 keywords = ""
 layout = "message"
 tags = []
 title = "Vice Chairman Message"
+type = ""
 
 +++
 With immense pride and great pleasure I welcome you at the Madhusthali Vidyapeeth. You could be a parent, a student, a staff member or anyone interested in gaining deeper insights into the functioning and learning environment of our exciting world.
