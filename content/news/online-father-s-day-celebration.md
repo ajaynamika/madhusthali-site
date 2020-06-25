@@ -14,4 +14,4 @@ The event took off with beautiful songs, dance, lovely poetry dedicated by the c
 
 It was really a memorable event which the fathers and children will cherish for their lifetime.
 
-![](/uploads/2020/06/24/888.jpg)
+![](/uploads/2020/06/24/888.jpg)![](/uploads/2020/06/25/3.jpg)![](/uploads/2020/06/25/8.jpg)![](/uploads/2020/06/25/2.jpg)![](/uploads/2020/06/25/1.jpg)![](/uploads/2020/06/25/4.jpg)![](/uploads/2020/06/25/6.jpg)
