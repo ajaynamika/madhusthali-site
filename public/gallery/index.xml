@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Madhusthali Vidyapeeth</title>
-    <link>http://madhusthali.edu.in/gallery/</link>
+    <link>/gallery/</link>
     <description>Recent content in Galleries on Madhusthali Vidyapeeth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2017 15:03:55 +0530</lastBuildDate>
     
-	<atom:link href="http://madhusthali.edu.in/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>School Life</title>
-      <link>http://madhusthali.edu.in/gallery/school-life/</link>
+      <link>/gallery/school-life/</link>
       <pubDate>Wed, 20 Dec 2017 15:03:55 +0530</pubDate>
       
-      <guid>http://madhusthali.edu.in/gallery/school-life/</guid>
+      <guid>/gallery/school-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media</title>
-      <link>http://madhusthali.edu.in/gallery/media/</link>
+      <link>/gallery/media/</link>
       <pubDate>Wed, 20 Dec 2017 09:30:00 +0000</pubDate>
       
-      <guid>http://madhusthali.edu.in/gallery/media/</guid>
+      <guid>/gallery/media/</guid>
       <description></description>
     </item>
     

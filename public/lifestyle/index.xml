@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyles on Madhusthali Vidyapeeth</title>
-    <link>http://madhusthali.edu.in/lifestyle/</link>
+    <link>/lifestyle/</link>
     <description>Recent content in Lifestyles on Madhusthali Vidyapeeth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Dec 2017 13:49:37 +0530</lastBuildDate>
     
-	<atom:link href="http://madhusthali.edu.in/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Daily Life</title>
-      <link>http://madhusthali.edu.in/lifestyle/daily-life/</link>
+      <link>/lifestyle/daily-life/</link>
       <pubDate>Wed, 06 Dec 2017 13:49:37 +0530</pubDate>
       
-      <guid>http://madhusthali.edu.in/lifestyle/daily-life/</guid>
+      <guid>/lifestyle/daily-life/</guid>
       <description>BOARDING HOUSE SCHEDULE SUMMER (MONDAY TO FRIDAY) 05:00am Rouse Bell 05:15am to  06:00am Morning Exercise 06:00am to  07:00am Bath &amp; Change  07:00am to  01:20pm School Schedule  07:55am to  08:25amBreak Fast  01:20pm to  01:50pm Lunch  01:50pm to  02:30pm Rest Time  02:30pm to  04:15pm Self Study  04:15pm to  05:15pm Games  05:15pm to  05:45pm Wash &amp; Change  05:45pm to  06:15pm Snacks  06:15pm to  08:00pm Study Time  08:00pm to  08:30pm Dinner   08:30pm to  09:30pmT.</description>
     </item>
     
     <item>
       <title>Life @ Madhusthali</title>
-      <link>http://madhusthali.edu.in/lifestyle/life-madhusthali/</link>
+      <link>/lifestyle/life-madhusthali/</link>
       <pubDate>Wed, 06 Dec 2017 13:38:51 +0530</pubDate>
       
-      <guid>http://madhusthali.edu.in/lifestyle/life-madhusthali/</guid>
+      <guid>/lifestyle/life-madhusthali/</guid>
       <description>CULTURE Madhusthali makes sure that the students get enriched with Indian culture. For this we have weekly hobby classes. These classes are specially allotted for the students, are crafted in a manner that the students get informed about Indian as well as western forms of art and culture. From painting to literature to cultural values, students are taught everything from India as well as the world over. This helps them to increase their knowledge about the world and the country they live in.</description>
     </item>
     

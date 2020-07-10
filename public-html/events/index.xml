@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Madhusthali Vidyapeeth</title>
-    <link>http://madhusthali.edu.in/events/</link>
+    <link>/events/</link>
     <description>Recent content in Events on Madhusthali Vidyapeeth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Dec 2017 08:43:51 +0530</lastBuildDate>
     
-	<atom:link href="http://madhusthali.edu.in/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Event</title>
-      <link>http://madhusthali.edu.in/events/test-event/</link>
+      <link>/events/test-event/</link>
       <pubDate>Sat, 16 Dec 2017 08:43:51 +0530</pubDate>
       
-      <guid>http://madhusthali.edu.in/events/test-event/</guid>
+      <guid>/events/test-event/</guid>
       <description>Aliquet porttitor lacus, luctus accumsan tortor posuere ac ut consequat semper viverra nam libero justo? Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur a erat nam at lectus urna duis convallis convallis tellus, id interdum velit laoreet. Blandit cursus risus, at ultrices? Ac odio tempor orci dapibus ultrices in iaculis nunc sed augue lacus, viverra vitae congue eu, consequat ac felis donec?</description>
     </item>
     
     <item>
       <title>Founders Day</title>
-      <link>http://madhusthali.edu.in/events/founders-day/</link>
+      <link>/events/founders-day/</link>
       <pubDate>Fri, 15 Dec 2017 19:21:36 +0530</pubDate>
       
-      <guid>http://madhusthali.edu.in/events/founders-day/</guid>
+      <guid>/events/founders-day/</guid>
       <description>Amet cursus sit amet, dictum sit amet justo donec enim diam, vulputate ut pharetra sit amet, aliquam id diam maecenas.
 Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit, scelerisque in dictum non, consectetur! Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et.</description>
     </item>

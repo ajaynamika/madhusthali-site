@@ -249,6 +249,13 @@ video {
     background-color: #3d9970;
     color: #fff;
 }
+.admission-button {
+    padding: 1em;
+}
+.admission-button:hover {
+    background-color: #ff851b;
+    color: #fff;
+}
 @media screen and (max-width:767px) {
     body {
         font-size: 1rem;
