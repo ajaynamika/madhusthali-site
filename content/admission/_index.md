@@ -1,6 +1,6 @@
 +++
 banner = "/images/default_banner.jpg"
-date = "2017-12-19T07:55:15+05:30"
+date = 2017-12-19T02:25:15Z
 description = ""
 keywords = ""
 title = "Admission"
@@ -38,7 +38,7 @@ Prospectus and Registration form can be downloaded from the  School website, www
 
 ### Admission Test / Interview
 
-On receipt of the complete Registration Form along with the  required documents, a date for Test / Interview will be given, during  which the student will be allowed the opportunity to give further  evidence of his academic strengths and extra - curricular interests. The  aim of the interview is to find what the student knows, understands and  enjoys. Parents are required to participate in the interview.
+On receipt of the complete Registration Form along with the  required documents, a date for Test / Interview will be given, during  which the student will be allowed the opportunity to give further  evidence of his academic strengths and extra - curricular interests. The  aim of the interview is to find what the student knows, understands and  enjoys. Parents are required to participate in the  interview.
 
 ### Interview Guidelines
 
