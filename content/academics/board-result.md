@@ -17,7 +17,7 @@ picture = "/uploads/2021/02/02/harsh-raj.JPG"
 [[topper]]
 marks = "95%"
 name = "ARVIND KUMAR"
-picture = "/uploads/2021/02/02/arvind-kumar.JPG"
+picture = "/uploads/2021/02/02/arvind-kumar1.jpg"
 [[topper]]
 marks = "95%"
 name = "AADAB SEKH"
