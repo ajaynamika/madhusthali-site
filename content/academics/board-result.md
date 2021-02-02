@@ -1,15 +1,15 @@
 +++
 banner = "/uploads/2017/12/19/IMG_3134.jpg"
-date = "2017-12-17T14:50:08+05:30"
+date = 2017-12-17T09:20:08Z
 description = ""
 keywords = ""
 layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "94.2%"
-name = "SIDHESWARI GOYAL "
-picture = "/uploads/2019/05/10/Untitled-1.jpg"
+marks = "97.2%"
+name = "AYUSH KEDIA"
+picture = "/uploads/2021/02/02/ayush-kedia.JPG"
 [[topper]]
 marks = "94.2%"
 name = "ANIKET GUTGUTIA"
@@ -44,4 +44,4 @@ name = "SAKSHI MODI"
 picture = "/uploads/2019/05/10/9.jpg"
 
 +++
-## ICSE & ISC 2019 School Toppers
+## ICSE & ISC 2020 School Toppers
