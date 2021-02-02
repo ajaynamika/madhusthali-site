@@ -39,9 +39,9 @@ marks = "68%"
 name = "GAUTAM PATEL"
 picture = "/uploads/2021/02/02/gautam-patel.JPG"
 [[topper]]
-marks = "93%"
-name = "SAKSHI MODI"
-picture = "/uploads/2019/05/10/9.jpg"
+marks = "73.8%"
+name = "BEAUTY KESHRI"
+picture = "/uploads/2021/02/02/beauti-kumari.JPG"
 
 +++
 ## ICSE & ISC 2020 School Toppers
