@@ -27,9 +27,9 @@ marks = "94.4%"
 name = "GAURAV KEDIA"
 picture = "/uploads/2021/02/02/gourav-kedia.jpg"
 [[topper]]
-marks = "85.4%"
-name = "SAURABH KEDIA"
-picture = "/uploads/2019/05/10/6.jpg"
+marks = "94.4%"
+name = "ANKESH KUMAR"
+picture = "/uploads/2021/02/02/ankesh-kumar.JPG"
 [[topper]]
 marks = "95%"
 name = "ANUKRIT BATHWAL"
