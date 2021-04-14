@@ -13,27 +13,27 @@ picture = "/uploads/2021/04/14/ayush-kedia.jpg"
 [[topper]]
 marks = "95.6%"
 name = "HARSH RAJ"
-picture = "/uploads/2021/02/02/harsh-raj.JPG"
+picture = "/uploads/2021/04/14/harsh-raj.jpg"
 [[topper]]
 marks = "95%"
 name = "ARVIND KUMAR"
-picture = "/uploads/2021/02/02/arvind-kumar1.jpg"
+picture = "/uploads/2021/04/14/arvind.jpg"
 [[topper]]
 marks = "95%"
 name = "AADAB SEKH"
-picture = "/uploads/2021/02/02/adab-sheikh.JPG"
+picture = "/uploads/2021/04/14/aadab.jpg"
 [[topper]]
 marks = "94.4%"
 name = "GAURAV KEDIA"
-picture = "/uploads/2021/02/02/gourav-kedia.jpg"
+picture = "/uploads/2021/04/14/gourav-kedia.jpg"
 [[topper]]
 marks = "94.4%"
 name = "ANKESH KUMAR"
-picture = "/uploads/2021/02/02/ankesh-kumar.JPG"
+picture = "/uploads/2021/04/14/ankesh.jpg"
 [[topper]]
 marks = "79%"
 name = "SHIVAM SHARMA"
-picture = "/uploads/2021/02/02/shivam-sharma.JPG"
+picture = "/uploads/2021/04/14/sivam-sharma.jpg"
 [[topper]]
 marks = "68%"
 name = "GAUTAM PATEL"
