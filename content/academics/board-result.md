@@ -9,7 +9,7 @@ type = "toppers"
 [[topper]]
 marks = "97.2%"
 name = "AYUSH KEDIA"
-picture = "/uploads/2021/02/02/ayush-kedia.JPG"
+picture = "/uploads/2021/04/14/ayush-kedia.jpg"
 [[topper]]
 marks = "95.6%"
 name = "HARSH RAJ"
