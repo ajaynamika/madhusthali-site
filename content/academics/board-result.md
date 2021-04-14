@@ -37,11 +37,11 @@ picture = "/uploads/2021/04/14/sivam-sharma.jpg"
 [[topper]]
 marks = "68%"
 name = "GAUTAM PATEL"
-picture = "/uploads/2021/02/02/gautam-patel.JPG"
+picture = "/uploads/2021/04/14/gautam.jpg"
 [[topper]]
 marks = "73.8%"
 name = "BEAUTY KESHRI"
-picture = "/uploads/2021/02/02/beauti-kumari.JPG"
+picture = "/uploads/2021/04/14/beauti.jpg"
 
 +++
 ## ICSE & ISC 2020 School Toppers
