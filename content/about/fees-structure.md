@@ -1,6 +1,6 @@
 ---
 title: Fees Structure
-date: 2020-04-01T10:36:42+00:00
+date: 2020-04-01T10:36:42.000+00:00
 keywords: ''
 description: ''
 menu:
@@ -12,41 +12,41 @@ menu:
     weight: 8
 
 ---
-FEES-STRUCTURE : 2020-2021
+FEES-STRUCTURE : 2021-2022
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging*</td>
 
-<td>Rs. 1,45,200.00</td>
+<td>Rs. 1,54,800.00</td>
 
-<td>Rs. 1,57,200.00</td>
+<td>Rs. 1,65,600.00</td>
 
-<td>Rs. 1,69,200.00</td>
+<td>Rs. 1,76,400.00</td>
 
-<td>Rs. 1,77,600.00</td
+<td>Rs. 1,87,200.00</td
 
 </tr>
 
 <tr>
 
-<td>Total Charges for the First Year</td> <td>Rs. 1,75,200.00</td>
+<td>Total Charges for the First Year</td> <td>Rs. 1,85,550.00</td>
 
-<td>Rs. 1,87,200.00</td>
+<td>Rs. 1,96,350.00</td>
 
-<td>Rs. 1,99,200.00</td>
+<td>Rs. 2,07,150.00</td>
 
-<td>Rs. 2,07,600.00</td>
+<td>Rs. 2,17,950.00</td>
 
 </tr>
 
 </table>
 
-__*__Class I & II= (Rs.3600.00+Rs.8500.00) x 12  = Rs.1,45,200.00
+__*__Class I & II= (Rs.3900.00+Rs.9000.00) x 12  = Rs.1,54,800.00
 
-__*__Classes III to VII = (Rs.4000.00+Rs.9100.00) x 12  = Rs.1,57,200.00
+__*__Classes III to VII = (Rs.4300.00+Rs.9500.00) x 12  = Rs.1,65,600.00
 
-__*__Classes VIII to X = (Rs.4400.00+Rs.9700.00) x 12  = Rs.169,200.00
+__*__Classes VIII to X = (Rs.4700.00+Rs.10000.00) x 12  = Rs.1,76,400.00
 
-__*__Classes XI to XII = (Rs.4800.00+Rs.10000.00) x 12  = Rs.1,77,600.00
+__*__Classes XI to XII = (Rs.5100.00+Rs.10500.00) x 12  = Rs.1,87,200.00
 
 Mode of Payments:-
 
@@ -66,7 +66,7 @@ Accountable School Fee (Imprest A/C):-
 
 At the time of admission or in April every year a sum of Rs.15,000.00 is required to be deposited in the Imprest Account. This account will cover expenses  incurred  by  student  for  uniforms, pocket money, books, stationery, weekend exits, field trips and cultural / academic  excursion, school  tuck shop, medical  expenses  outside school, telephones, travel  & ticketing expenses, exam expenses, board  registration and exam fee for classes  9  to 12,  sports  expenses  of  personal nature, specialized coaching, fines and penalties, if any, etc. An accountable school fee account   will  be  opened  &  maintained  for all  students,  which is like  a  current  account wherein  all  expenses  incurred  by  the  student  will be posted and a detailed statement  of  which will  be  provided  to  the parents (If they desire to have it) at the end of each  term.
 
-FEES-STRUCTURE FOR DAY SCHOLARS: 2020-2021
+FEES-STRUCTURE FOR DAY SCHOLARS: 2021-2022
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 8000.00</td>
 
@@ -87,28 +87,28 @@ FEES-STRUCTURE FOR DAY SCHOLARS: 2020-2021
 
 <td>Rs. 5000.00</td> </tr> <tr> <td>4.</td> <td>Monthly Tution Fees (every month)</td>
 
-<td>Rs. 1550.00</td>
+<td>Rs. 1800.00</td>
 
-<td>Rs. 2150.00</td>
+<td>Rs. 2400.00</td>
+
+<td>Rs. 2800.00</td>
+
+<td>Rs. 3300.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
+
+<td>Rs. 750.00</td>
+
+<td>Rs. 750.00</td>
+
+<td>Rs. 750.00</td>
+
+<td>Rs. 750.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
 
 <td>Rs. 2550.00</td>
 
-<td>Rs. 3050.00</td> </tr> <tr> <td>5.</td> <td>Transportation (every month)</td>
+<td>Rs. 3150.00</td>
 
-<td>Rs. 700.00</td>
+<td>Rs. 3550.00</td>
 
-<td>Rs. 700.00</td>
-
-<td>Rs. 700.00</td>
-
-<td>Rs. 700.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee+ bus Fee</td>
-
-<td>Rs. 2250.00</td>
-
-<td>Rs. 2850.00</td>
-
-<td>Rs. 3250.00</td>
-
-<td>Rs. 3750.00</td> </tr> </table>
+<td>Rs. 4050.00</td> </tr> </table>
 
 ==================
