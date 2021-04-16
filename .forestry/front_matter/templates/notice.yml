@@ -28,7 +28,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/notice/extramarks-k-12-learning-app.md
 - content/notice/message-from-chairman-sir.md
 - content/notice/notice-for-day-scholar-students.md
 - content/notice/notice-for-icse-isc-2019-students.md
@@ -41,4 +40,3 @@ pages:
 - content/notice/parents-consent-letter.md
 - content/notice/provisional-admission-to-class-xi.md
 - content/notice/report-card-login-details.md
-- content/notice/rescheduled-time-table-isc-xii-icse-x-year-2020-examination.md
