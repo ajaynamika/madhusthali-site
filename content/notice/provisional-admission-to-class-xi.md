@@ -32,6 +32,8 @@ Hope you and your loved ones are safe and healthy. It is quite understandable th
 
 Madhusthali Vidyapeeth
 
+<table class="fees-table"> <tr><th>S.No.</th><th>Name</th><th>Designation</th><th>Academic Qualification</th><th>Professional Qualification</th></tr> <tr>
+
 State Bank of India, Madhupur Branch
 
 A/c No: 11159045393
