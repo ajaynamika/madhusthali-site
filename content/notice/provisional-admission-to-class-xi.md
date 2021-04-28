@@ -8,7 +8,7 @@ type = ""
 +++
 Dear Parents,
 
-Hope you and your loved ones are safe and healthy. It is quite understandable that parents and students are spending anxious moments as the ICSE EXAMINATION 2020 had to be postponed by the Council due to the lockdown, moreover the uncertainty of their **admission to Class XI** is another area of concern. We are trying out all possible means to help out our students during this period of unprecedented crisis. Hence in spite of challenges, we are going ahead with the Provisional Admission to CLASS XI in order to start online classes and minimize their academic loss. Hope it will provide some relief to our parents.
+Hope you and your loved ones are safe and healthy. It is quite understandable that parents and students are spending anxious moments as the ICSE EXAMINATION 2021 had to be cancelled by the Council due to the Pandemic, moreover the uncertainty of their **admission to Class XI** is another area of concern. We are trying out all possible means to help out our students during this period of unprecedented crisis. Hence in spite of challenges, we are going ahead with the Provisional Admission to CLASS XI in order to start online classes and minimize their academic loss. Hope it will provide some relief to our parents.
 
 **Procedure to be followed for PROVISIONAL ADMISSION TO CLASS XI**
 
@@ -32,11 +32,15 @@ Hope you and your loved ones are safe and healthy. It is quite understandable th
 
 Madhusthali Vidyapeeth
 
-State Bank of India, Madhupur Branch
+***
 
-A/c No: 11159045393
+State Bank of India, Madhupur Branch : A/c No: 11159045393 : IFSC Code: SBIN0003033
 
-IFSC Code: SBIN0003033
+***
+
+HDFC Bank, Kolkata Branch: A/c No: 50100209939417: IFSC Code: HDFC0000531
+
+***
 
 **Please visit the school website for the Fee structure.**
 
