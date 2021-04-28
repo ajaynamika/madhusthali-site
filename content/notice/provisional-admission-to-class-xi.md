@@ -34,11 +34,11 @@ Madhusthali Vidyapeeth
 
 ***
 
-Ctrl> State Bank of India, Madhupur Branch : A/c No: 11159045393 : IFSC Code: SBIN0003033 Ctrl<
+State Bank of India, Madhupur Branch : A/c No: 11159045393 : IFSC Code: SBIN0003033 
 
 ***
 
-Ctrl> HDFC Bank, Kolkata Branch: A/c No: 50100209939417: IFSC Code: HDFC0000531 Ctrl<
+HDFC Bank, Kolkata Branch: A/c No: 50100209939417: IFSC Code: HDFC0000531 
 
 ***
 
