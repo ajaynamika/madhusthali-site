@@ -29,3 +29,4 @@ fields:
   default: "/images/default_banner.jpg"
 pages:
 - content/career.md
+- content/newsletter.md
