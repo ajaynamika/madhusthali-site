@@ -31,9 +31,6 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Newsletter"
-weight = 11
-[[menu.main]]
 name = "Academics"
 url = "/academics/"
 weight = 2
