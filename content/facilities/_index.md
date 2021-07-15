@@ -1,6 +1,6 @@
 +++
 banner = "/images/default_banner.jpg"
-date = "2017-12-19T07:56:07+05:30"
+date = 2017-12-19T02:26:07Z
 description = ""
 keywords = ""
 title = "Facilities"
