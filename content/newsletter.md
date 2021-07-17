@@ -8,6 +8,7 @@ title = "Newsletter"
 weight = 11
 
 +++
-NEWSLETTER OCT 20 TO MAR 21
+Download the Madhusthali Vidyapeeth newsletter by clicking on following link
 
-[**Newsletter April 2021 to June 2021**](/uploads/2021/07/15/newsletter-april-2021-to-june-2021.pdf "News")
+* [**NEWSLETTER OCT 20 TO MAR 21**](/uploads/2021/07/17/mv-newsletter-oct-20-to-mar-21.pdf "newsletter")
+* [**Newsletter April 2021 to June 2021**](/uploads/2021/07/15/newsletter-april-2021-to-june-2021.pdf "News")
