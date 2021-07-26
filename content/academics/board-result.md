@@ -27,9 +27,9 @@ marks = "93.6%"
 name = "HARSHIT"
 picture = "/uploads/2021/07/26/harshit.jpg"
 [[topper]]
-marks = "94.4%"
-name = "ANKESH KUMAR"
-picture = "/uploads/2021/04/14/ankesh.jpg"
+marks = "93.2%"
+name = "NISHANT KUMAR"
+picture = "/uploads/2021/07/26/nishant-kr.jpg"
 [[topper]]
 marks = "79%"
 name = "SHIVAM SHARMA"
