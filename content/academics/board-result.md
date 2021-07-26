@@ -19,9 +19,9 @@ marks = "94.2%"
 name = "UTSHAV RAJ"
 picture = "/uploads/2021/07/26/utshav-raj.jpg"
 [[topper]]
-marks = "95%"
-name = "AADAB SEKH"
-picture = "/uploads/2021/04/14/aadab.jpg"
+marks = "94%"
+name = "JYOTI KUMARI"
+picture = "/uploads/2021/07/26/jyoti.jpg"
 [[topper]]
 marks = "94.4%"
 name = "GAURAV KEDIA"
