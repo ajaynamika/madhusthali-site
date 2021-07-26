@@ -39,17 +39,17 @@ marks = "97.3%"
 name = "PRIYA BHARTI"
 picture = "/uploads/2021/07/26/priya-bharti.jpg"
 [[topper]]
-marks = "98.3%"
-name = "FARIYA MAJID"
-picture = "/uploads/2021/07/26/faria-majid.jpg"
-[[topper]]
-marks = "97.3%"
-name = "PRIYA BHARTI"
-picture = "/uploads/2021/07/26/priya-bharti.jpg"
-[[topper]]
-marks = "95.5.8%"
-name = "ANAND RAJ HEMBROM"
+marks = "95.5%"
+name = "ANAND RAJ HRMBROM"
 picture = "/uploads/2021/07/26/anand-raj-hembrom.jpg"
+[[topper]]
+marks = "91%"
+name = "KRITI DALMIA"
+picture = "/uploads/2021/07/26/kriti-dalmia.jpg"
+[[topper]]
+marks = "90%"
+name = "SAKSHI BATHWAL"
+picture = "/uploads/2021/07/26/sakshi-bathwal.jpg"
 
 +++
 ## ICSE & ISC 2021 School Toppers
