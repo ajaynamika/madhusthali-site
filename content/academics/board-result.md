@@ -31,9 +31,9 @@ marks = "93.2%"
 name = "NISHANT KUMAR"
 picture = "/uploads/2021/07/26/nishant-kr.jpg"
 [[topper]]
-marks = "79%"
-name = "SHIVAM SHARMA"
-picture = "/uploads/2021/04/14/sivam-sharma.jpg"
+marks = "98.3%"
+name = "FARIYA MAJID"
+picture = "/uploads/2021/07/26/faria-majid.jpg"
 [[topper]]
 marks = "68%"
 name = "GAUTAM PATEL"
