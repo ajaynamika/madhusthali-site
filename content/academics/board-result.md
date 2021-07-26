@@ -39,9 +39,9 @@ marks = "97.3%"
 name = "PRIYA BHARTI"
 picture = "/uploads/2021/07/26/priya-bharti.jpg"
 [[topper]]
-marks = "73.8%"
-name = "BEAUTY KESHRI"
-picture = "/uploads/2021/04/14/beauti.jpg"
+marks = "95.5.8%"
+name = "ANAND RAJ HEMBROM"
+picture = "/uploads/2021/07/26/anand-raj-hembrom.jpg"
 
 +++
 ## ICSE & ISC 2021 School Toppers
