@@ -7,6 +7,14 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
+marks = "90%"
+name = "SAKSHI BATHWAL"
+picture = "/uploads/2021/07/26/sakshi-bathwal.jpg"
+[[topper]]
+marks = "91%"
+name = "KRITI DALMIA"
+picture = "/uploads/2021/07/26/kriti-dalmia.jpg"
+[[topper]]
 marks = "96.4%"
 name = "SHASHWAT"
 picture = "/uploads/2021/07/26/shashwat.jpg"
