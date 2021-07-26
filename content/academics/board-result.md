@@ -7,9 +7,9 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "97.2%"
-name = "AYUSH KEDIA"
-picture = "/uploads/2021/04/14/ayush-kedia.jpg"
+marks = "96.4%"
+name = "SHASHWAT"
+picture = "/uploads/2021/07/26/shashwat.jpg"
 [[topper]]
 marks = "95.6%"
 name = "HARSH RAJ"
@@ -44,4 +44,4 @@ name = "BEAUTY KESHRI"
 picture = "/uploads/2021/04/14/beauti.jpg"
 
 +++
-## ICSE & ISC 2020 School Toppers
+## ICSE & ISC 2021 School Toppers
