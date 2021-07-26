@@ -35,9 +35,9 @@ marks = "98.3%"
 name = "FARIYA MAJID"
 picture = "/uploads/2021/07/26/faria-majid.jpg"
 [[topper]]
-marks = "68%"
-name = "GAUTAM PATEL"
-picture = "/uploads/2021/04/14/gautam.jpg"
+marks = "97.3%"
+name = "PRIYA BHARTI"
+picture = "/uploads/2021/07/26/priya-bharti.jpg"
 [[topper]]
 marks = "73.8%"
 name = "BEAUTY KESHRI"
