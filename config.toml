@@ -31,29 +31,33 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Alumni"
+url = "https://forms.gle/GyikxxuSnQCQdnKr6"
+weight = 3
+[[menu.main]]
 name = "Academics"
 url = "/academics/"
 weight = 2
 [[menu.main]]
 name = "Facilities"
 url = "/facilities/"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
-weight = 9
+weight = 10
 [[menu.main]]
 name = "Gallery"
 url = "/gallery/"
-weight = 8
+weight = 9
 [[menu.main]]
 name = "Lifestyle"
 url = "/lifestyle/"
-weight = 4
+weight = 6
 [[menu.main]]
 name = "The Group"
 url = "/group/"
-weight = 3
+weight = 5
 [[menu.main]]
 name = "About"
 url = "/about/"

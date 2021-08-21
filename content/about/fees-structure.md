@@ -6,7 +6,7 @@ description: ''
 menu:
   main:
     name: Fee Structure
-    weight: 7
+    weight: 8
   footer:
     name: Fee Structure
     weight: 8

@@ -7,7 +7,7 @@ title = "Career"
 [menu.footer]
 weight = 11
 [menu.main]
-weight = 10
+weight = 11
 
 +++
 ### Information for Aspiring Teachers

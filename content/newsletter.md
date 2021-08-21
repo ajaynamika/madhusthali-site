@@ -5,7 +5,7 @@ description = ""
 keywords = ""
 title = "Newsletter"
 [menu.main]
-weight = 11
+weight = 12
 
 +++
 Download the Madhusthali Vidyapeeth Newsletter By Clicking on Following Link:
