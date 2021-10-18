@@ -2,7 +2,7 @@
 banner = "/uploads/2021/07/17/abcd.jpg"
 date = ""
 description = ""
-keywords = ""
+keywords = "Madhusthali newsletter, madhusthali vidyapeeth newsletter"
 title = "Newsletter"
 [menu.main]
 weight = 12
