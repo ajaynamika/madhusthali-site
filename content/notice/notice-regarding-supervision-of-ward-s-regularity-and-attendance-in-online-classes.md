@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2001-09-01T15:58:00Z
 description = ""
 keywords = ""
 title = "Notice regarding supervision of Ward's regularity and attendance in online classes"
