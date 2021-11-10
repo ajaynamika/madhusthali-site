@@ -35,19 +35,19 @@ marks = "98.3% (ISC)"
 name = "FARIYA MAJID"
 picture = "/uploads/2021/07/26/faria-majid.jpg"
 [[topper]]
-marks = "97.3%"
+marks = "97.3% (ISC)"
 name = "PRIYA BHARTI"
 picture = "/uploads/2021/07/26/priya-bharti.jpg"
 [[topper]]
-marks = "95.5%"
+marks = "95.5% (ISC)"
 name = "ANAND RAJ HRMBROM"
 picture = "/uploads/2021/07/26/anand-raj-hembrom.jpg"
 [[topper]]
-marks = "91%"
+marks = "91% (ISC)"
 name = "KRITI DALMIA"
 picture = "/uploads/2021/07/26/kriti-dalmia.jpg"
 [[topper]]
-marks = "90%"
+marks = "90% (ISC)"
 name = "SAKSHI BATHWAL"
 picture = "/uploads/2021/07/26/sakshi-bathwal.jpg"
 
