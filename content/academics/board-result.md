@@ -15,23 +15,23 @@ marks = "94.6% (ICSE)"
 name = "AKASH ABHIJEET RAJ"
 picture = "/uploads/2021/07/26/abhijeet-raj.jpg"
 [[topper]]
-marks = "94.2%"
+marks = "94.2% (ICSE)"
 name = "UTSHAV RAJ"
 picture = "/uploads/2021/07/26/utshav-raj.jpg"
 [[topper]]
-marks = "94%"
+marks = "94% (ICSE)"
 name = "JYOTI KUMARI"
 picture = "/uploads/2021/07/26/jyoti.jpg"
 [[topper]]
-marks = "93.6%"
+marks = "93.6% (ICSE)"
 name = "HARSHIT"
 picture = "/uploads/2021/07/26/harshit.jpg"
 [[topper]]
-marks = "93.2%"
+marks = "93.2% (ICSE)"
 name = "NISHANT KUMAR"
 picture = "/uploads/2021/07/26/nishant-kr.jpg"
 [[topper]]
-marks = "98.3%"
+marks = "98.3% (ISC)"
 name = "FARIYA MAJID"
 picture = "/uploads/2021/07/26/faria-majid.jpg"
 [[topper]]
