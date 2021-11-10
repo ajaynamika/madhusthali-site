@@ -7,11 +7,11 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "96.4%"
+marks = "96.4% (ICSE)"
 name = "SHASHWAT"
 picture = "/uploads/2021/07/26/shashwat.jpg"
 [[topper]]
-marks = "94.6%"
+marks = "94.6% (ICSE)"
 name = "AKASH ABHIJEET RAJ"
 picture = "/uploads/2021/07/26/abhijeet-raj.jpg"
 [[topper]]
