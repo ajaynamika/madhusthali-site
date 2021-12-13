@@ -2,7 +2,7 @@
 date = ""
 description = ""
 keywords = ""
-title = "Sunday Hostel Activities 2021"
+title = "Hostel and School Activities 2021"
 type = ""
 
 +++
