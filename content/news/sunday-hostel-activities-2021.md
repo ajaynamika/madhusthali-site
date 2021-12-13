@@ -47,3 +47,9 @@ Hostelers are taught to prepare different kinds of salad, types of dish, table m
 For the record our participants displayed tremendous show as conveyed by their Taekwondo instructor Deepak Massey and Sports teachers- Mr. Karuna Saha and Geography Teacher, Mr. Bablu Gope.
 
 ![](/uploads/2021/12/13/whatsapp-image-2021-12-09-at-2-38-06-pm.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-09-at-2-38-07-pm-1.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-09-at-2-38-11-pm.jpeg)
+
+**Special Classes-Engineering/Medical & Management Entrance Examination**
+
+Specifically for high school seniors, special preparatory classes for Engineering/Medical & Management Entrance Examination has commenced providing the opportunity to explore different career paths within the engineering discipline, medical and management entrance examination. These **special classes have been started to boost the students to** explore their desired fields and acquire advance learning regarding the updated entrance test syllabus.
+
+Trained Madhusthalian teachers have been assigned to meet the basic requirements of the students down the line before they venture into the real world of competition.
