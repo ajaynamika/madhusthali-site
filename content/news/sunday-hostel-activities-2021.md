@@ -52,4 +52,4 @@ For the record our participants displayed tremendous show as conveyed by their T
 
 Specifically for high school seniors, special preparatory classes for Engineering/Medical & Management Entrance Examination has commenced providing the opportunity to explore different career paths within the engineering discipline, medical and management entrance examination. These **special classes have been started to boost the students to** explore their desired fields and acquire advance learning regarding the updated entrance test syllabus.
 
-Trained Madhusthalian teachers have been assigned to meet the basic requirements of the students down the line before they venture into the real world of competition.
+Trained Madhusthalian teachers have been assigned to meet the basic requirements of the students down the line before they venture into the real world of competition. 
