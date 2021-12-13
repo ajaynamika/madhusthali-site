@@ -42,7 +42,7 @@ Hostelers are taught to prepare different kinds of salad, types of dish, table m
 
 **Taekwondo**
 
-6 (six) Madhusthalian Taekwondo fighters took the arena on 28th November 2021 and secured 3 gold and 3 silver medals at the Open District Level Taekwondo Championship Deoghar.
+6 (six) Madhusthalian Taekwondo fighters took the arena on 28th November 2021 and secured 3 gold and 3 silver medals at the Open District Level Taekwondo Championship Deoghar. 
 
 For the record our participants displayed tremendous show as conveyed by their Taekwondo instructor Deepak Massey and Sports teachers- Mr. Karuna Saha and Geography Teacher, Mr. Bablu Gope.
 
@@ -52,4 +52,6 @@ For the record our participants displayed tremendous show as conveyed by their T
 
 Specifically for high school seniors, special preparatory classes for Engineering/Medical & Management Entrance Examination has commenced providing the opportunity to explore different career paths within the engineering discipline, medical and management entrance examination. These **special classes have been started to boost the students to** explore their desired fields and acquire advance learning regarding the updated entrance test syllabus.
 
-Trained Madhusthalian teachers have been assigned to meet the basic requirements of the students down the line before they venture into the real world of competition. 
+Trained Madhusthalian teachers have been assigned to meet the basic requirements of the students down the line before they venture into the real world of competition.
+
+![](/uploads/2021/12/13/whatsapp-image-2021-12-11-at-12-32-20-pm.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-13-at-10-31-34-am-2.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-13-at-10-31-34-am-1.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-13-at-10-31-34-am-3.jpeg)![](/uploads/2021/12/13/whatsapp-image-2021-12-13-at-10-31-34-am.jpeg)
