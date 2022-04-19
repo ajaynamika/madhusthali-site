@@ -12,7 +12,7 @@ menu:
     weight: 8
 
 ---
-FEES-STRUCTURE : 2021-2022
+FEES-STRUCTURE : 2022-2023
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class I to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> <td>Rs. 750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> <td>Rs. 15,000.00</td> </tr> <tr> <td>Tution fee, boarding & lodging*</td>
 
@@ -66,7 +66,7 @@ Accountable School Fee (Imprest A/C):-
 
 At the time of admission or in April every year a sum of Rs.15,000.00 is required to be deposited in the Imprest Account. This account will cover expenses  incurred  by  student  for  uniforms, pocket money, books, stationery, weekend exits, field trips and cultural / academic  excursion, school  tuck shop, medical  expenses  outside school, telephones, travel  & ticketing expenses, exam expenses, board  registration and exam fee for classes  9  to 12,  sports  expenses  of  personal nature, specialized coaching, fines and penalties, if any, etc. An accountable school fee account   will  be  opened  &  maintained  for all  students,  which is like  a  current  account wherein  all  expenses  incurred  by  the  student  will be posted and a detailed statement  of  which will  be  provided  to  the parents (If they desire to have it) at the end of each  term.
 
-FEES-STRUCTURE FOR DAY SCHOLARS: 2021-2022
+FEES-STRUCTURE FOR DAY SCHOLARS: 2022-2023
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> <td>Rs. 500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs. 8000.00</td>
 
