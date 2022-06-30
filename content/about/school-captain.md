@@ -67,11 +67,11 @@ name = "ADITYA SWAROOP"
 picture = "/uploads/2022/06/30/aditya-swaroop.JPG"
 stream = "Science"
 [[captain]]
-class = "X"
-designation = "Captain - Shivalik House"
-name = "ADITYA SWAROOP"
-picture = "/uploads/2022/06/30/aditya-swaroop.JPG"
-stream = "Science"
+class = "IX"
+designation = "Vice Captain - Shivalik House"
+name = "PRIYANSHI BATHWAL"
+picture = "/uploads/2022/06/30/priyanshi-bathwal.JPG"
+stream = "Commerce"
 
 +++
 Madhusthali Vidyapeeth has forever been an institution of creativity and innovation. The motto of the school has always been to craft students into successful global citizens of the future. The school curriculum goes beyond academics and inculcates the desire to excel in fields like sports and music along with academics, amongst the students. I welcome everyone to join our family and be a part of the amazing experience amidst nature at Madhusthali Vidyapeeth.
