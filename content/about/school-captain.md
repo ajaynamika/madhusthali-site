@@ -21,9 +21,9 @@ stream = "Science"
 [[captain]]
 class = "XII"
 designation = "Sports Captain"
-name = "Tushar Bharti"
-picture = "images/sports_captain.jpg"
-stream = "Science"
+name = "NITISH KUMAR"
+picture = "/uploads/2022/06/30/nitish-kumar.jpg"
+stream = "Commerce"
 [[captain]]
 class = "XI"
 designation = "Sports Vice Captain"
