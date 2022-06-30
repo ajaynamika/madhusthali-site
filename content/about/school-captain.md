@@ -49,11 +49,11 @@ name = "GANESH TANTUBAY"
 picture = "/uploads/2022/06/30/ganesh-tantubuy.JPG"
 stream = "Commerce"
 [[captain]]
-class = "XII"
-designation = "Yuva Problem Shooting Group President"
-name = "Shivam Jaiswal"
-picture = "images/yuva.jpg"
-stream = "Commerce"
+class = "X"
+designation = "Captain - Shivalik House"
+name = "ADITYA SWAROOP"
+picture = "/uploads/2022/06/30/aditya-swaroop.JPG"
+stream = "Science"
 
 +++
 Madhusthali Vidyapeeth has forever been an institution of creativity and innovation. The motto of the school has always been to craft students into successful global citizens of the future. The school curriculum goes beyond academics and inculcates the desire to excel in fields like sports and music along with academics, amongst the students. I welcome everyone to join our family and be a part of the amazing experience amidst nature at Madhusthali Vidyapeeth.
