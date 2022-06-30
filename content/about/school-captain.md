@@ -1,6 +1,6 @@
 +++
 banner = "/images/default_banner.jpg"
-date = "2017-12-17T14:07:34+05:30"
+date = 2017-12-17T08:37:34Z
 description = ""
 keywords = ""
 layout = "captain"
@@ -8,9 +8,9 @@ title = "School Captain"
 type = "captain"
 [[captain]]
 class = "XII"
-designation = "Head Boy"
-name = "Rohit Gutgutia"
-picture = "images/head_boy.jpg"
+designation = "School Captain"
+name = "MIT PATEL"
+picture = "/uploads/2022/06/30/mit-patel.JPG"
 stream = "Commerce"
 [[captain]]
 class = "XII"
