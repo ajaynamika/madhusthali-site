@@ -5,7 +5,7 @@ description = ""
 keywords = ""
 layout = "message"
 tags = []
-title = "Vice Chairman Message"
+title = "Chairman Message"
 type = ""
 
 +++
@@ -33,4 +33,4 @@ In conclusion let me quote **Sri Aurobindo**:
 
 #### K.K. Kejriwal
 
-##### Vice Chairman
+##### Chairman
