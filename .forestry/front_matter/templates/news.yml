@@ -28,6 +28,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/news/annual-day-2022.md
 - content/news/annual-day-program-2021-22.md
 - content/news/bank-visit.md
 - content/news/blessing-ceremony-2020.md
