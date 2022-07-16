@@ -16,5 +16,4 @@ The second half of the program was to felicitate the academic achievers and decl
 
 Thereafter, the Head Boy and the Head Girl jointly announced the cultural dance to be presented by the Class 12 students. The mind-blowing performance was much praised by the audience. Thereon, the Chief Guest acknowledged the Management Team and School heads along with teachers for putting up such a show of perfection and how the school went remarkably ahead with consistency to survive the pandemic. After one and half hours of grand performances by the students, the program ended with the Senior Teacher Mr. Jawed Equabal proposing the vote of thanks and extending his warm regards to everyone present at the Annual Day function followed by the National Anthem led by Mrs. Jayanti Gupta-Activity Coordinator. Light refreshment was served to everyone after the programme was over.
 
-  
-![](/uploads/2022/07/16/20220710_095324.jpg)![](/uploads/2022/07/16/20220709_102046.jpg)![](/uploads/2022/07/16/20220709_084716.jpg)
+![](/uploads/2022/07/16/20220709_084716.jpg)![](/uploads/2022/07/16/img-20220710-wa0005.jpg)![](/uploads/2022/07/16/img-20220712-wa0016.jpg)
