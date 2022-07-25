@@ -47,9 +47,9 @@ marks = "78.3% (ISC-HUM)"
 name = "GANESH KR PANSARI"
 picture = "/uploads/2022/07/25/ganesh-kr-pansari-12.jpg"
 [[topper]]
-marks = "91% (ISC)"
-name = "KRITI DALMIA"
-picture = "/uploads/2021/07/26/kriti-dalmia.jpg"
+marks = "75.5% (ISC-COM)"
+name = "DILIP KUMAR"
+picture = "/uploads/2022/07/25/dilip-kumar-12.JPG"
 [[topper]]
 marks = "90% (ISC)"
 name = "SAKSHI BATHWAL"
