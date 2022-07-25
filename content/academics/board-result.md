@@ -42,18 +42,6 @@ picture = "/uploads/2022/07/25/reshma-marandi-xii.JPG"
 marks = "88% (ISC-SCI)"
 name = "SAHEEL MURMU"
 picture = "/uploads/2022/07/25/saheel-murmu-12.JPG"
-[[topper]]
-marks = "78.3% (ISC-HUM)"
-name = "GANESH KR PANSARI"
-picture = "/uploads/2022/07/25/ganesh-kr-pansari-12.jpg"
-[[topper]]
-marks = "75.5% (ISC-COM)"
-name = "DILIP KUMAR"
-picture = "/uploads/2022/07/25/dilip-kumar-12.JPG"
-[[topper]]
-marks = "75.3% (ISC-SCI)"
-name = "ANSHIKA KRI HEMBROM"
-picture = "/uploads/2022/07/25/anshika-hembram-12.JPG"
 
 +++
 ## ICSE & ISC 2022 School Toppers
