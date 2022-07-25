@@ -31,7 +31,7 @@ marks = "90% (ICSE)"
 name = "RITESH RANJAN"
 picture = "/uploads/2022/07/25/ritesh-ranjan-10.JPG"
 [[topper]]
-marks = "90.8% (ISC)"
+marks = "90.8% (ISC-COM)"
 name = "DEVANSHU DALMIA"
 picture = "/uploads/2022/07/25/devanshu-dalmia-12.JPG"
 [[topper]]
