@@ -7,9 +7,9 @@ layout = "toppers"
 title = "Board Result"
 type = "toppers"
 [[topper]]
-marks = "96.4% (ICSE)"
-name = "SHASHWAT"
-picture = "/uploads/2021/07/26/shashwat.jpg"
+marks = "97.2% (ICSE)"
+name = "NEEL DUTTA"
+picture = "/uploads/2022/07/25/neel-dutta-10.JPG"
 [[topper]]
 marks = "94.6% (ICSE)"
 name = "AKASH ABHIJEET RAJ"
@@ -52,4 +52,4 @@ name = "SAKSHI BATHWAL"
 picture = "/uploads/2021/07/26/sakshi-bathwal.jpg"
 
 +++
-## ICSE & ISC 2021 School Toppers
+## ICSE & ISC 2022 School Toppers
