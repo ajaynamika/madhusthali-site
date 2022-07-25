@@ -31,9 +31,9 @@ marks = "90% (ICSE)"
 name = "RITESH RANJAN"
 picture = "/uploads/2022/07/25/ritesh-ranjan-10.JPG"
 [[topper]]
-marks = "93.2% (ICSE)"
-name = "NISHANT KUMAR"
-picture = "/uploads/2021/07/26/nishant-kr.jpg"
+marks = "90.8% (ISC)"
+name = "DEVANSHU DALMIA"
+picture = "/uploads/2022/07/25/devanshu-dalmia-12.JPG"
 [[topper]]
 marks = "98.3% (ISC)"
 name = "FARIYA MAJID"
