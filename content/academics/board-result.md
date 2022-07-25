@@ -43,9 +43,9 @@ marks = "88% (ISC-SCI)"
 name = "SAHEEL MURMU"
 picture = "/uploads/2022/07/25/saheel-murmu-12.JPG"
 [[topper]]
-marks = "95.5% (ISC)"
-name = "ANAND RAJ HRMBROM"
-picture = "/uploads/2021/07/26/anand-raj-hembrom.jpg"
+marks = "78.3% (ISC-HUM)"
+name = "GANESH KR PANSARI"
+picture = "/uploads/2022/07/25/ganesh-kr-pansari-12.jpg"
 [[topper]]
 marks = "91% (ISC)"
 name = "KRITI DALMIA"
