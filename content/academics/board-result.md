@@ -11,9 +11,9 @@ marks = "97.2% (ICSE)"
 name = "NEEL DUTTA"
 picture = "/uploads/2022/07/25/neel-dutta-10.JPG"
 [[topper]]
-marks = "94.6% (ICSE)"
-name = "AKASH ABHIJEET RAJ"
-picture = "/uploads/2021/07/26/abhijeet-raj.jpg"
+marks = "92.4% (ICSE)"
+name = "RONIT KUMAR"
+picture = "/uploads/2022/07/25/ronit-kumar-10.JPG"
 [[topper]]
 marks = "94.2% (ICSE)"
 name = "UTSHAV RAJ"
