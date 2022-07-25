@@ -51,9 +51,9 @@ marks = "75.5% (ISC-COM)"
 name = "DILIP KUMAR"
 picture = "/uploads/2022/07/25/dilip-kumar-12.JPG"
 [[topper]]
-marks = "90% (ISC)"
-name = "SAKSHI BATHWAL"
-picture = "/uploads/2021/07/26/sakshi-bathwal.jpg"
+marks = "75.3% (ISC-SCI)"
+name = "ANSHIKA KRI HEMBROM"
+picture = "/uploads/2022/07/25/anshika-hembram-12.JPG"
 
 +++
 ## ICSE & ISC 2022 School Toppers
