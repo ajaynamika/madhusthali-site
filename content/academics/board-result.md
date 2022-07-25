@@ -39,9 +39,9 @@ marks = "88.5% (ISC-HUM)"
 name = "RESHMA MARANDI"
 picture = "/uploads/2022/07/25/reshma-marandi-xii.JPG"
 [[topper]]
-marks = "97.3% (ISC)"
-name = "PRIYA BHARTI"
-picture = "/uploads/2021/07/26/priya-bharti.jpg"
+marks = "88% (ISC-SCI)"
+name = "SAHEEL MURMU"
+picture = "/uploads/2022/07/25/saheel-murmu-12.JPG"
 [[topper]]
 marks = "95.5% (ISC)"
 name = "ANAND RAJ HRMBROM"
