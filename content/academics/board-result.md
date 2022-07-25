@@ -27,9 +27,9 @@ marks = "90% (ICSE)"
 name = "KANHAIYA BAIDYA"
 picture = "/uploads/2022/07/25/kanahiya-baidya-10.JPG"
 [[topper]]
-marks = "93.6% (ICSE)"
-name = "HARSHIT"
-picture = "/uploads/2021/07/26/harshit.jpg"
+marks = "90% (ICSE)"
+name = "RITESH RANJAN"
+picture = "/uploads/2022/07/25/ritesh-ranjan-10.JPG"
 [[topper]]
 marks = "93.2% (ICSE)"
 name = "NISHANT KUMAR"
