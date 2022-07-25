@@ -35,9 +35,9 @@ marks = "90.8% (ISC-COM)"
 name = "DEVANSHU DALMIA"
 picture = "/uploads/2022/07/25/devanshu-dalmia-12.JPG"
 [[topper]]
-marks = "98.3% (ISC)"
-name = "FARIYA MAJID"
-picture = "/uploads/2021/07/26/faria-majid.jpg"
+marks = "88.5% (ISC-HUM)"
+name = "RESHMA MARANDI"
+picture = "/uploads/2022/07/25/reshma-marandi-xii.JPG"
 [[topper]]
 marks = "97.3% (ISC)"
 name = "PRIYA BHARTI"
