@@ -6,9 +6,9 @@ title = "RAKHI MAKING COMPETITION, 2022"
 type = ""
 
 +++
-Rakhi making Competition was held on 8th August, 2022 on the occasion of Raksha Bandhan . All the students from class VI to XII participated with great zeal and zest in the creative Competition. The Competition saw a number of creative and multi-coloured Rakhi being made by the students. 
+Rakhi making Competition was held on 8th August, 2022 on the occasion of Raksha Bandhan . All the students from class VI to XII participated with great zeal and zest in the creative Competition. The Competition saw a number of creative and multi-coloured Rakhi being made by the students.
 
-The children made beautiful Rakhis using ribbon, glitter papers, pictures of cartoon characters, ribbons, ice-cream sticks, biscuit and doris.Their artisanship was quite fascinating and children thoroughly enjoyed this activity that tickled their creativity. The designs were so creative and fascinating that it was very difficult to come out with a single winners’ list. 
+The children made beautiful Rakhis using ribbon, glitter papers, pictures of cartoon characters, ribbons, ice-cream sticks, biscuit and doris.Their artisanship was quite fascinating and children thoroughly enjoyed this activity that tickled their creativity. The designs were so creative and fascinating that it was very difficult to come out with a single winners’ list.
 
 Winning students were felicitated by Principal Sir.
 
@@ -41,3 +41,5 @@ The winners are:-
 **From Class:- XII**
 
 1\. Aliya Aslam, 2. Nitish Kumar, 3. Md. Arman Maniyar
+
+![](/uploads/2022/08/11/20220810_115911.jpg)![](/uploads/2022/08/11/20220810_114427.jpg)![](/uploads/2022/08/11/20220810_111439.jpg)![](/uploads/2022/08/11/20220810_111455.jpg)![](/uploads/2022/08/11/20220810_113411.jpg)![](/uploads/2022/08/11/img-20220810-wa0010.jpg)![](/uploads/2022/08/11/img-20220810-wa0015.jpg)![](/uploads/2022/08/11/img-20220810-wa0012.jpg)![](/uploads/2022/08/11/img-20220810-wa0011.jpg)![](/uploads/2022/08/11/img-20220810-wa0013.jpg)![](/uploads/2022/08/11/img-20220810-wa0014.jpg)![](/uploads/2022/08/11/img-20220810-wa0014.jpg)![](/uploads/2022/08/11/img-20220810-wa0016.jpg)
