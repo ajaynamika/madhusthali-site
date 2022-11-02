@@ -54,6 +54,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/events/premier-school-exhibition-12-13-nov.2022.md
 - content/news/children-s-day-celebration.md
 - content/news/colouring-drawing-competition.md
 - content/news/inter-house-hindi-recitation-competition.md
