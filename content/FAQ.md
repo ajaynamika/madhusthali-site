@@ -6,11 +6,11 @@ draft = true
 keywords = ""
 layout = ""
 tags = []
-title = ""
+title = "FAQ"
 type = ""
 
 +++
-**FAQ’S FOR THE SCHOOL PROSPECTUS AND WEBSITE**
+**FAQ’S** 
 
 **When does the academic year begin?**
 
@@ -52,7 +52,7 @@ You will find the best answers to all the above questions in Madhusthali Vidyape
 
 **What does the School expect from the parents?**
 
-Madhusthali firmly believes that home and school complement each other. Therefore, the School expects the parents to 
+Madhusthali firmly believes that home and school complement each other. Therefore, the School expects the parents to
 
 Accept responsibility for their children’s behaviour inside the school as well as outside it.
 
