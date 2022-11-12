@@ -43,4 +43,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/FAQ.md
 - content/about/managing-trustee-message.md
