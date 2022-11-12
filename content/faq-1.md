@@ -58,15 +58,11 @@ You will find the best answers to all the above questions in Madhusthali Vidyape
 
 Madhusthali firmly believes that home and school complement each other. Therefore, the School expects the parents to
 
-Accept responsibility for their children’s behaviour inside the school as well as outside it.
-
-Support the school’s curriculum.
-
-Be involved in their children’s education as far as possible.
-
-Encourage their children to participate in all the curricular and co-curricular activities.
-
-Accept the professional judgment of the School’s faculty.
+1. Accept responsibility for their children’s behaviour inside the school as well as outside it.
+2. Support the school’s curriculum.
+3. Be involved in their children’s education as far as possible.
+4. Encourage their children to participate in all the curricular and co-curricular activities.
+5. Accept the professional judgment of the School’s faculty.
 
 **May we know something about people who run the school: the teachers, the Managing Committee and the Advisory Board?**
 
