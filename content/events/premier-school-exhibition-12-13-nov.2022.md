@@ -1,8 +1,8 @@
 +++
 banner = "images/default_banner.jpg"
-date = ""
+date = 2022-11-11T18:30:00Z
 description = ""
-end_date = ""
+end_date = 2022-11-12T18:30:00Z
 images = ["images/default_banner.jpg"]
 keywords = ""
 start_date = 2022-11-11T18:30:00Z
