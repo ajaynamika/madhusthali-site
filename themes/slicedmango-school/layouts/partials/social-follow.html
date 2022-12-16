@@ -18,4 +18,9 @@
     <img src="{{ "images/youtube.png" | absURL }}"/>
   </a>
   {{ end }}
+  {{ with .Site.Params.instagram }}
+  <a href="{{ . }}" class="mr1 " title="Instagram link">
+    <img src="{{ "images/instagram.png" | absURL }}"/>
+  </a>
+  {{ end }}
 </div>
