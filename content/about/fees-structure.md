@@ -153,8 +153,6 @@ __*__Classes XI to XII = (Rs.5500.00+Rs.11000.00) x 12  = Rs.1,98,000.00
 
 **Accountable School Fee (Imprest A/C):-**
 
-* At the time of admission or in April every year a sum of ₹15,000.00 is required to be deposited in the Imprest Account. This account will cover expenses incurred by student for uniforms, pocket money, books, stationery, weekend exits, field trips and cultural / academic excursion, school tuck shop, medical expenses outside school, telephones, travel & ticketing expenses, exam expenses, board registration and exam fee for classes 9 to 12, sports expenses of personal nature, specialized coaching, fines and penalties, if any, etc. An accountable school fee
-
-account will be opened & maintained for all students, which is like a current account wherein all expenses incurred by the student will be posted and a detailed statement of which will be provided to the parents (If they desire to have it) at the end of each term.
+* At the time of admission or in April every year a sum of ₹15,000.00 is required to be deposited in the Imprest Account. This account will cover expenses incurred by student for uniforms, pocket money, books, stationery, weekend exits, field trips and cultural / academic excursion, school tuck shop, medical expenses outside school, telephones, travel & ticketing expenses, exam expenses, board registration and exam fee for classes 9 to 12, sports expenses of personal nature, specialized coaching, fines and penalties, if any, etc. An accountable school fee account will be opened & maintained for all students, which is like a current account wherein all expenses incurred by the student will be posted and a detailed statement of which will be provided to the parents (If they desire to have it) at the end of each term.
 
 ==================
