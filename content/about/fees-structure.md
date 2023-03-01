@@ -12,7 +12,7 @@ menu:
     weight: 8
 
 ---
-**FEES-STRUCTURE FOR DAY SCHOLARS STUDENTS: 2023-2024**
+**FEES STRUCTURE FOR DAY SCHOLARS STUDENTS: 2023-2024**
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
 
