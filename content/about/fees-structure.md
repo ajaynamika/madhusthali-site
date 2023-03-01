@@ -12,7 +12,7 @@ menu:
     weight: 8
 
 ---
-**FEES-STRUCTURE FOR DAY SCHOLARS: 2023-2024**
+**FEES-STRUCTURE FOR DAY SCHOLARS STUDENTS: 2023-2024**
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
 
@@ -56,7 +56,7 @@ menu:
 
 <td>Rs.4350.00</td> </tr> </table>
 
-**FEE STRUCTURE FOR DAY BOARDERS: 2023-24**
+**FEE STRUCTURE FOR DAY BOARDERS STUDENTS: 2023-24**
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Class V to VI</th> <th>Class VII to VIII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
 
@@ -130,11 +130,9 @@ menu:
 
 </table>
 
-__*__Classes III to VII = (Rs.4700.00 + Rs.10000.00) x 12  = Rs.1,76,400.00
-
-__*__Classes VIII to X = (Rs.5100.00 + Rs.10500.00) x 12  = Rs.1,87,200.00
-
-__*__Classes XI to XII = (Rs.5500.00+Rs.11000.00) x 12  = Rs.1,98,000.00
+* Classes III to VII = (Rs.4700.00 + Rs.10000.00) x 12  = Rs.1,76,400.00
+* Classes VIII to X = (Rs.5100.00 + Rs.10500.00) x 12  = Rs.1,87,200.00
+* Classes XI to XII = (Rs.5500.00+Rs.11000.00) x 12  = Rs.1,98,000.00
 
 **Mode of Payments:-**
 
