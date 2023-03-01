@@ -58,11 +58,11 @@ menu:
 
 **FEE STRUCTURE FOR DAY BOARDERS STUDENTS: 2023 - 2024**
 
-<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Class V to VI</th> <th>Class VII to VIII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
+<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Class V & VI</th> <th>Class VII & VIII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
 
 <td>Rs.10000.00</td>
 
- </tr>
+</tr>
 
 <tr>
 
@@ -70,7 +70,7 @@ menu:
 
 <td>Rs.5000.00</td><td>Rs.5000.00</td>
 
- </tr> 
+</tr>
 
 <tr> <td>4.</td> <td>Monthly Tution Fees + Extra Tutorial Charges (Every Month)</td>
 
@@ -78,7 +78,7 @@ menu:
 
 <td>Rs.4100.00</td>
 
-</tr> 
+</tr>
 
 <tr> <td>5.</td> <td>Meals (Every Month)</td>
 
@@ -86,7 +86,7 @@ menu:
 
 <td>Rs.3000.00</td>
 
- </tr>
+</tr>
 
 <tr> <td>5.</td> <td>Transportation (Every Month)</td>
 
@@ -94,15 +94,15 @@ menu:
 
 <td>Rs.850.00</td>
 
- </tr>
+</tr>
 
- <tr> <td></td> <td>Total (Monthly Fee + Meals + Bus Fee)</td>
+<tr> <td></td> <td>Total (Monthly Fee + Meals + Bus Fee)</td>
 
 <td>Rs.7950.00</td>
 
 <td>Rs.8950.00</td>
 
- </tr> </table>
+</tr> </table>
 
 **FEES STRUCTURE FOR RESIDENTIAL STUDENTS: 2023 - 2024**
 
@@ -136,12 +136,8 @@ menu:
 
 **Mode of Payments:-**
 
-* Parents are requested to pay the school fee by cash, at par cheque or crossed demand draft drawn on any bank in favour of "Madhusthali Vidyapeeth" payable at Kolkata/Madhupur on or before the last date. 
-
-
+* Parents are requested to pay the school fee by cash, at par cheque or crossed demand draft drawn on any bank in favour of "Madhusthali Vidyapeeth" payable at Kolkata/Madhupur on or before the last date.
 * Fee may also be deposited online by downloading the Application on your mobile phones using the following link: [https://play.google.com/store/apps/details?id=com.mcb.mckejriwalgroup](https://play.google.com/store/apps/details?id=com.mcb.mckejriwalgroup "https://play.google.com/store/apps/details?id=com.mcb.mckejriwalgroup") Or Log on to [https://mckvgroup.myclassboard.com](https://mckvgroup.myclassboard.com "https://mckvgroup.myclassboard.com")
-
-
 * All correspondence about bills/payments/balance of amount should be addressed to the Principal only.
 
 **Concessions :-**
