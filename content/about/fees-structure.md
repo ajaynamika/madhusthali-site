@@ -46,7 +46,7 @@ menu:
 
 <td>Rs.850.00</td>
 
-<td>Rs.850.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee + Bus Fee</td>
+<td>Rs.850.00</td> </tr> <tr> <td></td> <td>**Total Monthly Fee + Bus Fee**</td>
 
 <td>Rs.2850.00</td>
 
@@ -86,7 +86,7 @@ menu:
 
 <td>Rs.850.00</td>
 
-<td>Rs.850.00</td> </tr> <tr> <td></td> <td>Total (Monthly Fee + Meals + Transportation Fee)</td>
+<td>Rs.850.00</td> </tr> <tr> <td></td> <td>**Total (Monthly Fee + Meals + Transportation Fee)**</td>
 
 <td>Rs.7950.00</td>
 
@@ -106,7 +106,7 @@ menu:
 
 <tr>
 
-<td>Total Charges for the First Year</td>
+<td>**Total Charges for the First Year**</td>
 
 <td>Rs.2,07,150.00</td>
 
