@@ -44,15 +44,15 @@ menu:
 
 <td>Rs.850.00</td>
 
-<td>Rs.850.00</td> </tr> <tr> <td></td> <td>**Total Monthly Fee + Bus Fee**</td>
+<td>Rs.850.00</td> </tr> <tr> <td></td> <td>Total Monthly Fee + Bus Fee</td>
 
-<td>**Rs.2850.00**</td>
+<td>Rs.2850.00</td>
 
-<td>**Rs.3450.00**</td>
+<td>Rs.3450.00</td>
 
-<td>**Rs.3850.00**</td>
+<td>Rs.3850.00</td>
 
-<td>**Rs.4350.00**</td> </tr> </table>
+<td>Rs.4350.00</td> </tr> </table>
 
 **FEE STRUCTURE FOR DAY BOARDERS STUDENTS: 2023 - 2024**
 
@@ -84,11 +84,11 @@ menu:
 
 <td>Rs.850.00</td>
 
-<td>Rs.850.00</td> </tr> <tr> <td></td> <td>**Total (Monthly Fee + Meals + Transportation Fee)**</td>
+<td>Rs.850.00</td> </tr> <tr> <td></td> <td>Total (Monthly Fee + Meals + Transportation Fee)</td>
 
-<td>**Rs.7950.00**</td>
+<td>Rs.7950.00</td>
 
-<td>**Rs.8950.00**</td> </tr> </table>
+<td>Rs.8950.00</td> </tr> </table>
 
 **FEE STRUCTURE FOR RESIDENTIAL STUDENTS: 2023 - 2024**
 
@@ -104,13 +104,13 @@ menu:
 
 <tr>
 
-<td>**Total Charges for the First Year**</td>
+<td>Total Charges for the First Year</td>
 
-<td>**Rs.2,07,150.00**</td>
+<td>Rs.2,07,150.00</td>
 
-<td>**Rs.2,17,950.00**</td>
+<td>Rs.2,17,950.00</td>
 
-<td>**Rs.2,28,750.00**</td>
+<td>Rs.2,28,750.00</td>
 
 </tr>
 
