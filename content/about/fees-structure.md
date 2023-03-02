@@ -1,18 +1,16 @@
 ---
-title: Fees Structure
+title: Fee Structure
 date: 2020-04-01T10:36:42.000+00:00
 keywords: ''
 description: ''
 menu:
   main:
-    name: Fee Structure
     weight: 8
   footer:
-    name: Fee Structure
     weight: 8
 
 ---
-**FEES STRUCTURE FOR DAY SCHOLARS STUDENTS: 2023 - 2024**
+**FEE STRUCTURE FOR DAY SCHOLARS STUDENTS: 2023 - 2024**
 
 <table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Nur. to II</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI to XII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> <td>Rs.10000.00</td>
 
@@ -56,9 +54,9 @@ menu:
 
 <td>**Rs.4350.00**</td> </tr> </table>
 
-**FEES STRUCTURE FOR DAY BOARDERS STUDENTS: 2023 - 2024**
+**FEE STRUCTURE FOR DAY BOARDERS STUDENTS: 2023 - 2024**
 
-<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Class V & VI</th> <th>Class VII & VIII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td> 
+<table class="fees-table"> <tr> <th>SL.</th> <th>HEADS</th> <th>Class V & VI</th> <th>Class VII & VIII</th> </tr> <tr> <td>1.</td> <td>Prospectus & Registration (Once at the time of admission)</td> <td>Rs.500.00</td> <td>Rs.500.00</td> </tr> <tr> <td>2.</td> <td>Admission Fees (Once at the time of admission)</td>
 
 <td>Rs.10000.00</td>
 
@@ -80,9 +78,9 @@ menu:
 
 <td>Rs.3000.00</td>
 
-<td>Rs.3600.00</td> </tr> 
+<td>Rs.3600.00</td> </tr>
 
- <tr> <td>6.</td> <td>Transportation (Every Month)</td>
+<tr> <td>6.</td> <td>Transportation (Every Month)</td>
 
 <td>Rs.850.00</td>
 
@@ -92,7 +90,7 @@ menu:
 
 <td>**Rs.8950.00**</td> </tr> </table>
 
-**FEES STRUCTURE FOR RESIDENTIAL STUDENTS: 2023 - 2024**
+**FEE STRUCTURE FOR RESIDENTIAL STUDENTS: 2023 - 2024**
 
 <table class="fees-table"> <tr> <th>Particulars</th> <th>Class III to VII</th> <th>Class VIII to X</th> <th>Class XI & XII</th> </tr> <tr> <td>Cost of Prospectus & Registration Form</td> <td>Rs.750.00</td> <td>Rs.750.00</td> <td>Rs.750.00</td> </tr> <tr> <td>Admission Fee (paid at the time of admission only.</td><td>Rs.15,000.00</td> <td>Rs.15,000.00</td> <td>Rs.15,000.00</td> </tr> <tr> <td>Security Deposit (Refundable) Paid at the time of Admission</td><td>Rs.15,000.00</td> <td>Rs.15,000.00</td> <td>Rs.15,000.00</td> </tr> <tr> <td>Tution Fee, Boarding & Lodging*</td>
 
